@@ -155,6 +155,15 @@
   }
   .mark:hover { color: var(--text); border-color: var(--muted); }
 
+  .more-wrap { text-align: center; padding: 4px 0 8px; }
+  .more {
+    appearance: none; border: 1px solid var(--line); background: var(--card);
+    color: var(--text); border-radius: 10px; padding: 12px 24px;
+    font-size: 14px; font-family: inherit; cursor: pointer; width: 100%;
+    box-shadow: var(--shadow);
+  }
+  .more:hover { border-color: var(--accent); color: var(--accent); }
+
   .empty { text-align: center; color: var(--muted); padding: 48px 16px; font-size: 14px; }
 
   footer { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--line);
@@ -197,6 +206,7 @@
   </div>
 
   <ul class="list" id="list"></ul>
+  <div class="more-wrap"><button class="more" id="more" type="button" hidden></button></div>
   <div class="empty" id="empty" hidden>条件に合う記事がありません。</div>
 
   <footer>
@@ -268,7 +278,9 @@
   }
 
   // ---------- 画面の状態 ----------
-  var state = { q: "", cat: "", source: "", unreadOnly: false };
+  // 一度に描く件数。記事がたまっても動作が重くならないよう区切って表示する
+  var PAGE_SIZE = 60;
+  var state = { q: "", cat: "", source: "", unreadOnly: false, limit: PAGE_SIZE };
 
   var elList = document.getElementById("list");
   var elEmpty = document.getElementById("empty");
@@ -355,18 +367,36 @@
     render();
   }
 
+  var elMore = document.getElementById("more");
+
   function render() {
     var shown = ARTICLES.filter(matches);
+    var visible = shown.slice(0, state.limit);
+
     elList.textContent = "";
     var frag = document.createDocumentFragment();
-    shown.forEach(function (a) { frag.appendChild(buildItem(a)); });
+    visible.forEach(function (a) { frag.appendChild(buildItem(a)); });
     elList.appendChild(frag);
     elEmpty.hidden = shown.length > 0;
 
+    var rest = shown.length - visible.length;
+    elMore.hidden = rest <= 0;
+    if (rest > 0) {
+      elMore.textContent = "さらに表示 (あと " + rest + " 件)";
+    }
+
     var unread = shown.filter(function (a) { return !readSet.has(a.id); }).length;
-    elCount.textContent = shown.length + " 件を表示中 (未読 " + unread + " 件) / 全 " +
-                          ARTICLES.length + " 件";
+    elCount.textContent = shown.length + " 件中 " + visible.length + " 件を表示 (未読 " +
+                          unread + " 件) / 全 " + ARTICLES.length + " 件";
   }
+
+  elMore.addEventListener("click", function () {
+    state.limit += PAGE_SIZE;
+    render();
+  });
+
+  // 絞り込みや検索をやり直したら、表示件数を先頭に戻す
+  function resetLimit() { state.limit = PAGE_SIZE; }
 
   // ---------- 操作パネルの組み立て ----------
   var elCats = document.getElementById("cats");
@@ -380,6 +410,7 @@
     b.setAttribute("aria-pressed", String(cat === state.cat));
     b.addEventListener("click", function () {
       state.cat = cat;
+      resetLimit();
       Array.prototype.forEach.call(elCats.children, function (c) {
         c.setAttribute("aria-pressed", String(c === b));
       });
@@ -409,15 +440,20 @@
     if (state.source && names.indexOf(state.source) === -1) { state.source = ""; }
     elSource.value = state.source;
   }
-  elSource.addEventListener("change", function () { state.source = elSource.value; render(); });
+  elSource.addEventListener("change", function () {
+    state.source = elSource.value; resetLimit(); render();
+  });
 
   var elQ = document.getElementById("q");
-  elQ.addEventListener("input", function () { state.q = elQ.value.trim(); render(); });
+  elQ.addEventListener("input", function () {
+    state.q = elQ.value.trim(); resetLimit(); render();
+  });
 
   var elUnread = document.getElementById("unread-only");
   elUnread.addEventListener("click", function () {
     state.unreadOnly = !state.unreadOnly;
     elUnread.setAttribute("aria-pressed", String(state.unreadOnly));
+    resetLimit();
     render();
   });
 
