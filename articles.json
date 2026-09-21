@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T17:49:07+09:00",
- "new_articles": 215,
+ "generated_at": "2026-09-21T17:52:29+09:00",
+ "new_articles": 63,
  "feeds": [
   {
    "name": "Claude Code リリースノート (公式)",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Anthropic 稼働状況 (公式)",
@@ -18,7 +18,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Claude ニュース検索 (日本語)",
@@ -26,8 +26,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 40,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 23,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Claude Code ニュース検索 (日本語)",
@@ -35,8 +35,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 40,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 1,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Anthropic ニュース検索 (英語)",
@@ -44,8 +44,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 40,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 9,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Zenn - Claude Code (使い方・工夫)",
@@ -53,8 +53,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 16,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Zenn - Claude (使い方・工夫)",
@@ -62,8 +62,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 5,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 3,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Qiita - Claude (使い方・工夫)",
@@ -71,8 +71,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 4,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Qiita - ClaudeCode (使い方・工夫)",
@@ -80,8 +80,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 2,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Anthropic ブログ (非公式RSS配信)",
@@ -90,7 +90,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Microsoft 365 ブログ (公式)",
@@ -99,7 +99,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Microsoft Copilot ブログ (公式)",
@@ -108,7 +108,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Microsoft 365 ロードマップ (公式・近日公開の機能)",
@@ -117,7 +117,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Microsoft 365 Copilot ニュース検索 (日本語)",
@@ -126,7 +126,7 @@
    "ok": true,
    "error": null,
    "new": 1,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Microsoft 365 Copilot ニュース検索 (英語)",
@@ -134,8 +134,8 @@
    "category": "copilot",
    "ok": true,
    "error": null,
-   "new": 1,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Zenn - Microsoft 365 Copilot",
@@ -144,7 +144,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "OpenAI ニュース (公式)",
@@ -152,8 +152,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 18,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Google AI ブログ (公式)",
@@ -162,7 +162,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Google Gemini ブログ (公式)",
@@ -171,7 +171,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Google DeepMind ブログ (公式)",
@@ -180,7 +180,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "ITmedia AI＋ (日本語)",
@@ -189,7 +189,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "TechCrunch AI (英語)",
@@ -198,7 +198,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "The Verge AI (英語)",
@@ -207,7 +207,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Publickey (日本語・AI関連のみ)",
@@ -216,7 +216,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "GIGAZINE (日本語・AI関連のみ)",
@@ -224,8 +224,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 1,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "ASCII.jp (日本語・AI関連のみ)",
@@ -233,8 +233,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 7,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 0,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "クラウド Watch (日本語・AI関連のみ)",
@@ -243,7 +243,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "生成AI ニュース検索 (日本語)",
@@ -251,8 +251,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 40,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "new": 26,
+   "checked_at": "2026-09-21T17:52:29+09:00"
   },
   {
    "name": "Simon Willison (LLMの実践的な話題・英語)",
@@ -261,7 +261,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-09-21T17:49:07+09:00"
+   "checked_at": "2026-09-21T17:52:29+09:00"
   }
  ],
  "articles": [
@@ -2905,6 +2905,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "2c60733d3337",
+   "title": "【コピペOK】Claude Code の permissions おすすめ設定と、allow / ask / deny の分け方",
+   "url": "https://zenn.dev/tmasuyama1114/articles/claude_code_permissions_recommended",
+   "url_key": "https://zenn.dev/tmasuyama1114/articles/claude_code_permissions_recommended",
+   "title_key": "【コピペok】claudecodeのpermissionsおすすめ設定とallowaskdenyの分け方",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-09-20T05:38:09+09:00",
+   "date_estimated": false,
+   "summary": "settings.json の permissions は、Claude Code に確認なしで実行させる操作と、止めたい操作を書く場所です。 ただ、どこまで許してよいかの基準がないと、空のままにするか、誰かの設定を貼ったままになりがちです。 この記事は、その基準になる allow / ask / deny の分け方と、そのまま貼れるおすすめ設定をまとめたものです。 忙しい人のための要約 設定を貼って使い始めるだけなら、次の点を押さえれ…",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "b373a8777498",
    "title": "データを無断で暗号化し使用者に身代金を要求する詐欺に用いられるマルウェアとは？：生成AIパスポート試験 出張版 - TechTargetジャパン",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EWHE0NnBWUmtzMHlvbnJGUXVvVklqWVFOTWdBakR1UkFsTVdod1RMQ3Bvemt0SHJFaTg5MWNsZzU1ZTV6YnpiajVzLUpDOGk4cm9GYnpLS3I3WUI3NlJIMDlXaVNWdS1tbVJNVGc0VC0?oc=5",
@@ -2957,6 +2970,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "ad5ff6551dc4",
+   "title": "概念図・ER図・画面を1つのデータから描く「モデルキャンバス」を自作した",
+   "url": "https://zenn.dev/zutto_nemutai/articles/fafa00f2a1b800",
+   "url_key": "https://zenn.dev/zutto_nemutai/articles/fafa00f2a1b800",
+   "title_key": "概念図er図画面を1つのデタから描くモデルキャンバスを自作した",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-09-20T02:31:08+09:00",
+   "date_estimated": false,
+   "summary": "概念図・ER図・画面を1つのデータから描く「モデルキャンバス」を自作した 前回の記事で、デザインを作るときのAI利用フローについて書きました。今回はその続きで、勢い余ってツールを1個自作した話です。 きっかけはXで見かけたこちらの投稿でした。デザインデータと概念図とER図を同じキャンバスで行き来する自作Skillの紹介で、「上流から入るデザイナーが一番欲しいやつでは？」と思い、Claudeと一緒に自分版を作ってみました。 https:/…",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "0080ce44a56c",
    "title": "Google’s Gemini is the latest AI model to hack other companies",
    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
@@ -2994,6 +3020,19 @@
    "date_estimated": false,
    "summary": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "20dbab1a651a",
+   "title": "リファクタで挙動が変わった60件、そして「たまたま」検知されなかった数件——消費税率変更に備えたゴールデンマスターテストの実務ノート",
+   "url": "https://zenn.dev/yuninaka/articles/characterization-testing-blind-spot",
+   "url_key": "https://zenn.dev/yuninaka/articles/characterization-testing-blind-spot",
+   "title_key": "リファクタで挙動が変わった60件そしてたまたま検知されなかった数件消費税率変更に備えたゴルデンマスタテストの実務ノト",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-09-20T02:07:05+09:00",
+   "date_estimated": false,
+   "summary": "1. はじめに 消費税率変更のような、頻繁に改正が入る制度対応のテスト工程を任されるとしたら、どう備えるか。この手の案件で必ず出てくるのが、「税額計算のロジックは、当時の担当者しか経緯を知らないレガシーコードに埋まっている」という状況だ。仕様書はなく、テストもない。触れば動くので誰も触っていない。だが税率が変わる以上、いつかは触らざるを得ない。 こういうコードに手を入れる前提として、まず「保護テスト基盤」を作っておきたい。改修前の挙動を…",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "17f3f8144446",
@@ -4842,6 +4881,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "54779caa1b80",
+   "title": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NYThlTEd6QXlVVzdEdy1yY1o1X21tNnl0c3F3WTZpNEdOOWo0TG9wbGMtWC1fdU1fYXhNWUx4N0lhQ01VV25XeUE3azVTa0hWZlktRWx6dXJPMVEyWk9WOElqUXJ1dThIUnc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NYThlTEd6QXlVVzdEdy1yY1o1X21tNnl0c3F3WTZpNEdOOWo0TG9wbGMtWC1fdU1fYXhNWUx4N0lhQ01VV25XeUE3azVTa0hWZlktRWx6dXJPMVEyWk9WOElqUXJ1dThIUnc?oc=5",
+   "title_key": "ゲム開発者の生成ai活用が8割超にcesaが初調査業務効率化に最大の期待itmedia",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-18T13:43:35+09:00",
+   "date_estimated": false,
+   "summary": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待 ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "b6266c941d10",
    "title": "OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5 - VentureBeat",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEZZeGktN1g3SEdtT0hCbHZoT1gyUHpnZ1NEMDJaY05pRzdLeDVBeVBKS1dyaVFGUEx1a04tUzFGNWh6MER2SXJpU0hLSGZpQVVmU0g5T29aU1JrRVpnb2hFcElWX1N0bFlta2lTZU5jbnlPbmw1MjVMVUhoUmc3QmFzUVlJU1BzS2s5amFsekFCWC0zUzNSdDRCZzFzVjZyTVVoSmdsNXJwZlBhWDhxbnFTMkR2VXlyZERaYm1yT3QxZU0?oc=5",
@@ -4920,6 +4972,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "3df0b2ee8aa0",
+   "title": "【N高グループ生徒会】応募総数3,411件！Googleの生成AI「Gemini」を活用した『Gemini-1グランプリ』を開催しました - nnn.ed.jp",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSjZ0WjBzb244UlJCb1pQVFBlZjVLVlpCTWhRSk9pUzNrbXAxYlhEeElVZHVVRzdMS2JycUF5R1NVelFXUk1adQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSjZ0WjBzb244UlJCb1pQVFBlZjVLVlpCTWhRSk9pUzNrbXAxYlhEeElVZHVVRzdMS2JycUF5R1NVelFXUk1adQ?oc=5",
+   "title_key": "【n高グルプ生徒会】応募総数3411件！googleの生成aigeminiを活用した『gemini1グランプリ』を開催しましたnnnedjp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-18T12:36:47+09:00",
+   "date_estimated": false,
+   "summary": "【N高グループ生徒会】応募総数3,411件！Googleの生成AI「Gemini」を活用した『Gemini-1グランプリ』を開催しました nnn.ed.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "5ce6b5494287",
    "title": "Anthropic、AI開発ペースを測る3指標を公開 - ai.watch.impress.co.jp",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UajdsOGVhZWQ5UU03VDloV2hwSU1UV2NLOFlUd2FEZXRXNk5Gb3liRVFnUVVDRS1fb0xZb1J5akdFZXFNaWdwaXB3S2lCNlZXS1FmcWVtQkcyWW1FTEhsS01aVQ?oc=5",
@@ -4970,6 +5035,32 @@
    "date_estimated": false,
    "summary": "What's changed Fixed every request failing with 400 … Input tag 'advisor_20260301' when ANTHROPIC_BASE_URL points at a proxy or gateway (2.1.275 regression)",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "2287e0af77d2",
+   "title": "自民党のAI検索も対策、生成AIで自社がどう回答されるか分析するQueryLiftJがJAFCOとZVCから1億円シード調達 - BRIDGE（ブリッジ）",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rNENuNzluOXFRblA2RDJQY0o3c05TYVdCa0YxcDR4Ynl3RFplanBoQXdJRHNtajAwUGduOHZVTVJmTWpBSEE3bW4tSjNfLTNLRlY5S3d3TmNnTmtMRVI1ZGFDSXc3QkQ1dHN0OHZpYmV5c00?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rNENuNzluOXFRblA2RDJQY0o3c05TYVdCa0YxcDR4Ynl3RFplanBoQXdJRHNtajAwUGduOHZVTVJmTWpBSEE3bW4tSjNfLTNLRlY5S3d3TmNnTmtMRVI1ZGFDSXc3QkQ1dHN0OHZpYmV5c00?oc=5",
+   "title_key": "自民党のai検索も対策生成aiで自社がどう回答されるか分析するqueryliftjがjafcoとzvcから1億円シド調達bridge（ブリッジ）",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-18T11:12:01+09:00",
+   "date_estimated": false,
+   "summary": "自民党のAI検索も対策、生成AIで自社がどう回答されるか分析するQueryLiftJがJAFCOとZVCから1億円シード調達 BRIDGE（ブリッジ）",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "7b6d4aca647b",
+   "title": "AIとコンピュータ・シミュレーションで創薬の可能性を広げる－大上雅史 - isct.ac.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16eXBhZFpRTXVoLWM4cEU5eFlPRThPaURtRGI1NHY4VEhvdnRxMGFDSmdsd1hTMnZkUFllbTFPdXJGdGFZOURzZmlIaTVHYWJYcDgxa0h3?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16eXBhZFpRTXVoLWM4cEU5eFlPRThPaURtRGI1NHY4VEhvdnRxMGFDSmdsd1hTMnZkUFllbTFPdXJGdGFZOURzZmlIaTVHYWJYcDgxa0h3?oc=5",
+   "title_key": "aiとコンピュタシミュレションで創薬の可能性を広げる－大上雅史isctacjp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-18T11:10:41+09:00",
+   "date_estimated": false,
+   "summary": "AIとコンピュータ・シミュレーションで創薬の可能性を広げる－大上雅史 isct.ac.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "21aaa2d668a8",
@@ -5152,6 +5243,19 @@
    "date_estimated": false,
    "summary": "Anthropic Claude AI Predicts an Explosive Finish to 2026 for XRP Cryptonews",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "e4df46bfd2b8",
+   "title": "「AI画像」はなぜ炎上するのか 「絵だけ」叩かれる理由は？ #エキスパートトピ（岡田有花） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVdBeGZYMWFjdjRnZFlwbUtnVExid2diMFlBbFBpVzJ0WGVIVWM3TjRXU0FSdDNhSU9VbnVWbmgtTlFNejNQdG0yaE5pUHRjT2djdFEzMjFjYU9wWURQZFh3bFBNX1lkaFI1NENEeTRtV0F6aGJFTUFEUTYwUk44UXV5WE9hbHB5?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVdBeGZYMWFjdjRnZFlwbUtnVExid2diMFlBbFBpVzJ0WGVIVWM3TjRXU0FSdDNhSU9VbnVWbmgtTlFNejNQdG0yaE5pUHRjT2djdFEzMjFjYU9wWURQZFh3bFBNX1lkaFI1NENEeTRtV0F6aGJFTUFEUTYwUk44UXV5WE9hbHB5?oc=5",
+   "title_key": "ai画像はなぜ炎上するのか絵だけ叩かれる理由は？エキスパトトピ（岡田有花）エキスパトyahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-18T07:40:09+09:00",
+   "date_estimated": false,
+   "summary": "「AI画像」はなぜ炎上するのか 「絵だけ」叩かれる理由は？ #エキスパートトピ（岡田有花） - エキスパート Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "965bd319e890",
@@ -5440,6 +5544,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "b37cc6cfb42e",
+   "title": "『東方紅魔郷：New Classic』制作での生成AI使用について上海アリスRepriseが声明―制作ツール搭載のAI機能を一部活用 - gamespark.jp",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zNmJySVFsZW1WUEhMcUl6SWxST0MwdW0zWnZsNmNPY0RBdFlKNnBDMG5hWXItVnFNeVdKcU85YlhBemI0cGl0bkJnS3NqSXhmejY1NjBCaDB2UjBrLTBNVDMzSlhydw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zNmJySVFsZW1WUEhMcUl6SWxST0MwdW0zWnZsNmNPY0RBdFlKNnBDMG5hWXItVnFNeVdKcU85YlhBemI0cGl0bkJnS3NqSXhmejY1NjBCaDB2UjBrLTBNVDMzSlhydw?oc=5",
+   "title_key": "『東方紅魔郷：newclassic』制作での生成ai使用について上海アリスrepriseが声明―制作ツル搭載のai機能を一部活用gamesparkjp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-17T21:15:03+09:00",
+   "date_estimated": false,
+   "summary": "『東方紅魔郷：New Classic』制作での生成AI使用について上海アリスRepriseが声明―制作ツール搭載のAI機能を一部活用 gamespark.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "c4235b569e08",
    "title": "Causaly is Now Available in Microsoft Copilot - PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGV5SjRzaVdXZHpBWFllSVVZdUFRRG5vV09fNWJmVVRqekc1SFNIMFN6OTNVMjM3bVBrR2FhV3JhVlRHZWhIRFlBcVhyeDhqc1F0OV9ET2R1d21rZ3huREFJTUdQSTgzeVlUUHdWZFVFRjNwbUhEeEM4YmwwUFRhWWEzcDRiTWs1OTByejlBdlY2MHhvVG9FYnhwazJMdDNnb0E4?oc=5",
@@ -5544,6 +5661,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "de0e35eb43dd",
+   "title": "生成AIが広げる貧富の差 「人にしかできない仕事をやれ」の無責任 - 日経ビジネス電子版",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzUjAwa0MybkFXVjZiRjdxaHFKQi1fN01NYnAyTHpDOFRXOW5ZeUZzRHIxRUR1Uzhza1NUcnZWd3RoVnM4ZlI1WUJlSjZrdlRJbWF1bjQ4YzkzOWtrMVVWQ1BDX1hPWWc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzUjAwa0MybkFXVjZiRjdxaHFKQi1fN01NYnAyTHpDOFRXOW5ZeUZzRHIxRUR1Uzhza1NUcnZWd3RoVnM4ZlI1WUJlSjZrdlRJbWF1bjQ4YzkzOWtrMVVWQ1BDX1hPWWc?oc=5",
+   "title_key": "生成aiが広げる貧富の差人にしかできない仕事をやれの無責任日経ビジネス電子版",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-17T17:00:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AIが広げる貧富の差 「人にしかできない仕事をやれ」の無責任 日経ビジネス電子版",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "aeb429120408",
    "title": "S＆J、多様なセキュリティログを集約・長期保管できる「CSIRT-Pro」を提供",
    "url": "https://cloud.watch.impress.co.jp/docs/news/2141467.html",
@@ -5609,6 +5739,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "f69bb3d0a4ff",
+   "title": "ゲーム開発者9割、業務に生成AI利用 CESA調査 - nikkei.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bd2ZCVkpOMXFfOGNwRS1qSW1WbG8xVEVfQ3ItVk15am5NSmszaThpamxoU2lNaUlqbGhNOGFubjRYd2YtSC1ISlhDT1NQaV80NUxwTFdNMHhZM1k1SGJKcHV5S0w5UXVDWjU3dQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bd2ZCVkpOMXFfOGNwRS1qSW1WbG8xVEVfQ3ItVk15am5NSmszaThpamxoU2lNaUlqbGhNOGFubjRYd2YtSC1ISlhDT1NQaV80NUxwTFdNMHhZM1k1SGJKcHV5S0w5UXVDWjU3dQ?oc=5",
+   "title_key": "ゲム開発者9割業務に生成ai利用cesa調査nikkeicom",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-17T10:52:49+09:00",
+   "date_estimated": false,
+   "summary": "ゲーム開発者9割、業務に生成AI利用 CESA調査 nikkei.com",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "f1514df94080",
    "title": "Anthropic、「Claude」のチャットと「Cowork」を統合 - ZDNET Japan",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2cWVCNTJEY0o5LWplZWRielVzWG9uN3dsX3d4VEo1WnlBNXNiNEVKUlhzRktrVENTYmphN0N5UU03a0Y2X25OOXc2RGo3Z245V0Qw?oc=5",
@@ -5646,6 +5789,19 @@
    "date_estimated": false,
    "summary": "What's changed Added a visible warning when memory usage is critical, with steps to free memory or restart safely Added CLAUDE_CODE_MCP_STARTUP_WAIT_MS to bound how long the first non-interactive turn waits for connectin…",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "23ce50d19957",
+   "title": "生成AIで商品選び、なぜ「人」が求められる？ 購入後に6割がモヤモヤ（1/2 ページ） - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDYzctOHE3dlowVUxlVV9oWE5kSzloU3VVS0lFRFQxOC03cWQyTVY1cWZxY1NoRlhhNDJ2NzNLYWk3YkFNZlFya05DZjlBUUZya1FFa1g0NGhJOWt2anhCdVhKZlBseTJ1WWVUc1FQaGtxUQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDYzctOHE3dlowVUxlVV9oWE5kSzloU3VVS0lFRFQxOC03cWQyTVY1cWZxY1NoRlhhNDJ2NzNLYWk3YkFNZlFya05DZjlBUUZya1FFa1g0NGhJOWt2anhCdVhKZlBseTJ1WWVUc1FQaGtxUQ?oc=5",
+   "title_key": "生成aiで商品選びなぜ人が求められる？購入後に6割がモヤモヤ（12ペジ）itmedia",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-17T09:01:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AIで商品選び、なぜ「人」が求められる？ 購入後に6割がモヤモヤ（1/2 ページ） ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "6135ef1a19c4",
@@ -5765,6 +5921,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "df1989cce69a",
+   "title": "「Claude」も「エージェント型コマース」へ本格参入、Anthropicが提示する「EC事業者＆消費者」向け2つのAI活用モデルとは - ネットショップ担当者フォーラム",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50RThyQWNTVXRacjd4WWM3MENWaFFNejhYamRfQTcxQVpSRFdHUWJ0QW95Q212YmFwYnJJUmo4d3FGTFdLNktmOEI5N0hNVlBuUVNscUViSkY5SVhZ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50RThyQWNTVXRacjd4WWM3MENWaFFNejhYamRfQTcxQVpSRFdHUWJ0QW95Q212YmFwYnJJUmo4d3FGTFdLNktmOEI5N0hNVlBuUVNscUViSkY5SVhZ?oc=5",
+   "title_key": "claudeもエジェント型コマスへ本格参入anthropicが提示するec事業者＆消費者向け2つのai活用モデルとはネットショップ担当者フォラム",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-17T07:00:00+09:00",
+   "date_estimated": false,
+   "summary": "「Claude」も「エージェント型コマース」へ本格参入、Anthropicが提示する「EC事業者＆消費者」向け2つのAI活用モデルとは ネットショップ担当者フォーラム",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "ee2ff182ee0d",
    "title": "【解説】なぜClaude Codeはすぐ上限に達するのか？ - newspicks.com",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NWTB3M21LYWR6dk1ZSEtUcmdFVlprVmpkbGV5dkFQT20wWTdpV2ppVG40RHQtUmFONVlCVWlaNUFwaG9jTFNQWjc5b0RQeUIwWDFKSnZ3?oc=5",
@@ -5828,6 +5997,19 @@
    "date_estimated": false,
    "summary": "(2/5)Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選 ビジネス+IT",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "4d82cd35fe8d",
+   "title": "生成AI×DXで「情報システムがゴミ屋敷」に、生産性向上に潜む罠 - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ydkp2dlNTdlVvNTI3Z25JX25RaldHOS0xMlM0Ykl5eUV4RnNGRzhIWmlSYmZCYnlaaHp4d19KeDRFYW9HS2w0cC04TFg1QzJGcTY0cWplQ0M1bGNhR0N0MzQ1a1R4ZlpjMUpLOA?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ydkp2dlNTdlVvNTI3Z25JX25RaldHOS0xMlM0Ykl5eUV4RnNGRzhIWmlSYmZCYnlaaHp4d19KeDRFYW9HS2w0cC04TFg1QzJGcTY0cWplQ0M1bGNhR0N0MzQ1a1R4ZlpjMUpLOA?oc=5",
+   "title_key": "生成ai×dxで情報システムがゴミ屋敷に生産性向上に潜む罠日経クロステック",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-17T05:00:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AI×DXで「情報システムがゴミ屋敷」に、生産性向上に潜む罠 日経クロステック",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "d89426306024",
@@ -5999,6 +6181,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "88373a4aca69",
+   "title": "「生成AIで映画制作」は浸透する？AI企業CEOが語る「実写映画に取って代わるつもりはない」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUmxzNTFobUFoUE9YdmtnTjlLU0lBNGMyQmNGdE9NMkpCbERkRDFINkJpM1hVOGlNT1NsQlJlS0k2S3NITkJsS1gtVUFpTUQ2Q3ROUm1mcDdEeTBfUVlxTnQtSXlHMDdpTEpiMkpCYThZUmk3UmlJbDdBeEh3NGs?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUmxzNTFobUFoUE9YdmtnTjlLU0lBNGMyQmNGdE9NMkpCbERkRDFINkJpM1hVOGlNT1NsQlJlS0k2S3NITkJsS1gtVUFpTUQ2Q3ROUm1mcDdEeTBfUVlxTnQtSXlHMDdpTEpiMkpCYThZUmk3UmlJbDdBeEh3NGs?oc=5",
+   "title_key": "生成aiで映画制作は浸透する？ai企業ceoが語る実写映画に取って代わるつもりはないyahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-16T21:42:28+09:00",
+   "date_estimated": false,
+   "summary": "「生成AIで映画制作」は浸透する？AI企業CEOが語る「実写映画に取って代わるつもりはない」 Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "9e6c37fa27bc",
    "title": "米Anthropicが財務アドバイザー向けAI「Claude for Financial Advisors」を発表 (ビジネス＋IT) - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMWtEZVI5MlN2c1lfLUJudVZ4VEVWWFprdk03UHVGc2VSaEM5TUxsTHJtTEJWWkJ3ZGRNRGZZcWVWV28tTHliTk1ZN0VUSWw1R2t1U3g1bnJ1T2REdnNiNzg2ejViOWhpUk8yYzhkWTVXN2gtam5zOVdXTy1NU05SY3hkQk91VnBrMUF5VGtB?oc=5",
@@ -6038,6 +6233,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "a80436b2504d",
+   "title": "イー・ガーディアン、生成AIによる権利侵害を監視 IPや芸能人向け - nikkei.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mcWdCN2NXdkN4UWJqNENGRXRrMHJvc2F3RGUzQWtFaGZLUTE2aHo2RFhxTzBmMFhLeklnRzctUzl0VXZMZzdva2JyX21fUWJTY05XQzdxa0NxcUlwdFVScDlOSWVSQW1VVmFnTw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mcWdCN2NXdkN4UWJqNENGRXRrMHJvc2F3RGUzQWtFaGZLUTE2aHo2RFhxTzBmMFhLeklnRzctUzl0VXZMZzdva2JyX21fUWJTY05XQzdxa0NxcUlwdFVScDlOSWVSQW1VVmFnTw?oc=5",
+   "title_key": "イガディアン生成aiによる権利侵害を監視ipや芸能人向けnikkeicom",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-16T19:36:19+09:00",
+   "date_estimated": false,
+   "summary": "イー・ガーディアン、生成AIによる権利侵害を監視 IPや芸能人向け nikkei.com",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "71646fffd914",
    "title": "How workers are unlocking new ways of working",
    "url": "https://openai.com/index/unlocking-new-ways-of-working",
@@ -6049,6 +6257,19 @@
    "date_estimated": false,
    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "a8151bca7c0b",
+   "title": "ローソン、生成AI発案商品を発売 スイーツやサラダなど3品目 - nikkei.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZHl5eUFVVTBjVlB2X2llckNmWThXOXBoVVBGTFpVcC1TSFoxclo3ME9rX2dGXzNFNEw0SUxkVHg2NzNwamZGaUhzV0dfa3F1UGQ2Q2hLZDVfVUI0N0pycFp1QnNXQzY1SDRNYQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZHl5eUFVVTBjVlB2X2llckNmWThXOXBoVVBGTFpVcC1TSFoxclo3ME9rX2dGXzNFNEw0SUxkVHg2NzNwamZGaUhzV0dfa3F1UGQ2Q2hLZDVfVUI0N0pycFp1QnNXQzY1SDRNYQ?oc=5",
+   "title_key": "ロソン生成ai発案商品を発売スイツやサラダなど3品目nikkeicom",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-16T17:42:43+09:00",
+   "date_estimated": false,
+   "summary": "ローソン、生成AI発案商品を発売 スイーツやサラダなど3品目 nikkei.com",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "c542621a4d99",
@@ -6088,6 +6309,32 @@
    "date_estimated": false,
    "summary": "ＰＲ ＴＩＭＥＳ[3922]：AIをどう広報・PRに活用する？Anthropic日本広報責任者とメディアゲストが全国5都市に登壇決定、PR TIMESカレッジVol.11の全プログラムを公開 2026年9月16日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "c58752d87cab",
+   "title": "生成AI時代を生きる 親子で学ぶ 「自分らしい」キャリアセミナー - city.adachi.tokyo.jp",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91MTJ6S2hadUlOMVFuWDdzMk9IbHRMbXRWRVNmc3RkWElvRnc0aS0tRGZDc1FScE9vWGNPLXZMQ283UHppLTJ2ZWtmeUkxMUxGd2hQV05JYkk4aW1lY3FvRmdIa1ZjLXk0ZzhLMFJTMEp4RzREb0YybDY5MA?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91MTJ6S2hadUlOMVFuWDdzMk9IbHRMbXRWRVNmc3RkWElvRnc0aS0tRGZDc1FScE9vWGNPLXZMQ283UHppLTJ2ZWtmeUkxMUxGd2hQV05JYkk4aW1lY3FvRmdIa1ZjLXk0ZzhLMFJTMEp4RzREb0YybDY5MA?oc=5",
+   "title_key": "生成ai時代を生きる親子で学ぶ自分らしいキャリアセミナcityadachitokyojp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-16T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AI時代を生きる 親子で学ぶ 「自分らしい」キャリアセミナー city.adachi.tokyo.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "1dd61f8fcde0",
+   "title": "グーグル×ファナック、生成AIで「ゼロ教示」溶接…図面読む新ロボットを12月出荷開始（ビジネス＋IT） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UEI2cGZyTWhzMTRaOG42N2JlY2tYaGVKck03SGF5UUhrejhVT09xLVFQUmpfVmZMaVk0ZzcxLXU0bG93NFlMb1Y2aDlrcXg0aGRxcDJEYUFyaXlkMWY0V1FZRVNFMmNyUFJ5V3FKd0Y0Wmd5S2Q3cWE2elk4R1k?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UEI2cGZyTWhzMTRaOG42N2JlY2tYaGVKck03SGF5UUhrejhVT09xLVFQUmpfVmZMaVk0ZzcxLXU0bG93NFlMb1Y2aDlrcXg0aGRxcDJEYUFyaXlkMWY0V1FZRVNFMmNyUFJ5V3FKd0Y0Wmd5S2Q3cWE2elk4R1k?oc=5",
+   "title_key": "ググル×ファナック生成aiでゼロ教示溶接図面読む新ロボットを12月出荷開始（ビジネス＋it）yahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-16T15:40:06+09:00",
+   "date_estimated": false,
+   "summary": "グーグル×ファナック、生成AIで「ゼロ教示」溶接…図面読む新ロボットを12月出荷開始（ビジネス＋IT） Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "58b26515efa3",
@@ -6283,6 +6530,19 @@
    "date_estimated": false,
    "summary": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道 ITmedia",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "0a3934fc366e",
+   "title": "なぜ生成AI活用で「チーム崩壊」…？ 日本の“察する文化”が招く「落とし穴の正体」 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbGRrb0hvMzRDSUdNS2JudnY4Y3pxRVZWU1V4SUNELUJabms0ZTFHc2FPRUdIYW1Zal81VmtuNzZOSV8xNWphUzhKczZuS2ZGSDV3?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbGRrb0hvMzRDSUdNS2JudnY4Y3pxRVZWU1V4SUNELUJabms0ZTFHc2FPRUdIYW1Zal81VmtuNzZOSV8xNWphUzhKczZuS2ZGSDV3?oc=5",
+   "title_key": "なぜ生成ai活用でチム崩壊？日本の“察する文化”が招く落とし穴の正体ビジネスit",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-16T07:10:00+09:00",
+   "date_estimated": false,
+   "summary": "なぜ生成AI活用で「チーム崩壊」…？ 日本の“察する文化”が招く「落とし穴の正体」 ビジネス+IT",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "10df20daaceb",
@@ -6493,6 +6753,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "c61938da8378",
+   "title": "高校生の生成AI利用率8割、「ゼロクリック」が半数 サイバー調査 - nikkei.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSFNiNDJPdUFJS0tfZmhHYjBLYjdSVkJ3UXkwTlgtVlk4Uy1Gam90R2Vhb3NwcXdEbXRQVHdUTGVyMnlEVjNKNDRBajBnUEo5ZndkYVBJZ2xjWFNBLW45cVRFR2ZBT0VxUG5RUg?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSFNiNDJPdUFJS0tfZmhHYjBLYjdSVkJ3UXkwTlgtVlk4Uy1Gam90R2Vhb3NwcXdEbXRQVHdUTGVyMnlEVjNKNDRBajBnUEo5ZndkYVBJZ2xjWFNBLW45cVRFR2ZBT0VxUG5RUg?oc=5",
+   "title_key": "高校生の生成ai利用率8割ゼロクリックが半数サイバ調査nikkeicom",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-15T15:16:46+09:00",
+   "date_estimated": false,
+   "summary": "高校生の生成AI利用率8割、「ゼロクリック」が半数 サイバー調査 nikkei.com",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "bd59c5ae04d5",
    "title": "【動画あり】Excel仕事がラクになるCopilot活用術、実務ですぐ使える3選 Microsoft MVP直伝（1/2 ページ） - ITmedia",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91cUFRT2ZveUJYaVZEaHRwNVdxeUVCcnNqZUlmVHNrOXREaVBwQTRfcFhUU0F4Z2RIVUNYV000WTBZakhORl9wLWh6Y3ZxSHRwTjc2QkUyTTFTdUV0cXBFYlNua3c5M0RQUERnYw?oc=5",
@@ -6569,6 +6842,19 @@
    "date_estimated": false,
    "summary": "Today we are releasing Salesforce in Claude in beta, a plugin built with Salesforce that brings a seller’s accounts, opportunities, and pipeline into Claude under their existing Salesforce permissions. It includes 37 ski…",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "e595a7bdfa6b",
+   "title": "生成AIを「別画面」で使い続けて本当によいのか？ 300人調査で見えた活用定着の“壁” - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GbkttZ251MndkbElKdUswSVc4a0N0WjFPSXUzZ3Jsa0hhejlLTHV1T0xTWDJCNTViaHpvb2hybzdqb3lwZl9LcmtmejIwbldYa25rOFR1WG40bHlfQWZYYWpZNFhJQlZTSEF4Z1Y3b2lUZw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GbkttZ251MndkbElKdUswSVc4a0N0WjFPSXUzZ3Jsa0hhejlLTHV1T0xTWDJCNTViaHpvb2hybzdqb3lwZl9LcmtmejIwbldYa25rOFR1WG40bHlfQWZYYWpZNFhJQlZTSEF4Z1Y3b2lUZw?oc=5",
+   "title_key": "生成aiを別画面で使い続けて本当によいのか？300人調査で見えた活用定着の“壁”itmedia",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-15T08:00:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AIを「別画面」で使い続けて本当によいのか？ 300人調査で見えた活用定着の“壁” ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "59496653eda9",
@@ -6751,6 +7037,19 @@
    "date_estimated": false,
    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "12fce7231ced",
+   "title": "Polimill株式会社×河内長野市 生成AIの利活用等に係る連携協定の締結について - city.kawachinagano.lg.jp",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQ2p0bmxkd2thWndxUHBWZ0tmVExZakg5bVlseWZKZHZfN3NZM3ZkTkVZZlNTN1lCZzJHLVUxb2NCcTFwREVNcDFxUXFmeWQ2akFKWUNxTUJOV1hGUkJxcGNaUUFjUU9semI4?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQ2p0bmxkd2thWndxUHBWZ0tmVExZakg5bVlseWZKZHZfN3NZM3ZkTkVZZlNTN1lCZzJHLVUxb2NCcTFwREVNcDFxUXFmeWQ2akFKWUNxTUJOV1hGUkJxcGNaUUFjUU9semI4?oc=5",
+   "title_key": "polimill株式会社×河内長野市生成aiの利活用等に係る連携協定の締結についてcitykawachinaganolgjp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-14T20:48:17+09:00",
+   "date_estimated": false,
+   "summary": "Polimill株式会社×河内長野市 生成AIの利活用等に係る連携協定の締結について city.kawachinagano.lg.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "7af9da46292b",
@@ -7026,6 +7325,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "cfaf9b5e0a0e",
+   "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTWM4WjNJVDVacGVpeHM5c3FPUjZRQy1IdzNYVnhZakR0Yy0tMTRhdV9FWU5FVDZoZEJ5blpoRWtfSmhjRFdpa1pQSVhkNEpUS3N6di1IUmxVOWk2UUNMTDJmSURncHJrcHc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTWM4WjNJVDVacGVpeHM5c3FPUjZRQy1IdzNYVnhZakR0Yy0tMTRhdV9FWU5FVDZoZEJ5blpoRWtfSmhjRFdpa1pQSVhkNEpUS3N6di1IUmxVOWk2UUNMTDJmSURncHJrcHc?oc=5",
+   "title_key": "anthropicのアモデイceoai開発のペス調整訴えるエッセイ公開アルトマン氏とマスク氏も賛同itmedia",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-13T08:06:11+09:00",
+   "date_estimated": false,
+   "summary": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同 ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "427536986302",
    "title": "Claude Codeでなぜ異変、「旧モデルのほうが良い」が続出…AI進化で起きた逆転現象 (ビジネス＋IT) - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUJicUhVd1lNcXpZb3hFQlFmX2ZLUWwyZmJOOWswUHJIZkdVUFYtLS1qZkNkMDZLdUozRjh4cTBFTFhMRjhjYlBMTmJ0LWZjdGdMZVYzVUpkYjI3anJ3dk5ZcTAza1FKVk93SmNsSnlhVFhFak1TWjRmLW5YLXBBbnV4ZlNMOXV2Nkcyd1JR?oc=5",
@@ -7141,6 +7453,45 @@
    "date_estimated": false,
    "summary": "Anthropic report: 5 ways Claude was exploited for war, spying and repression Axios",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "6183feb883c3",
+   "title": "Anthropicを辞めたAI研究者が警告。「今後1、2年が人類にとって正念場」 - WIRED.jp",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWtFMUF6UV93cEFIdFg4ZlRwWlJsLVlmMl94ZDhYa3hLUHNDOEN1dlpwYTR6b3BiZmRYelhQbno1ZlZEUnRpT1ZMU2o0cE5wNHlIMVlJRU1lNDcxVkdVaDdXS2g2SlFKbXl6aGk2UHBYU1lHSWpkOUtFLTlqdjlvbHY1VkRZME94c1E?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWtFMUF6UV93cEFIdFg4ZlRwWlJsLVlmMl94ZDhYa3hLUHNDOEN1dlpwYTR6b3BiZmRYelhQbno1ZlZEUnRpT1ZMU2o0cE5wNHlIMVlJRU1lNDcxVkdVaDdXS2g2SlFKbXl6aGk2UHBYU1lHSWpkOUtFLTlqdjlvbHY1VkRZME94c1E?oc=5",
+   "title_key": "anthropicを辞めたai研究者が警告今後12年が人類にとって正念場wiredjp",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-12T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicを辞めたAI研究者が警告。「今後1、2年が人類にとって正念場」 WIRED.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "2cb0f5261543",
+   "title": "Anthropicが「AI反対派」を監視・通報しているとの報道 同社は反論 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDWHZ4UlhuazVmNldGUzc0ZFpRc3pXbmJwcVJzRUpVWTVfRFp1RWlkVVY4azhhMHU1ZzFXcDh1WnBycnJkbFNqSkVtYXhpSk9MTFVIdmwzWkswU2pVZi1VRU4waml0MUlKbEJVSWhKd3Z3aXEzNkdJcF9OU3pzbm8?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDWHZ4UlhuazVmNldGUzc0ZFpRc3pXbmJwcVJzRUpVWTVfRFp1RWlkVVY4azhhMHU1ZzFXcDh1WnBycnJkbFNqSkVtYXhpSk9MTFVIdmwzWkswU2pVZi1VRU4waml0MUlKbEJVSWhKd3Z3aXEzNkdJcF9OU3pzbm8?oc=5",
+   "title_key": "anthropicがai反対派を監視通報しているとの報道同社は反論yahooニュス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-12T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicが「AI反対派」を監視・通報しているとの報道 同社は反論 Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "d767b39e8cc9",
+   "title": "ゲーム「イナズマイレブン」開発会社の代表が生成AIの使用を謝罪 新作映像にクオリティを心配する声が集まる（KAI-YOU） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LM1NaSkNSLXJSWkRlX2p6R2NBM0xtRnF5RWhFN0V6Y2ZlSm9kWF9XU1libGx4YllybVhrU1QyS1lLelgxellRNlNodi0zNmxRdUlkN3EtUnZlZVRrZDhVUmRjazlCM2lKN0FIOVZnUld3Mm5pTzVzd1ZzSXBPT1E?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LM1NaSkNSLXJSWkRlX2p6R2NBM0xtRnF5RWhFN0V6Y2ZlSm9kWF9XU1libGx4YllybVhrU1QyS1lLelgxellRNlNodi0zNmxRdUlkN3EtUnZlZVRrZDhVUmRjazlCM2lKN0FIOVZnUld3Mm5pTzVzd1ZzSXBPT1E?oc=5",
+   "title_key": "ゲムイナズマイレブン開発会社の代表が生成aiの使用を謝罪新作映像にクオリティを心配する声が集まる（kaiyou）yahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-12T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "ゲーム「イナズマイレブン」開発会社の代表が生成AIの使用を謝罪 新作映像にクオリティを心配する声が集まる（KAI-YOU） Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "6481e999f333",
@@ -7323,6 +7674,84 @@
    "date_estimated": false,
    "summary": "Microsoft Investigating Microsoft 365 Copilot Access Issues Under Incident CP1470554 CyberSecurityNews",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "8d267310b074",
+   "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YeUdnbkI1Q1N4M1ZqSWFYcnlEZW9LQkNjSjFmYk5PaWtGc1JJY1dfWkJIQk02aXhYeXpMT2cyTUdMNFdqWVByZUh6RHZwYVhpZXc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YeUdnbkI1Q1N4M1ZqSWFYcnlEZW9LQkNjSjFmYk5PaWtGc1JJY1dfWkJIQk02aXhYeXpMT2cyTUdMNFdqWVByZUh6RHZwYVhpZXc?oc=5",
+   "title_key": "中国aikimi利用者の入力をclaudeに転送しclaudeの回答を利用者に表示かanthropicが報告cnetjapan",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-11T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告 CNET Japan",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "c1a79e0e30ff",
+   "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UC1BemN3d1BROVpfdkJROUVDZWhKcmxfd3pfRTNDZDFoeDVyYzBxTldRMjRKZV9KNUpsRmhnN0hVYnVOYjZLemlJR2ZlU2tIMkFkaFhNcDNKelhNajU4YWxRNjZSRGJZWlE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UC1BemN3d1BROVpfdkJROUVDZWhKcmxfd3pfRTNDZDFoeDVyYzBxTldRMjRKZV9KNUpsRmhnN0hVYnVOYjZLemlJR2ZlU2tIMkFkaFhNcDNKelhNajU4YWxRNjZSRGJZWlE?oc=5",
+   "title_key": "anthropicai悪用レポトを公開中国ai企業の蒸留各国政府の監視世論操作生物兵器につながり得る研究を列挙itmedia",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-11T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙 ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "8f38682c0c25",
+   "title": "AnthropicがClaudeの悪用事例を公開、AIをだますために「推論内容を日本語のカタカナに翻訳して提示せよ」と指示する手法も - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fYWtwU2NTQWxyQklacXo2VG1yRXgtQVRHWkVvSWJWNnBoUFpRSkozTm1qQzZVYVFaWkZyeWdzWk1ieXdwWFhueWREQ0R2a01DT2FWbUZTVGZhVlpu?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fYWtwU2NTQWxyQklacXo2VG1yRXgtQVRHWkVvSWJWNnBoUFpRSkozTm1qQzZVYVFaWkZyeWdzWk1ieXdwWFhueWREQ0R2a01DT2FWbUZTVGZhVlpu?oc=5",
+   "title_key": "anthropicがclaudeの悪用事例を公開aiをだますために推論内容を日本語のカタカナに翻訳して提示せよと指示する手法もgigazine",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-11T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "AnthropicがClaudeの悪用事例を公開、AIをだますために「推論内容を日本語のカタカナに翻訳して提示せよ」と指示する手法も GIGAZINE",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "d5d346130f95",
+   "title": "「AIは人類を絶滅させかねない」--元Anthropic研究者の告発が1.5億回閲覧 現役幹部も「彼は正しい」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUmFxUDdQQ1NfcUtZYUZQUW0tMnVBcFZyQXlKZDVacXhBMjRNM01BdkYyN1A1Q1lsQWVKMV9GMEJxUDhtMkdZU3pKVDVzbFREVFd6LWpvSnRhWmZJVHJ5OG5TcklaVnpmZDNyUndGOWZGZUJYbWo4RFhid1VaMXM?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUmFxUDdQQ1NfcUtZYUZQUW0tMnVBcFZyQXlKZDVacXhBMjRNM01BdkYyN1A1Q1lsQWVKMV9GMEJxUDhtMkdZU3pKVDVzbFREVFd6LWpvSnRhWmZJVHJ5OG5TcklaVnpmZDNyUndGOWZGZUJYbWo4RFhid1VaMXM?oc=5",
+   "title_key": "aiは人類を絶滅させかねない元anthropic研究者の告発が15億回閲覧現役幹部も彼は正しいyahooニュス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-11T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "「AIは人類を絶滅させかねない」--元Anthropic研究者の告発が1.5億回閲覧 現役幹部も「彼は正しい」 Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "977e1c7c818f",
+   "title": "Anthropic、脅威インテリジェンスレポートを公表 AI悪用のトレンドは「もはや高度な攻撃に高度な攻撃者は必要ない」 - 株式会社インプレス",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iNUhoREdXc0tvRlVkLXR1eUVnNk1PX0g4cnBYa3pzcTVRZlo1ZVQ2aVQ0eURwMU1ZQ2RodVByaWZlYkNDT2JOMXluYnZ5cWJGcXI4eWVCd0g1aTlDTlZfQllpcw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iNUhoREdXc0tvRlVkLXR1eUVnNk1PX0g4cnBYa3pzcTVRZlo1ZVQ2aVQ0eURwMU1ZQ2RodVByaWZlYkNDT2JOMXluYnZ5cWJGcXI4eWVCd0g1aTlDTlZfQllpcw?oc=5",
+   "title_key": "anthropic脅威インテリジェンスレポトを公表ai悪用のトレンドはもはや高度な攻撃に高度な攻撃者は必要ない株式会社インプレス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-11T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic、脅威インテリジェンスレポートを公表 AI悪用のトレンドは「もはや高度な攻撃に高度な攻撃者は必要ない」 株式会社インプレス",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "c0cb4e9f0f06",
+   "title": "Microsoft Copilot を起点とした AI エージェント プラットフォームを全社展開。JBS が挑む「フロンティア企業」への変革とリアルショーケース - Microsoft",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWm10ckF1UWJQcU13UHYySUthZlU0ZFBNV2hYaDNWUjBDSmdpRmpid2FxeFpzZWE3UWZvTWJyQVNHcGJqLUNzUlZnY3k5YTVSVWxlVy16YjhaV1pkQWpWZ3BPSkJfQXBfUlBkWjJROE5UbEQyTHN1R1JPZVpnc2VZeGw3UjFHT0pmSXI2V0tjQzkwQ3EtdEhjbmFR?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWm10ckF1UWJQcU13UHYySUthZlU0ZFBNV2hYaDNWUjBDSmdpRmpid2FxeFpzZWE3UWZvTWJyQVNHcGJqLUNzUlZnY3k5YTVSVWxlVy16YjhaV1pkQWpWZ3BPSkJfQXBfUlBkWjJROE5UbEQyTHN1R1JPZVpnc2VZeGw3UjFHT0pmSXI2V0tjQzkwQ3EtdEhjbmFR?oc=5",
+   "title_key": "microsoftcopilotを起点としたaiエジェントプラットフォムを全社展開jbsが挑むフロンティア企業への変革とリアルショケスmicrosoft",
+   "source": "Microsoft 365 Copilot ニュース検索 (日本語)",
+   "category": "copilot",
+   "published": "2026-09-11T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Microsoft Copilot を起点とした AI エージェント プラットフォームを全社展開。JBS が挑む「フロンティア企業」への変革とリアルショーケース Microsoft",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "ba42ab8ea05c",
@@ -7585,6 +8014,97 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "bf34f956f97b",
+   "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieUllMHc5Vks5NldKRUNfRUJqZ1ZDZzVQRmhrT213VE5jd2s4UDJZd2JlbVNoS3d5M0lRNS12WTJTYzFsZVZSMkVleTFQd25ILVl1TWRSUGJuWEVjbUcweFhSRGRqNWNWQ0E?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieUllMHc5Vks5NldKRUNfRUJqZ1ZDZzVQRmhrT213VE5jd2s4UDJZd2JlbVNoS3d5M0lRNS12WTJTYzFsZVZSMkVleTFQd25ILVl1TWRSUGJuWEVjbUcweFhSRGRqNWNWQ0E?oc=5",
+   "title_key": "claudeによる不正アクセス4件目が判明──anthropicアライメントの失敗と評価を修正itmedia",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正 ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "a15db5ca1431",
+   "title": "Anthropicが「テスト中のAIで他社を攻撃してしまったインシデント」の発生原因を報告 - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZWdxa3ZfWWUxWFZlZVl6bkxpUG5PSGE5aV9UZEg4bWxvRzhXTVZQVUNPdVB5RzM5cU1mSjlkUGpCdXI3SzRRY1FhMUhDNm1hVV9ibE55RjlnS0Q5ZUFIc0ZkWDROalRZ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZWdxa3ZfWWUxWFZlZVl6bkxpUG5PSGE5aV9UZEg4bWxvRzhXTVZQVUNPdVB5RzM5cU1mSjlkUGpCdXI3SzRRY1FhMUhDNm1hVV9ibE55RjlnS0Q5ZUFIc0ZkWDROalRZ?oc=5",
+   "title_key": "anthropicがテスト中のaiで他社を攻撃してしまったインシデントの発生原因を報告gigazine",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicが「テスト中のAIで他社を攻撃してしまったインシデント」の発生原因を報告 GIGAZINE",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "585df35c442c",
+   "title": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yeXNyaXZpWGVWa1hhMnlnSVV3WkMzQzZhd013SnptcnJoaXpEbXJkb1ltcTB0NlNGVi1nbkdVWWV2VDhGYWhIcVhfYm5BRFFtOXJDTXI0MkhIQVNkckpiRV9lZlFxTDJYOUE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yeXNyaXZpWGVWa1hhMnlnSVV3WkMzQzZhd013SnptcnJoaXpEbXJkb1ltcTB0NlNGVi1nbkdVWWV2VDhGYWhIcVhfYm5BRFFtOXJDTXI0MkhIQVNkckpiRV9lZlFxTDJYOUE?oc=5",
+   "title_key": "anthropic在籍の研究者2人も同調──aiが人類を滅ぼしかねないと本気で考えているitmedia",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」 ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "ee6b4bef28e5",
+   "title": "「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ（アスキー） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZGt1RG1oQzNnOFRNOGllYnVpb0pIRFotRXlFc3RYY0JsZHBFREJoaUp2SnZjdERTc1kzTWJQbWlrNW9jRXNJWEUyNkNHc2lDT0MtN3J6bTZKSVgxUjBwMWhZTkFZT0RlLWVtUWNheFlIRnJrRFh3VjZIWTlBUE0?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZGt1RG1oQzNnOFRNOGllYnVpb0pIRFotRXlFc3RYY0JsZHBFREJoaUp2SnZjdERTc1kzTWJQbWlrNW9jRXNJWEUyNkNHc2lDT0MtN3J6bTZKSVgxUjBwMWhZTkFZT0RlLWVtUWNheFlIRnJrRFh3VjZIWTlBUE0?oc=5",
+   "title_key": "aiが全人類を死なせる可能性anthropicの研究者から警告相次ぐ（アスキ）yahooニュス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ（アスキー） Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "58a457ab069d",
+   "title": "Governments are turning to Claude to automate spying - Axios",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5",
+   "title_key": "governmentsareturningtoclaudetoautomatespyingaxios",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Governments are turning to Claude to automate spying Axios",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "079b84ff7ec3",
+   "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 - The Hacker News",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Nk9jVHVyUWMyRUN6TFJGcXNNX281akYxdExzMlk1elhQbnhpbWt1VzFrS09McEhGemc3V0c5THFQa1VIcmI3ZmFLeFcyTXh3YTNCendNT3YyX3ZpNkNyU0hXWG1LS21KNG1FZ25NSVFGOHhETUx6Y0E2LW0?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Nk9jVHVyUWMyRUN6TFJGcXNNX281akYxdExzMlk1elhQbnhpbWt1VzFrS09McEhGemc3V0c5THFQa1VIcmI3ZmFLeFcyTXh3YTNCendNT3YyX3ZpNkNyU0hXWG1LS21KNG1FZ25NSVFGOHhETUx6Y0E2LW0?oc=5",
+   "title_key": "anthropicdisclosesfourthaihackingincidentinvolvingclaudeopus46thehackernews",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6 The Hacker News",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "a5aa308e3a13",
+   "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+   "title_key": "anthropicsaysitblockedmisuseofitsaithatcouldhavesupportedbiologicalweaponsapnews",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-09-10T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic says it blocked misuse of its AI that could have supported biological weapons AP News",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "f897d5ca3311",
    "title": "What 1,000 small business owners taught us about AI",
    "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
@@ -7845,6 +8365,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "233b2ddecd67",
+   "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcjZKZ2lIVHJTdVRHQ20wSFNHM2NpS1VqNVZZLWZMS2RFVmJJUVNIaXBsSzRzZS1YbVlsY1V1c0U2bTlSb1lST1JOVU01Z3FiNnJsd1BSWmFkSVhuVmU2QThwb2ZWck9KNVE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rcjZKZ2lIVHJTdVRHQ20wSFNHM2NpS1VqNVZZLWZMS2RFVmJJUVNIaXBsSzRzZS1YbVlsY1V1c0U2bTlSb1lST1JOVU01Z3FiNnJsd1BSWmFkSVhuVmU2QThwb2ZWck9KNVE?oc=5",
+   "title_key": "anthropicの研究者が退社し超知能の開発競争を猛批判──来年末には制御不能になる可能性itmedia",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-09T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」 ITmedia",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "9c685b1df239",
    "title": "Set Up Microsoft 365 Copilot: 13 Steps [2026] - tech-insider.org",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1X0hOLXlCVGRKVTNKc3BBYU9LMWRmMTRlRlFhQmJGZ2lfeFVtanJTaFQzemRyQktGNE9QQTJza08ySXpsaWJqYmVYOEdmc3lZYnpaSWpLOFozZEI2VFpZWXFVQTBKVFlqYURTNzJ4Yw?oc=5",
@@ -8051,6 +8584,19 @@
    "date_estimated": false,
    "summary": "Claude for iOS に使用量ボタンと Claude Code 設定セクションが追加 Pasquale Pillitteri",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "8f1f51cd7ccc",
+   "title": "中小企業のための生成ＡＩ入門セミナー（10/7開催） - city.matsusaka.mie.jp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0M4RmliSERVbHJhcVpLeWNMODBSVXJpQ1RvbmRPMExIUl9ZUGJOcGhoVFF3RDZhWi1NS3Fxd0trMy1kOXVlZFhlR3k0SE1hX1NCbGd4aFd3aDRlczRlV2J4NXgxUXNUeElyeC14WVBoNmpRd3VkakF2YW1scnVGNUhSdlJad2tuV1VTSE93?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0M4RmliSERVbHJhcVpLeWNMODBSVXJpQ1RvbmRPMExIUl9ZUGJOcGhoVFF3RDZhWi1NS3Fxd0trMy1kOXVlZFhlR3k0SE1hX1NCbGd4aFd3aDRlczRlV2J4NXgxUXNUeElyeC14WVBoNmpRd3VkakF2YW1scnVGNUhSdlJad2tuV1VTSE93?oc=5",
+   "title_key": "中小企業のための生成ａｉ入門セミナ（107開催）citymatsusakamiejp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-08T13:16:38+09:00",
+   "date_estimated": false,
+   "summary": "中小企業のための生成ＡＩ入門セミナー（10/7開催） city.matsusaka.mie.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "110f9829aa5e",
@@ -8508,6 +9054,58 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "d98334bd7548",
+   "title": "Anthropic、Claudeの「AI透かし」を判別するツール公開--現時点でテキストは未対応 - CNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtLVk4UnJtem9GVjl3RmgyaTMweG1xSUR4VnJPLUM0M3lBaEVBNDNDVE1HZGtIU1lQdXFBdEpsVkhTRkZweFdWMTBwM0pEdmY1NEE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtLVk4UnJtem9GVjl3RmgyaTMweG1xSUR4VnJPLUM0M3lBaEVBNDNDVE1HZGtIU1lQdXFBdEpsVkhTRkZweFdWMTBwM0pEdmY1NEE?oc=5",
+   "title_key": "anthropicclaudeのai透かしを判別するツル公開現時点でテキストは未対応cnetjapan",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-03T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic、Claudeの「AI透かし」を判別するツール公開--現時点でテキストは未対応 CNET Japan",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "9e6e5b3e2ae3",
+   "title": "Anthropic、商取引向けAIエージェントの設計図「Claude Commerce Agents」をオープンソースで公開 - gihyo.jp",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zcy04bDdxYmlzellVMmk1c04wOXpFWjIxSkJsa1MwRllmMWN0SFo5aVJlcjZoVW04NURKUDBGTWNteVhoTTliVmc0bC1ULWtFVktlc3lJNU1QOGJMbTVnTzliaXJYUQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zcy04bDdxYmlzellVMmk1c04wOXpFWjIxSkJsa1MwRllmMWN0SFo5aVJlcjZoVW04NURKUDBGTWNteVhoTTliVmc0bC1ULWtFVktlc3lJNU1QOGJMbTVnTzliaXJYUQ?oc=5",
+   "title_key": "anthropic商取引向けaiエジェントの設計図claudecommerceagentsをオプンソスで公開gihyojp",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-03T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic、商取引向けAIエージェントの設計図「Claude Commerce Agents」をオープンソースで公開 gihyo.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "8b09692564ad",
+   "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応 - テクノエッジ TechnoEdge",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WWhPMHR4ZWVUdXlwWThIMlZvV3JySU5HVHUxOEZqRngta0l0WHd4dVRld1ZoUTF4OWp2cVVEcncwMEhFWmZNZFZ1QmVaUHVjWlZ4OTZFNW10UUxqSjJxV1NiME4tcUk?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WWhPMHR4ZWVUdXlwWThIMlZvV3JySU5HVHUxOEZqRngta0l0WHd4dVRld1ZoUTF4OWp2cVVEcncwMEhFWmZNZFZ1QmVaUHVjWlZ4OTZFNW10UUxqSjJxV1NiME4tcUk?oc=5",
+   "title_key": "claudeにsalesforceを統合したclaudeforceanthropicとsalesforceが発表claudeから営業デタ分析や顧客対応テクノエッジtechnoedge",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-03T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応 テクノエッジ TechnoEdge",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "ec6e6408d7dc",
+   "title": "Anthropic、「Fable 5.1」と「Mythos 5.1」を公開--コスト削減へ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xcHFYOVpDeVBpYVk3MUhaSUNQTFBlUWR5dGx6elpjNGE4azl2VlpzMkt1ak14VTl1WUtoRHNnaGhqUENOSDk2T3RjdmJ1aWVtTE1xZzd3N1Y3R2c0clJVQzF4ZTB6NFMtc1dLT2JwYU9BdTByeFJrQUU3OFYtRjA?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xcHFYOVpDeVBpYVk3MUhaSUNQTFBlUWR5dGx6elpjNGE4azl2VlpzMkt1ak14VTl1WUtoRHNnaGhqUENOSDk2T3RjdmJ1aWVtTE1xZzd3N1Y3R2c0clJVQzF4ZTB6NFMtc1dLT2JwYU9BdTByeFJrQUU3OFYtRjA?oc=5",
+   "title_key": "anthropicfable51とmythos51を公開コスト削減へyahooニュス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-03T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic、「Fable 5.1」と「Mythos 5.1」を公開--コスト削減へ Yahoo!ニュース",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "2e155b11d809",
    "title": "Safety overview: GPT-6 Astra",
    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
@@ -8833,6 +9431,19 @@
    "first_seen": "2026-09-21T11:34:04+09:00"
   },
   {
+   "id": "94b02e59ee2a",
+   "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 - Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5",
+   "title_key": "introducingclaudefable51andclaudemythos51anthropic",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-09-02T03:01:25+09:00",
+   "date_estimated": false,
+   "summary": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "3b5f2688fec1",
    "title": "How AI-native companies turn workflows into operating capability",
    "url": "https://openai.com/index/ai-native-company-workflows",
@@ -8935,6 +9546,58 @@
    "date_estimated": false,
    "summary": "「Claude Code」の週次上限、9月14日から恒久的に25％引き上げへ 窓の杜",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "2da1f925ebc7",
+   "title": "NECとAnthropic協業の裏に「7人の侍」、全員AIの新組織で自己変革 - 日経クロステック",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UaEdUM0UyWE9KcXFMYVJXY0hSSmRuTVB0RWdCQ3VTdGhKMUtJcG9TSWVSa2RYLW5BYUIyTDNZaXVGUmtuSHlYWVViQ2t4eUo2Z3BBWHliVmxuMnMycDVzaXRRbEZMTDNMNnhFWA?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UaEdUM0UyWE9KcXFMYVJXY0hSSmRuTVB0RWdCQ3VTdGhKMUtJcG9TSWVSa2RYLW5BYUIyTDNZaXVGUmtuSHlYWVViQ2t4eUo2Z3BBWHliVmxuMnMycDVzaXRRbEZMTDNMNnhFWA?oc=5",
+   "title_key": "necとanthropic協業の裏に7人の侍全員aiの新組織で自己変革日経クロステック",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-01T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "NECとAnthropic協業の裏に「7人の侍」、全員AIの新組織で自己変革 日経クロステック",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "888b624481bc",
+   "title": "SalesforceとAnthropic、Claudeforceを発表：「世界No.1のAI」と「世界No.1のAI CRM」が融合 - Salesforce",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajVrdGtyYXhET05yakhzUUxDb0F3RS1hQUVxcTdzMWctcG1LM3ZoZTZkUHFzcWxsOU5BUm9yWEttVjJ0N0VkM3pfNW1sTkl0ZkU2Nmg2QnJXQUF2a1AxVjUwcjBKUmVKWWdEOGNIdEU3bk5JU3RickVGcnVPWnJFZkUxeEp2X19NWHdac3dndVBlUFR0RzVTX0cwMlNjSVNlQVpmQVdKRHZKVzg?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOajVrdGtyYXhET05yakhzUUxDb0F3RS1hQUVxcTdzMWctcG1LM3ZoZTZkUHFzcWxsOU5BUm9yWEttVjJ0N0VkM3pfNW1sTkl0ZkU2Nmg2QnJXQUF2a1AxVjUwcjBKUmVKWWdEOGNIdEU3bk5JU3RickVGcnVPWnJFZkUxeEp2X19NWHdac3dndVBlUFR0RzVTX0cwMlNjSVNlQVpmQVdKRHZKVzg?oc=5",
+   "title_key": "salesforceとanthropicclaudeforceを発表：世界no1のaiと世界no1のaicrmが融合salesforce",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-09-01T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "SalesforceとAnthropic、Claudeforceを発表：「世界No.1のAI」と「世界No.1のAI CRM」が融合 Salesforce",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "810e82e127d1",
+   "title": "【終了しました】「自治体×生成AI 実践講座」開催します - 公立大学法人 岩手県立大学",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2lMS1c0YXBJckE1UWw5eFd3N2J1aWhlbHFuZ2NiZmpXclFSMmFDQkRnR2ZmSWZLRHY2NHZiWDlnUUxFOFdxQVVrV1lYbUxQNXBtcXY2dVVibmUzdjl3d3cybDEtSlliYVQ0QUp3b1JrM1F0WUpSdk1TUVdOSHZjTWpuMHRrZw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2lMS1c0YXBJckE1UWw5eFd3N2J1aWhlbHFuZ2NiZmpXclFSMmFDQkRnR2ZmSWZLRHY2NHZiWDlnUUxFOFdxQVVrV1lYbUxQNXBtcXY2dVVibmUzdjl3d3cybDEtSlliYVQ0QUp3b1JrM1F0WUpSdk1TUVdOSHZjTWpuMHRrZw?oc=5",
+   "title_key": "【終了しました】自治体×生成ai実践講座開催します公立大学法人岩手県立大学",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-01T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "【終了しました】「自治体×生成AI 実践講座」開催します 公立大学法人 岩手県立大学",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "1a4cf28a8884",
+   "title": "生成AIで拡張する、検索市場。サイバーエージェントが「AIS」で描く、広告事業の成長戦略 - cyberagent.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CYUxYLTdSTDE0WF9IcXdlTnZFSTJtTzRSTEpkNnRMV3BwZDhYX3JaNWV3UkhKNVBiRkpraTI2WDdLSzhzMUltM2pDWmUySVphd2hqdGxsZmJNNjdQLWIyWkY0Yw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CYUxYLTdSTDE0WF9IcXdlTnZFSTJtTzRSTEpkNnRMV3BwZDhYX3JaNWV3UkhKNVBiRkpraTI2WDdLSzhzMUltM2pDWmUySVphd2hqdGxsZmJNNjdQLWIyWkY0Yw?oc=5",
+   "title_key": "生成aiで拡張する検索市場サイバエジェントがaisで描く広告事業の成長戦略cyberagentcojp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-09-01T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AIで拡張する、検索市場。サイバーエージェントが「AIS」で描く、広告事業の成長戦略 cyberagent.co.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "631a857c7a24",
@@ -9052,6 +9715,58 @@
    "date_estimated": false,
    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
    "first_seen": "2026-09-21T17:49:07+09:00"
+  },
+  {
+   "id": "ea39dca9dd11",
+   "title": "Anthropicの「Claude」と「Cowork」、あなたの記憶を共有へ--オプトアウトしなければ - ZDNET Japan",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMFlIYzhVNDJIUnVJbVFjV243UEVpVkdCU1J5bVRNVzl3TFlWUzI1THFzcUhTajdTMDUtaEtXLU5jZ3BkYlZmb3JYUTJZR2lrRnVV?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMFlIYzhVNDJIUnVJbVFjV243UEVpVkdCU1J5bVRNVzl3TFlWUzI1THFzcUhTajdTMDUtaEtXLU5jZ3BkYlZmb3JYUTJZR2lrRnVV?oc=5",
+   "title_key": "anthropicのclaudeとcoworkあなたの記憶を共有へオプトアウトしなければzdnetjapan",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-08-31T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicの「Claude」と「Cowork」、あなたの記憶を共有へ--オプトアウトしなければ ZDNET Japan",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "f363e9fa6ace",
+   "title": "Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施 - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81MWZMVktYR2dNNko0OXM5M1M0WUlTQVNCeVgwNjdUVWhmeGJyaWo2azdBTEtRYjBZb1ZNRmY3cWItS3VORF9SYXB5Mk5TRXRmTGFQYzg2OWdtZklVZjVZSmNLb0p6T2RDTXc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81MWZMVktYR2dNNko0OXM5M1M0WUlTQVNCeVgwNjdUVWhmeGJyaWo2azdBTEtRYjBZb1ZNRmY3cWItS3VORF9SYXB5Mk5TRXRmTGFQYzg2OWdtZklVZjVZSmNLb0p6T2RDTXc?oc=5",
+   "title_key": "anthropicがマルウェア感染の疑いがあるユザを強制ログアウトさせ支払い方法を削除し返金処理を実施gigazine",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-08-31T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施 GIGAZINE",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "78cab151af0b",
+   "title": "生成AIによる災害対策本部の意思決定支援に向けた実証を開始 - ntt-east.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12N0c5LXd4eUZfNnliMXpvVGdRRGZqbXM1a29ZWVFiRDdVWDJ2VXNKSTc5cUpPU3FfWmZnbTZCbi1oRmRvMlBBekJNNjN0RlpxQWRucFRLRWFkSC1vMmhnZzNrZkVheGpOdEE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12N0c5LXd4eUZfNnliMXpvVGdRRGZqbXM1a29ZWVFiRDdVWDJ2VXNKSTc5cUpPU3FfWmZnbTZCbi1oRmRvMlBBekJNNjN0RlpxQWRucFRLRWFkSC1vMmhnZzNrZkVheGpOdEE?oc=5",
+   "title_key": "生成aiによる災害対策本部の意思決定支援に向けた実証を開始ntteastcojp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-08-31T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AIによる災害対策本部の意思決定支援に向けた実証を開始 ntt-east.co.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "279fa56ae771",
+   "title": "ガバメントAI「源内」 - デジタル庁",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR184RU9sdjZzMktVTVMyaFhxTUN6cEw2Mm43MGlHaUZRQzFxU3hHa0E0TktCUG81cVhrdDFyQW1WSl8zS3lLRGh1YVZ4alNmX2c?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR184RU9sdjZzMktVTVMyaFhxTUN6cEw2Mm43MGlHaUZRQzFxU3hHa0E0TktCUG81cVhrdDFyQW1WSl8zS3lLRGh1YVZ4alNmX2c?oc=5",
+   "title_key": "ガバメントai源内デジタル庁",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-08-31T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "ガバメントAI「源内」 デジタル庁",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "44f61163770f",
@@ -9288,6 +10003,19 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "5ba647f7fafc",
+   "title": "Expanding our support for scientists - Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+   "title_key": "expandingoursupportforscientistsanthropic",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-08-27T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Expanding our support for scientists Anthropic",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "57e276283c19",
    "title": "Expanding OpenAI’s presence in Brazil",
    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
@@ -9431,6 +10159,45 @@
    "first_seen": "2026-09-21T17:49:07+09:00"
   },
   {
+   "id": "48dec59ac572",
+   "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+   "title_key": "salesforceandanthropicannounceclaudeforcethe1aimeetsthe1aicrmsalesforce",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-08-26T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM Salesforce",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "0446326ffda7",
+   "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
+   "title_key": "salesforceanthropicexpandpartnershipasbenioffrespondsto‘saaspocalypseconcernscnbc",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-08-26T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns CNBC",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "8b61cd5b5157",
+   "title": "Enabling independent research on how people use Claude - Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
+   "title_key": "enablingindependentresearchonhowpeopleuseclaudeanthropic",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-08-26T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Enabling independent research on how people use Claude Anthropic",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
    "id": "af9006b6bcf2",
    "title": "Claude gets its own browser in Cowork",
    "url": "https://claude.com/blog/cowork-built-in-browser",
@@ -9546,6 +10313,19 @@
    "date_estimated": false,
    "summary": "Enable Google’s new intelligent dictation feature in the Gemini app for macOS and speak naturally into any window on your desktop.",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "b2e04c7e1b84",
+   "title": "令和8年版 情報通信白書｜生成AIの業務利用状況 - soumu.go.jp",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSG1MZjYxUHAzbEw0NEwxdHZQbW5qT0Rvcl90NmY0RGItTlNyaHBldzZVU2h1eTFiT1gzcEFpTk9jOUNZYU1hRjhOb1R1TGlEcUlpNTJZVGYxdEhuakRYQmhtRk1WWmwzR2NDMjZQWi1tbUhCWGFkcU9OVzFyT1NyR1JB?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSG1MZjYxUHAzbEw0NEwxdHZQbW5qT0Rvcl90NmY0RGItTlNyaHBldzZVU2h1eTFiT1gzcEFpTk9jOUNZYU1hRjhOb1R1TGlEcUlpNTJZVGYxdEhuakRYQmhtRk1WWmwzR2NDMjZQWi1tbUhCWGFkcU9OVzFyT1NyR1JB?oc=5",
+   "title_key": "令和8年版情報通信白書｜生成aiの業務利用状況soumugojp",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-08-25T19:20:47+09:00",
+   "date_estimated": false,
+   "summary": "令和8年版 情報通信白書｜生成AIの業務利用状況 soumu.go.jp",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "829e237a888d",
@@ -9715,6 +10495,45 @@
    "date_estimated": false,
    "summary": "Copilotを法人で使うには？Microsoft 365 Copilotの料金・できること・選び方【2026年版】 - AI新聞 株式会社エクサウィザーズ",
    "first_seen": "2026-09-21T11:34:04+09:00"
+  },
+  {
+   "id": "5dd097d1a624",
+   "title": "「Claudeウォーターマーク」批判にAnthropicが弁明…「目的はEUのAI法対応であり、いずれ他社も導入する」 - Business Insider Japan",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEF3SXJzaFVBTjF6aE1vOVBfYlJHa1A2QTNnZk9OaG8yZF9iOU9FSElNV0dXajBESnJqWS1pakZFRWZqZzNObEdZSU1FVVhTZjEwTzMtVnE4U0FZblkwVXlmcVh1VEdsZ3R3MEticjZpQzM3REg2LThPY2F0b3NoU1lZX2hEV2M2VVdNRElZOGVDTXZVcnh3emJsWVdoZmZDVklIVE16QU1sTUlERWRUTlpyNG1QUQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEF3SXJzaFVBTjF6aE1vOVBfYlJHa1A2QTNnZk9OaG8yZF9iOU9FSElNV0dXajBESnJqWS1pakZFRWZqZzNObEdZSU1FVVhTZjEwTzMtVnE4U0FZblkwVXlmcVh1VEdsZ3R3MEticjZpQzM3REg2LThPY2F0b3NoU1lZX2hEV2M2VVdNRElZOGVDTXZVcnh3emJsWVdoZmZDVklIVE16QU1sTUlERWRUTlpyNG1QUQ?oc=5",
+   "title_key": "claudeウォタマク批判にanthropicが弁明目的はeuのai法対応でありいずれ他社も導入するbusinessinsiderjapan",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-08-24T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "「Claudeウォーターマーク」批判にAnthropicが弁明…「目的はEUのAI法対応であり、いずれ他社も導入する」 Business Insider Japan",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "da0f9e6d0f10",
+   "title": "Claudeが落ちても仕事を止めない。ぜんぶのAIに同じ「記憶」を持たせる方法｜てけしゅん - note.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbVR6ZWNvb2xnVERXVDFqQzNhLThyRVpqSzRKRFRnMU0yOVJjSFh3N3JZRU5jd3gyZ2loNkxfaDJzMlNlYjhNT25za25RT1o0TXRJ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zbVR6ZWNvb2xnVERXVDFqQzNhLThyRVpqSzRKRFRnMU0yOVJjSFh3N3JZRU5jd3gyZ2loNkxfaDJzMlNlYjhNT25za25RT1o0TXRJ?oc=5",
+   "title_key": "claudeが落ちても仕事を止めないぜんぶのaiに同じ記憶を持たせる方法｜てけしゅんnotecom",
+   "source": "Claude Code ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-08-24T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Claudeが落ちても仕事を止めない。ぜんぶのAIに同じ「記憶」を持たせる方法｜てけしゅん note.com",
+   "first_seen": "2026-09-21T17:52:29+09:00"
+  },
+  {
+   "id": "5fa0e09173c3",
+   "title": "Opinion | The Original Sin of Anthropic’s Claude - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+   "title_key": "opiniontheoriginalsinofanthropicsclaudethenewyorktimes",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-08-24T16:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Opinion | The Original Sin of Anthropic’s Claude The New York Times",
+   "first_seen": "2026-09-21T17:52:29+09:00"
   },
   {
    "id": "f78d9a087c45",
