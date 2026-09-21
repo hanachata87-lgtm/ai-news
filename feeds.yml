@@ -1,0 +1,232 @@
+# ============================================================================
+#  情報源 (RSSフィード) の設定ファイル
+# ============================================================================
+#
+#  【このファイルの使い方】
+#
+#  ・情報源を減らしたいとき  … その項目の enabled: true を enabled: false に書き換える
+#                              (消さずに残しておけば、あとで true に戻すだけで復活します)
+#  ・情報源を増やしたいとき  … 下の書き方をまねて、feeds: の一覧に追記する
+#
+#      - name: 表示される情報源の名前
+#        url: フィードのURL
+#        category: claude / copilot / other のどれか
+#        enabled: true
+#
+#  ・category は閲覧ページの絞り込みに使われます
+#        claude  … Claude / Anthropic の情報 (最優先)
+#        copilot … Microsoft 365 Copilot の情報
+#        other   … その他の生成AI (ChatGPT, Gemini など)
+#
+#  ・include_keywords を書くと、そのキーワードを含む記事だけを取り込みます。
+#    総合ニュースサイトなど、AI以外の記事も流れてくる情報源に付けています。
+#
+#  ・追加・変更したら、必ず次で取得できるか確認してください:
+#        python check_feeds.py
+#    (GitHub 上でこのファイルを編集した場合は「Check feeds」が自動で確認します)
+# ============================================================================
+
+settings:
+  max_articles: 1500            # 保存しておく記事の最大件数
+  max_age_days: 180             # これより古い記事は消す (日数)
+  ignore_older_than_days: 30    # 公開から これ以上たった記事は取り込まない (日数)
+  max_entries_per_feed: 40      # 1つの情報源から1回に読み取る最大件数
+  request_timeout: 20           # 1つの情報源を待つ秒数
+  summary_length: 220           # 概要の最大文字数
+  wait_seconds_between_feeds: 1 # 情報源を取りに行く間隔 (秒)
+
+feeds:
+
+  # ==========================================================================
+  #  1. Claude / Anthropic  ← 最優先
+  # ==========================================================================
+  # Anthropic は公式RSSを出していないため、GitHubの公式リリース情報と
+  # ニュース検索、技術記事サイトを組み合わせて追いかけます。
+
+  - name: Claude Code リリースノート (公式)
+    url: https://github.com/anthropics/claude-code/releases.atom
+    category: claude
+    enabled: true
+
+  # (開発者向け。ライブラリの更新が細かく流れます。読みたくなったら enabled: true に)
+  - name: Claude Agent SDK (Python) リリース (公式)
+    url: https://github.com/anthropics/claude-agent-sdk-python/releases.atom
+    category: claude
+    enabled: false
+
+  # (開発者向け。ライブラリの更新が細かく流れます。読みたくなったら enabled: true に)
+  - name: Anthropic API SDK (Python) リリース (公式)
+    url: https://github.com/anthropics/anthropic-sdk-python/releases.atom
+    category: claude
+    enabled: false
+
+  # (開発者向け。ソースコードの更新履歴が流れます。読みたくなったら enabled: true に)
+  - name: Anthropic Cookbook 更新 (公式)
+    url: https://github.com/anthropics/anthropic-cookbook/commits/main.atom
+    category: claude
+    enabled: false
+
+
+
+  - name: Anthropic 稼働状況 (公式)
+    url: https://status.anthropic.com/history.rss
+    category: claude
+    enabled: true
+
+  - name: Claude ニュース検索 (日本語)
+    url: https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22&hl=ja&gl=JP&ceid=JP:ja
+    category: claude
+    enabled: true
+
+  - name: Claude Code ニュース検索 (日本語)
+    url: https://news.google.com/rss/search?q=%22Claude+Code%22&hl=ja&gl=JP&ceid=JP:ja
+    category: claude
+    enabled: true
+
+  - name: Anthropic ニュース検索 (英語)
+    url: https://news.google.com/rss/search?q=Anthropic+Claude&hl=en-US&gl=US&ceid=US:en
+    category: claude
+    enabled: true
+
+  - name: Zenn - Claude Code (使い方・工夫)
+    url: https://zenn.dev/topics/claudecode/feed
+    category: claude
+    enabled: true
+
+  - name: Zenn - Claude (使い方・工夫)
+    url: https://zenn.dev/topics/claude/feed
+    category: claude
+    enabled: true
+
+  - name: Qiita - Claude (使い方・工夫)
+    url: https://qiita.com/tags/claude/feed
+    category: claude
+    enabled: true
+
+  - name: Qiita - ClaudeCode (使い方・工夫)
+    url: https://qiita.com/tags/claudecode/feed
+    category: claude
+    enabled: true
+
+  - name: Anthropic ブログ (非公式RSS配信)
+    url: https://tim-hilde.github.io/anthropic-rss/rss.xml
+    category: claude
+    enabled: true
+
+  # ==========================================================================
+  #  2. Microsoft 365 Copilot
+  # ==========================================================================
+
+  - name: Microsoft 365 ブログ (公式)
+    url: https://www.microsoft.com/en-us/microsoft-365/blog/feed/
+    category: copilot
+    enabled: true
+
+  - name: Microsoft Copilot ブログ (公式)
+    url: https://www.microsoft.com/en-us/copilot/blog/feed/
+    category: copilot
+    enabled: true
+
+  - name: Microsoft 365 ロードマップ (公式・近日公開の機能)
+    # Microsoft 365 全製品の予定が流れてくるので、Copilot 関連だけに絞っています
+    url: https://www.microsoft.com/releasecommunications/api/v1/m365/rss
+    category: copilot
+    include_keywords: ["Copilot"]
+    enabled: true
+
+
+
+  - name: Microsoft 365 Copilot ニュース検索 (日本語)
+    url: https://news.google.com/rss/search?q=%22Microsoft+365+Copilot%22&hl=ja&gl=JP&ceid=JP:ja
+    category: copilot
+    enabled: true
+
+  - name: Microsoft 365 Copilot ニュース検索 (英語)
+    url: https://news.google.com/rss/search?q=%22Microsoft+365+Copilot%22&hl=en-US&gl=US&ceid=US:en
+    category: copilot
+    enabled: true
+
+  - name: Zenn - Microsoft 365 Copilot
+    url: https://zenn.dev/topics/copilot/feed
+    category: copilot
+    include_keywords: ["Microsoft 365", "M365", "Office", "Teams", "Excel", "Outlook", "SharePoint", "Word", "PowerPoint"]
+    enabled: true
+
+  # ==========================================================================
+  #  3. その他の生成AI (ChatGPT / Gemini など)
+  # ==========================================================================
+
+  - name: OpenAI ニュース (公式)
+    url: https://openai.com/news/rss.xml
+    category: other
+    enabled: true
+
+  - name: Google AI ブログ (公式)
+    url: https://blog.google/technology/ai/rss/
+    category: other
+    enabled: true
+
+  - name: Google Gemini ブログ (公式)
+    url: https://blog.google/products/gemini/rss/
+    category: other
+    enabled: true
+
+  - name: Google DeepMind ブログ (公式)
+    url: https://deepmind.google/blog/rss.xml
+    category: other
+    enabled: true
+
+  # (開発者・研究者向けの記事が中心です。読みたくなったら enabled: true に)
+  - name: Hugging Face ブログ
+    url: https://huggingface.co/blog/feed.xml
+    category: other
+    enabled: false
+
+  - name: ITmedia AI＋ (日本語)
+    url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
+    category: other
+    enabled: true
+
+  - name: TechCrunch AI (英語)
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: other
+    enabled: true
+
+  - name: The Verge AI (英語)
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: other
+    enabled: true
+
+  - name: Publickey (日本語・AI関連のみ)
+    url: https://www.publickey1.jp/atom.xml
+    category: other
+    include_keywords: ["AI", "Copilot", "Claude", "GPT", "Gemini", "LLM", "生成"]
+    enabled: true
+
+  - name: GIGAZINE (日本語・AI関連のみ)
+    url: https://gigazine.net/news/rss_2.0/
+    category: other
+    include_keywords: ["AI", "Copilot", "Claude", "GPT", "Gemini", "LLM", "生成"]
+    enabled: true
+
+  - name: ASCII.jp (日本語・AI関連のみ)
+    url: https://ascii.jp/rss.xml
+    category: other
+    include_keywords: ["AI", "Copilot", "Claude", "GPT", "Gemini", "LLM", "生成"]
+    enabled: true
+
+  - name: クラウド Watch (日本語・AI関連のみ)
+    url: https://cloud.watch.impress.co.jp/data/rss/1.0/clw/feed.rdf
+    category: other
+    include_keywords: ["AI", "Copilot", "Claude", "GPT", "Gemini", "LLM", "生成"]
+    enabled: true
+
+  - name: 生成AI ニュース検索 (日本語)
+    url: https://news.google.com/rss/search?q=%E7%94%9F%E6%88%90AI&hl=ja&gl=JP&ceid=JP:ja
+    category: other
+    enabled: true
+
+  - name: Simon Willison (LLMの実践的な話題・英語)
+    url: https://simonwillison.net/atom/everything/
+    category: other
+    enabled: true

@@ -1,0 +1,4 @@
+# 「生成AI 最新情報」ツールが使う Python ライブラリ
+requests>=2.31      # フィードをインターネットから取ってくる
+feedparser>=6.0     # RSS / Atom を読み解く
+PyYAML>=6.0         # 設定ファイル feeds.yml を読む

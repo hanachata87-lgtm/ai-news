@@ -1,0 +1,39 @@
+# 情報源 (feeds.yml) が本当に取得できるかを確認するしくみ。
+#
+#  ・feeds.yml を書き換えると自動で動きます (URLの打ち間違いに気づけます)
+#  ・Actions 画面の "Run workflow" ボタンでも実行できます
+#
+# 1つでも取得できない情報源があると、この確認は失敗 (赤いバツ) になります。
+# 失敗したときはログにその情報源と理由が出るので、feeds.yml を直してください。
+name: Check feeds
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "feeds.yml"
+      - "check_feeds.py"
+      - ".github/workflows/check_feeds.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check every feed
+        run: python check_feeds.py --all

@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex">
+<title>生成AI 最新情報</title>
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --card: #ffffff;
+    --text: #1a1c1f;
+    --muted: #6b7280;
+    --line: #e2e5ea;
+    --accent: #b8551f;
+    --accent-soft: #fdf1e8;
+    --chip: #ffffff;
+    --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.08);
+    --claude: #b8551f;
+    --copilot: #1a6fc4;
+    --other: #4d7c4f;
+    --warn-bg: #fff4ed;
+    --warn-line: #f0c3a4;
+    --warn-text: #8a3d10;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15171a;
+      --card: #1e2125;
+      --text: #e8eaed;
+      --muted: #9aa2ad;
+      --line: #2f343a;
+      --accent: #e8905a;
+      --accent-soft: #33261d;
+      --chip: #24282d;
+      --shadow: none;
+      --claude: #e8905a;
+      --copilot: #6fb2f0;
+      --other: #8cc48e;
+      --warn-bg: #33261d;
+      --warn-line: #5c4230;
+      --warn-text: #f0b98d;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN",
+                 "Noto Sans JP", "Yu Gothic UI", Meiryo, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+  .wrap { max-width: 820px; margin: 0 auto; padding: 0 12px 64px; }
+
+  /* ---------- ヘッダー ---------- */
+  header {
+    padding: 18px 4px 12px;
+  }
+  h1 { font-size: 20px; margin: 0 0 6px; letter-spacing: .02em; }
+  .updated { font-size: 13px; color: var(--muted); }
+  .updated strong { color: var(--text); font-weight: 600; }
+  .stale { color: #c0392b; font-weight: 600; }
+  @media (prefers-color-scheme: dark) { .stale { color: #ff8a75; } }
+
+  /* ---------- 警告帯 ---------- */
+  .notice {
+    background: var(--warn-bg); border: 1px solid var(--warn-line);
+    color: var(--warn-text); border-radius: 10px;
+    padding: 10px 12px; font-size: 13px; margin: 10px 0;
+  }
+  .notice summary { cursor: pointer; font-weight: 600; }
+  .notice ul { margin: 8px 0 0; padding-left: 18px; }
+  .notice li { margin: 4px 0; word-break: break-all; }
+
+  /* ---------- 操作パネル ---------- */
+  .controls {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--bg);
+    padding: 8px 0 10px;
+    border-bottom: 1px solid var(--line);
+  }
+  .search {
+    width: 100%; padding: 11px 13px; font-size: 16px;
+    border: 1px solid var(--line); border-radius: 10px;
+    background: var(--card); color: var(--text);
+  }
+  .search:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+
+  .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 8px; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip {
+    appearance: none; border: 1px solid var(--line); background: var(--chip);
+    color: var(--text); border-radius: 999px; padding: 7px 13px;
+    font-size: 13px; cursor: pointer; font-family: inherit; white-space: nowrap;
+  }
+  .chip[aria-pressed="true"] {
+    background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600;
+  }
+  select {
+    flex: 1; min-width: 150px; padding: 8px 10px; font-size: 14px;
+    border: 1px solid var(--line); border-radius: 8px;
+    background: var(--card); color: var(--text); font-family: inherit;
+  }
+  .textbtn {
+    appearance: none; border: 1px solid var(--line); background: var(--chip);
+    color: var(--muted); border-radius: 8px; padding: 8px 12px;
+    font-size: 13px; cursor: pointer; font-family: inherit; white-space: nowrap;
+  }
+  .textbtn:hover { color: var(--text); }
+  .count { font-size: 13px; color: var(--muted); padding: 6px 2px 0; }
+
+  /* ---------- 記事カード ---------- */
+  ul.list { list-style: none; margin: 12px 0 0; padding: 0; }
+  li.item {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 13px 14px; margin-bottom: 10px; box-shadow: var(--shadow);
+    border-left: 4px solid var(--accent);
+  }
+  li.item.cat-claude  { border-left-color: var(--claude); }
+  li.item.cat-copilot { border-left-color: var(--copilot); }
+  li.item.cat-other   { border-left-color: var(--other); }
+  li.item.read { opacity: .55; border-left-color: var(--line); }
+
+  .meta { display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+          font-size: 12px; color: var(--muted); margin-bottom: 5px; }
+  .badge { font-weight: 700; font-size: 11px; padding: 2px 7px; border-radius: 5px;
+           background: var(--accent-soft); color: var(--accent); }
+  .cat-claude  .badge { background: var(--accent-soft); color: var(--claude); }
+  .cat-copilot .badge { background: color-mix(in srgb, var(--copilot) 12%, transparent); color: var(--copilot); }
+  .cat-other   .badge { background: color-mix(in srgb, var(--other) 14%, transparent); color: var(--other); }
+  .src { font-weight: 600; color: var(--text); }
+  li.item.read .src { font-weight: 500; color: var(--muted); }
+  .new-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+             display: inline-block; flex: none; }
+  li.item.read .new-dot { display: none; }
+
+  .item a.title {
+    color: var(--text); text-decoration: none; font-weight: 650;
+    font-size: 16px; display: block; margin-bottom: 4px; word-break: break-word;
+  }
+  .item a.title:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+  li.item.read a.title { font-weight: 500; }
+  .summary { font-size: 13.5px; color: var(--muted); margin: 0 0 8px;
+             word-break: break-word; overflow-wrap: anywhere; }
+  .actions { display: flex; gap: 8px; }
+  .mark {
+    appearance: none; border: 1px solid var(--line); background: transparent;
+    color: var(--muted); border-radius: 7px; padding: 5px 11px;
+    font-size: 12px; cursor: pointer; font-family: inherit;
+  }
+  .mark:hover { color: var(--text); border-color: var(--muted); }
+
+  .empty { text-align: center; color: var(--muted); padding: 48px 16px; font-size: 14px; }
+
+  footer { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--line);
+           font-size: 12px; color: var(--muted); }
+  footer details { margin-top: 8px; }
+  footer summary { cursor: pointer; }
+  footer ul { padding-left: 18px; margin: 8px 0 0; }
+  footer li { margin: 3px 0; }
+  footer a { color: var(--muted); }
+
+  @media (max-width: 480px) {
+    h1 { font-size: 18px; }
+    .item a.title { font-size: 15.5px; }
+    .wrap { padding: 0 10px 56px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>生成AI 最新情報</h1>
+    <div class="updated" id="updated"></div>
+  </header>
+
+  <div id="feed-errors"></div>
+
+  <div class="controls">
+    <input type="search" class="search" id="q" placeholder="キーワードで検索 (例: 料金, MCP, Excel)"
+           autocomplete="off" enterkeyhint="search">
+    <div class="row">
+      <div class="chips" id="cats"></div>
+    </div>
+    <div class="row">
+      <select id="source"><option value="">すべての情報源</option></select>
+      <button class="chip" id="unread-only" aria-pressed="false" type="button">未読のみ</button>
+      <button class="textbtn" id="mark-all" type="button">すべて既読</button>
+    </div>
+    <div class="count" id="count"></div>
+  </div>
+
+  <ul class="list" id="list"></ul>
+  <div class="empty" id="empty" hidden>条件に合う記事がありません。</div>
+
+  <footer>
+    <div>このページは GitHub Actions が1日2回 (日本時間 7:00 / 19:00) 自動更新しています。</div>
+    <details>
+      <summary id="sources-summary">情報源の一覧</summary>
+      <ul id="sources-list"></ul>
+    </details>
+  </footer>
+
+</div>
+
+<script id="ainews-data" type="application/json">__DATA_JSON__</script>
+<script>
+(function () {
+  "use strict";
+
+  var DATA = JSON.parse(document.getElementById("ainews-data").textContent);
+  var ARTICLES = DATA.articles || [];
+  var FEEDS = DATA.feeds || [];
+  var STORAGE_KEY = "ainews.read.v1";
+
+  var CATEGORY_LABEL = { claude: "Claude", copilot: "Copilot", other: "その他AI" };
+  var CATEGORY_ORDER = ["", "claude", "copilot", "other"];
+  var CATEGORY_CHIP = { "": "すべて", claude: "Claude", copilot: "Copilot", other: "その他AI" };
+
+  // ---------- 既読情報 (この端末のブラウザにだけ保存されます) ----------
+  var readSet = new Set();
+  try {
+    var saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]");
+    if (Array.isArray(saved)) { saved.forEach(function (id) { readSet.add(id); }); }
+  } catch (e) { /* プライベートモードなどで読めなくても動くようにする */ }
+
+  function persist() {
+    try {
+      // 保存済み記事に無いIDは捨てて、際限なく増えないようにする
+      var alive = ARTICLES.filter(function (a) { return readSet.has(a.id); })
+                          .map(function (a) { return a.id; });
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(alive));
+    } catch (e) { /* 保存できなくても閲覧はできる */ }
+  }
+
+  // ---------- 日付の表示 ----------
+  function parseDate(s) { var d = new Date(s); return isNaN(d.getTime()) ? null : d; }
+
+  function relative(dateStr) {
+    var d = parseDate(dateStr);
+    if (!d) { return ""; }
+    var diff = (Date.now() - d.getTime()) / 1000;
+    if (diff < 60) { return "さっき"; }
+    if (diff < 3600) { return Math.floor(diff / 60) + "分前"; }
+    if (diff < 86400) { return Math.floor(diff / 3600) + "時間前"; }
+    if (diff < 86400 * 7) { return Math.floor(diff / 86400) + "日前"; }
+    return d.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" });
+  }
+
+  function absolute(dateStr) {
+    var d = parseDate(dateStr);
+    if (!d) { return "不明"; }
+    // 海外にいても混乱しないよう、日付は必ず日本時間で表示する
+    try {
+      return d.toLocaleString("ja-JP", {
+        year: "numeric", month: "2-digit", day: "2-digit",
+        hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
+      });
+    } catch (e) {
+      return d.toLocaleString("ja-JP");
+    }
+  }
+
+  // ---------- 画面の状態 ----------
+  var state = { q: "", cat: "", source: "", unreadOnly: false };
+
+  var elList = document.getElementById("list");
+  var elEmpty = document.getElementById("empty");
+  var elCount = document.getElementById("count");
+
+  function matches(a) {
+    if (state.cat && a.category !== state.cat) { return false; }
+    if (state.source && a.source !== state.source) { return false; }
+    if (state.unreadOnly && readSet.has(a.id)) { return false; }
+    if (state.q) {
+      var hay = (a.title + " " + (a.summary || "") + " " + a.source).toLowerCase();
+      var words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+      for (var i = 0; i < words.length; i++) {
+        if (hay.indexOf(words[i]) === -1) { return false; }
+      }
+    }
+    return true;
+  }
+
+  function buildItem(a) {
+    var li = document.createElement("li");
+    li.className = "item cat-" + (CATEGORY_LABEL[a.category] ? a.category : "other");
+    if (readSet.has(a.id)) { li.classList.add("read"); }
+    li.dataset.id = a.id;
+
+    var meta = document.createElement("div");
+    meta.className = "meta";
+
+    var dot = document.createElement("span");
+    dot.className = "new-dot";
+    dot.setAttribute("aria-label", "未読");
+    meta.appendChild(dot);
+
+    var badge = document.createElement("span");
+    badge.className = "badge";
+    badge.textContent = CATEGORY_LABEL[a.category] || "その他AI";
+    meta.appendChild(badge);
+
+    var src = document.createElement("span");
+    src.className = "src";
+    src.textContent = a.source;
+    meta.appendChild(src);
+
+    var when = document.createElement("time");
+    when.dateTime = a.published || "";
+    when.textContent = relative(a.published) + (a.date_estimated ? " (取得日)" : "");
+    when.title = absolute(a.published);
+    meta.appendChild(when);
+
+    li.appendChild(meta);
+
+    var link = document.createElement("a");
+    link.className = "title";
+    link.href = a.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = a.title;
+    link.addEventListener("click", function () { setRead(a.id, true); });
+    li.appendChild(link);
+
+    if (a.summary) {
+      var p = document.createElement("p");
+      p.className = "summary";
+      p.textContent = a.summary;
+      li.appendChild(p);
+    }
+
+    var actions = document.createElement("div");
+    actions.className = "actions";
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "mark";
+    btn.textContent = readSet.has(a.id) ? "未読に戻す" : "既読にする";
+    btn.addEventListener("click", function () { setRead(a.id, !readSet.has(a.id)); });
+    actions.appendChild(btn);
+    li.appendChild(actions);
+
+    return li;
+  }
+
+  function setRead(id, value) {
+    if (value) { readSet.add(id); } else { readSet.delete(id); }
+    persist();
+    render();
+  }
+
+  function render() {
+    var shown = ARTICLES.filter(matches);
+    elList.textContent = "";
+    var frag = document.createDocumentFragment();
+    shown.forEach(function (a) { frag.appendChild(buildItem(a)); });
+    elList.appendChild(frag);
+    elEmpty.hidden = shown.length > 0;
+
+    var unread = shown.filter(function (a) { return !readSet.has(a.id); }).length;
+    elCount.textContent = shown.length + " 件を表示中 (未読 " + unread + " 件) / 全 " +
+                          ARTICLES.length + " 件";
+  }
+
+  // ---------- 操作パネルの組み立て ----------
+  var elCats = document.getElementById("cats");
+  CATEGORY_ORDER.forEach(function (cat) {
+    var n = cat ? ARTICLES.filter(function (a) { return a.category === cat; }).length
+                : ARTICLES.length;
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "chip";
+    b.textContent = CATEGORY_CHIP[cat] + " (" + n + ")";
+    b.setAttribute("aria-pressed", String(cat === state.cat));
+    b.addEventListener("click", function () {
+      state.cat = cat;
+      Array.prototype.forEach.call(elCats.children, function (c) {
+        c.setAttribute("aria-pressed", String(c === b));
+      });
+      fillSources();
+      render();
+    });
+    elCats.appendChild(b);
+  });
+
+  var elSource = document.getElementById("source");
+  function fillSources() {
+    var pool = state.cat ? ARTICLES.filter(function (a) { return a.category === state.cat; })
+                         : ARTICLES;
+    var names = Array.from(new Set(pool.map(function (a) { return a.source; }))).sort(
+      function (a, b) { return a.localeCompare(b, "ja"); });
+    elSource.textContent = "";
+    var all = document.createElement("option");
+    all.value = "";
+    all.textContent = "すべての情報源";
+    elSource.appendChild(all);
+    names.forEach(function (name) {
+      var o = document.createElement("option");
+      o.value = name;
+      o.textContent = name;
+      elSource.appendChild(o);
+    });
+    if (state.source && names.indexOf(state.source) === -1) { state.source = ""; }
+    elSource.value = state.source;
+  }
+  elSource.addEventListener("change", function () { state.source = elSource.value; render(); });
+
+  var elQ = document.getElementById("q");
+  elQ.addEventListener("input", function () { state.q = elQ.value.trim(); render(); });
+
+  var elUnread = document.getElementById("unread-only");
+  elUnread.addEventListener("click", function () {
+    state.unreadOnly = !state.unreadOnly;
+    elUnread.setAttribute("aria-pressed", String(state.unreadOnly));
+    render();
+  });
+
+  document.getElementById("mark-all").addEventListener("click", function () {
+    var shown = ARTICLES.filter(matches);
+    if (!shown.length) { return; }
+    if (!window.confirm("表示中の " + shown.length + " 件を既読にします。よろしいですか?")) { return; }
+    shown.forEach(function (a) { readSet.add(a.id); });
+    persist();
+    render();
+  });
+
+  // ---------- 最終更新 ----------
+  var elUpdated = document.getElementById("updated");
+  var gen = parseDate(DATA.generated_at);
+  var hours = gen ? (Date.now() - gen.getTime()) / 3600000 : null;
+  elUpdated.innerHTML = "最終更新 <strong>" + absolute(DATA.generated_at) + "</strong> (日本時間)";
+  if (hours !== null && hours > 26) {
+    var warn = document.createElement("div");
+    warn.className = "stale";
+    warn.textContent = "⚠ " + Math.floor(hours / 24) + "日以上 更新が止まっています。GitHub Actions の実行結果を確認してください。";
+    elUpdated.appendChild(warn);
+  }
+
+  // ---------- 取得に失敗した情報源 ----------
+  var failed = FEEDS.filter(function (f) { return !f.ok; });
+  if (failed.length) {
+    var box = document.createElement("details");
+    box.className = "notice";
+    var sum = document.createElement("summary");
+    sum.textContent = "⚠ " + failed.length + " 件の情報源が取得できませんでした";
+    box.appendChild(sum);
+    var ul = document.createElement("ul");
+    failed.forEach(function (f) {
+      var li = document.createElement("li");
+      li.textContent = f.name + " — " + f.error;
+      ul.appendChild(li);
+    });
+    box.appendChild(ul);
+    document.getElementById("feed-errors").appendChild(box);
+  }
+
+  // ---------- 情報源の一覧 ----------
+  var elSources = document.getElementById("sources-list");
+  document.getElementById("sources-summary").textContent = "情報源の一覧 (" + FEEDS.length + " 件)";
+  FEEDS.slice().sort(function (a, b) {
+    return (a.category + a.name).localeCompare(b.category + b.name, "ja");
+  }).forEach(function (f) {
+    var li = document.createElement("li");
+    li.textContent = "[" + (CATEGORY_LABEL[f.category] || f.category) + "] " + f.name +
+                     (f.ok ? "" : " (取得失敗)");
+    elSources.appendChild(li);
+  });
+
+  fillSources();
+  render();
+})();
+</script>
+</body>
+</html>

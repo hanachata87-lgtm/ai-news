@@ -1,0 +1,85 @@
+# 生成AIの最新情報を自動で集めて、閲覧用ページ (docs/index.html) を作り直すしくみ。
+#
+#  ・1日2回 (日本時間 7:00 と 19:00) に自動で動きます
+#  ・Actions 画面の "Run workflow" ボタンで、いつでも手動実行できます
+#  ・情報源 (feeds.yml) を書き換えたときにも自動で動きます
+#
+# 結果 (articles.json と docs/index.html) はこのリポジトリに自動で
+# コミットされ、GitHub Pages のページがそのまま新しくなります。
+name: AI news
+
+on:
+  schedule:
+    # GitHub Actions の時刻は UTC (世界標準時) なので、日本時間から9時間引いて書きます
+    - cron: "0 22 * * *" # 日本時間 07:00 (前日 22:00 UTC)
+    - cron: "0 10 * * *" # 日本時間 19:00 (当日 10:00 UTC)
+  workflow_dispatch: # Actions 画面の "Run workflow" ボタンで手動実行
+  push:
+    # 情報源やプログラムを書き換えたら、すぐページを作り直す
+    paths:
+      - "feeds.yml"
+      - "collect.py"
+      - "render.py"
+      - "template.html"
+      - "requirements.txt"
+      - ".github/workflows/ai_news.yml"
+
+# 同時に2つ走ってコミットがぶつからないようにする
+concurrency:
+  group: ai-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write # 集めた記事をリポジトリに保存するために必要
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 情報源を1つずつ取りに行く。1つ落ちても止まらず、失敗した理由はログに残る。
+      - name: Collect articles
+        run: python collect.py
+
+      # 貯めた記事から閲覧用ページを作り直す
+      - name: Build page
+        run: python render.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles.json docs/index.html
+
+          if git diff --staged --quiet; then
+            echo "新しい記事はありませんでした (コミットなし)"
+            exit 0
+          fi
+
+          NEW_COUNT=$(python -c "import json;print(json.load(open('articles.json',encoding='utf-8')).get('new_articles',0))")
+          git commit -m "生成AI最新情報を更新 (新着 ${NEW_COUNT} 件)"
+
+          # 他の実行と重なって押し戻された場合にそなえて数回やり直す
+          for attempt in 1 2 3 4; do
+            if git push; then
+              echo "プッシュしました"
+              exit 0
+            fi
+            echo "プッシュに失敗しました。取り込み直して再試行します (${attempt}回目)"
+            git pull --rebase --autostash || true
+            sleep $((attempt * 3))
+          done
+          echo "プッシュできませんでした"
+          exit 1

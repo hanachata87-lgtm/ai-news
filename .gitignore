@@ -1,0 +1,6 @@
+# Python の一時ファイル
+__pycache__/
+*.pyc
+
+# 書き込み途中の一時ファイル
+*.json.tmp
