@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-11T00:48:55+09:00",
- "new_articles": 349,
+ "generated_at": "2026-10-11T09:36:59+09:00",
+ "new_articles": 329,
  "feeds": [
   {
    "name": "Claude Code リリースノート (公式)",
@@ -9,7 +9,7 @@
    "ok": true,
    "error": null,
    "new": 3,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Anthropic 稼働状況 (公式)",
@@ -18,7 +18,7 @@
    "ok": true,
    "error": null,
    "new": 7,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Claude ニュース検索 (日本語)",
@@ -26,8 +26,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 20,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 13,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Claude Code ニュース検索 (日本語)",
@@ -36,7 +36,7 @@
    "ok": true,
    "error": null,
    "new": 40,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Anthropic ニュース検索 (英語)",
@@ -44,8 +44,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 39,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 40,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Zenn - Claude Code (使い方・工夫)",
@@ -53,8 +53,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 18,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 20,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Zenn - Claude (使い方・工夫)",
@@ -62,8 +62,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 4,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 9,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Qiita - Claude (使い方・工夫)",
@@ -72,7 +72,7 @@
    "ok": true,
    "error": null,
    "new": 4,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Qiita - ClaudeCode (使い方・工夫)",
@@ -80,8 +80,8 @@
    "category": "claude",
    "ok": true,
    "error": null,
-   "new": 4,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 2,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Anthropic ブログ (非公式RSS配信)",
@@ -90,7 +90,7 @@
    "ok": true,
    "error": null,
    "new": 20,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Microsoft 365 ブログ (公式)",
@@ -99,7 +99,7 @@
    "ok": true,
    "error": null,
    "new": 3,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Microsoft Copilot ブログ (公式)",
@@ -108,7 +108,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Microsoft 365 ロードマップ (公式・近日公開の機能)",
@@ -116,8 +116,8 @@
    "category": "copilot",
    "ok": true,
    "error": null,
-   "new": 37,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 36,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Microsoft 365 Copilot ニュース検索 (日本語)",
@@ -125,8 +125,8 @@
    "category": "copilot",
    "ok": true,
    "error": null,
-   "new": 18,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 19,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Microsoft 365 Copilot ニュース検索 (英語)",
@@ -135,7 +135,7 @@
    "ok": true,
    "error": null,
    "new": 9,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Zenn - Microsoft 365 Copilot",
@@ -144,7 +144,7 @@
    "ok": true,
    "error": null,
    "new": 8,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "OpenAI ニュース (公式)",
@@ -153,7 +153,7 @@
    "ok": true,
    "error": null,
    "new": 40,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Google AI ブログ (公式)",
@@ -161,8 +161,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 13,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 12,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Google Gemini ブログ (公式)",
@@ -170,8 +170,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 11,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 10,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Google DeepMind ブログ (公式)",
@@ -180,7 +180,7 @@
    "ok": true,
    "error": null,
    "new": 2,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "ITmedia AI＋ (日本語)",
@@ -189,7 +189,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "TechCrunch AI (英語)",
@@ -198,7 +198,7 @@
    "ok": true,
    "error": null,
    "new": 2,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "The Verge AI (英語)",
@@ -207,7 +207,7 @@
    "ok": true,
    "error": null,
    "new": 2,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Publickey (日本語・AI関連のみ)",
@@ -215,8 +215,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 5,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 6,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "GIGAZINE (日本語・AI関連のみ)",
@@ -224,8 +224,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 2,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 1,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "ASCII.jp (日本語・AI関連のみ)",
@@ -233,8 +233,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 1,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 0,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "クラウド Watch (日本語・AI関連のみ)",
@@ -243,7 +243,7 @@
    "ok": true,
    "error": null,
    "new": 0,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "生成AI ニュース検索 (日本語)",
@@ -251,8 +251,8 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 29,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 14,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   },
   {
    "name": "Simon Willison (LLMの実践的な話題・英語)",
@@ -260,11 +260,609 @@
    "category": "other",
    "ok": true,
    "error": null,
-   "new": 8,
-   "checked_at": "2026-10-11T00:48:55+09:00"
+   "new": 7,
+   "checked_at": "2026-10-11T09:36:59+09:00"
   }
  ],
  "articles": [
+  {
+   "id": "b7b0b5c488d2",
+   "title": "Claude CodeとGitHub CLIを活用してGitコミットおよびPull Request作成を自動化する開発フローの構築",
+   "url": "https://qiita.com/blinkgroup_jp/items/0fef98c815ab5f40f065",
+   "url_key": "https://qiita.com/blinkgroup_jp/items/0fef98c815ab5f40f065",
+   "title_key": "claudecodeとgithubcliを活用してgitコミットおよびpullrequest作成を自動化する開発フロの構築",
+   "source": "Qiita - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T09:22:05+09:00",
+   "date_estimated": false,
+   "summary": "読者が抱える課題 開発作業において、実装完了後にコミットメッセージを記述したり、Pull Request（PR）の概要を手動でまとめたりする作業は、コンテキストスイッチが発生し開発効率の低下につながることがあります。また、開発者によってコミットメッセージやPRの記述レベル...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "2328b13682b6",
+   "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 5 New York",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFpBb2tuRXRYU29WZTZXX2RLZE5obTY5XzJtMUZYbG9WNlVMMEVpOUlzVVM4WTdZcEh3Rk1paVZIb3hMcXF6dU0yNGFEYXlKX3hVS2l0LTlqa2prUDV1ZllzekgyQkI4dVcwZUtUZ2piVXNjcFpDRGg2czdLcXFwUzNfZFB6aDllSFN5R3ZvNkx2dGpLT2QyNzFyTFdSZw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFpBb2tuRXRYU29WZTZXX2RLZE5obTY5XzJtMUZYbG9WNlVMMEVpOUlzVVM4WTdZcEh3Rk1paVZIb3hMcXF6dU0yNGFEYXlKX3hVS2l0LTlqa2prUDV1ZllzekgyQkI4dVcwZUtUZ2piVXNjcFpDRGg2czdLcXFwUzNfZFB6aDllSFN5R3ZvNkx2dGpLT2QyNzFyTFdSZw?oc=5",
+   "title_key": "anthropicclaudeaimodelsendsfakehomicidetiptophiladelphiapolicefox5newyork",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T09:12:36+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police FOX 5 New York",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "056d8ed2fa33",
+   "title": "本を Claude Code に読ませて自分のリポジトリに再現する: 読む順路・検証済み SHA・改訂の追随",
+   "url": "https://qiita.com/kai_kou/items/b0969ef956969c328d08",
+   "url_key": "https://qiita.com/kai_kou/items/b0969ef956969c328d08",
+   "title_key": "本をclaudecodeに読ませて自分のリポジトリに再現する読む順路検証済みsha改訂の追随",
+   "source": "Qiita - ClaudeCode (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T09:07:48+09:00",
+   "date_estimated": false,
+   "summary": "この記事はシリーズ「Claude Code で技術ブログを無人運用する — 無料章から読む仕組みの全体像」の第 6 回（全 6 回）です。 Claude Code のスケジュール実行だけで技術ブログ（Qiita 主軸・Zenn 試験投稿・X 告知・画像生成）が人手なしで...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1446e2ff9a19",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Pittsburgh Post-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWkQ2UjhWZDBGMzhRMENBOXFkS0JUaHVMNEZHdi1IZGJWckotZWNVdlJjY25keUZFb1REb2J4QXQ1Z1JDYjFOd09MLW13aXNkTDFJRlFlWnV6S1BXZmpTeGJlWDl6NnRIbUJNeTNXMXI3TlZlSUVXNnB5bmVsdWFLcG9KTXlKaF8wcjluS1l1a1RxSDlGWE8teGoydFpLX2hFb19jWVVnQmlyOVFJM2dxZmhSbGxkY2tjYnNZeTNEYXZwUjB3YjZiN2lyTnM4dmtKenc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWkQ2UjhWZDBGMzhRMENBOXFkS0JUaHVMNEZHdi1IZGJWckotZWNVdlJjY25keUZFb1REb2J4QXQ1Z1JDYjFOd09MLW13aXNkTDFJRlFlWnV6S1BXZmpTeGJlWDl6NnRIbUJNeTNXMXI3TlZlSUVXNnB5bmVsdWFLcG9KTXlKaF8wcjluS1l1a1RxSDlGWE8teGoydFpLX2hFb19jWVVnQmlyOVFJM2dxZmhSbGxkY2tjYnNZeTNEYXZwUjB3YjZiN2lyTnM4dmtKenc?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasepittsburghpostgazette",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T09:04:12+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Pittsburgh Post-Gazette Investigating unintended model actions in our evaluations and internal use Anthropic Anthropic Cuts Live Internet…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "b868cd2f3761",
+   "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供 - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUFwdVZXSURRUWVHZmZpQ1ByQlRuVEtMR1RFZEtLaG45dWgzeW15NVRrVGVKeVhBREliVEhIUUh5UkpwV0lYSllxQVdHeFYwNVdnclNtS1EwRFo4SHRMbUpsMUFuY2xDdWNxNjhaR0hFTjBmLTlSVGpyS2RMYlMyN0w2bnJCSWc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUFwdVZXSURRUWVHZmZpQ1ByQlRuVEtMR1RFZEtLaG45dWgzeW15NVRrVGVKeVhBREliVEhIUUh5UkpwV0lYSllxQVdHeFYwNVdnclNtS1EwRFo4SHRMbUpsMUFuY2xDdWNxNjhaR0hFTjBmLTlSVGpyS2RMYlMyN0w2bnJCSWc?oc=5",
+   "title_key": "anthropicのaiが未解決殺人事件に関する虚偽の情報を提供gigazine",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T09:00:00+09:00",
+   "date_estimated": false,
+   "summary": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供 GIGAZINE",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "d02fb980f449",
+   "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+   "url": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+   "url_key": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide",
+   "title_key": "anthropicのaiが未解決殺人事件に関する虚偽の情報を提供",
+   "source": "GIGAZINE (日本語・AI関連のみ)",
+   "category": "other",
+   "published": "2026-10-11T09:00:00+09:00",
+   "date_estimated": false,
+   "summary": "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました。 続きを読む...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "24d721d47322",
+   "title": "Python 3.15.0 added to actions/python-versions",
+   "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+   "url_key": "https://simonwillison.net/2026/Oct/10/python-actions",
+   "title_key": "python3150addedtoactionspythonversions",
+   "source": "Simon Willison (LLMの実践的な話題・英語)",
+   "category": "other",
+   "published": "2026-10-11T08:58:04+09:00",
+   "date_estimated": false,
+   "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "f6fac2119869",
+   "title": "GitHub連携が認証切れする時の最短チェック手順！Claude Code でつまずいたときの切り分けメモ（2026-10-11）",
+   "url": "https://qiita.com/homhom44/items/d866772fde1183485dd9",
+   "url_key": "https://qiita.com/homhom44/items/d866772fde1183485dd9",
+   "title_key": "github連携が認証切れする時の最短チェック手順！claudecodeでつまずいたときの切り分けメモ（20261011）",
+   "source": "Qiita - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T08:54:46+09:00",
+   "date_estimated": false,
+   "summary": "Claude Code を使っていて詰まったときの切り分けメモです。GitHub Issues に実際に報告されている症状のうち、複数人が同じことを踏んでいるものを選び、手元で実際にコマンドを叩いて確認した範囲だけを書いています。本文は PaPoo 側に置いてあります。 ...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "05c928d6fa82",
+   "title": "Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜",
+   "url": "https://qiita.com/charge0315/items/fcec85cc5250e39bab97",
+   "url_key": "https://qiita.com/charge0315/items/fcec85cc5250e39bab97",
+   "title_key": "claudecodeに任せる範囲と止める仕組みの設計〜計画モドsessionstartフックloop課金前確認の使い分け〜",
+   "source": "Qiita - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T08:33:23+09:00",
+   "date_estimated": false,
+   "summary": "AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇 しかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Cla...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "e442c0d45e4e",
+   "title": "/skill-doctor でスキルの健全性を診断する ― 13スキル107KBを常時ロードしていた会社の棚卸し記録",
+   "url": "https://qiita.com/joinclass/items/16f4d6c3f2e205eccfc3",
+   "url_key": "https://qiita.com/joinclass/items/16f4d6c3f2e205eccfc3",
+   "title_key": "skilldoctorでスキルの健全性を診断する―13スキル107kbを常時ロドしていた会社の棚卸し記録",
+   "source": "Qiita - ClaudeCode (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T08:30:02+09:00",
+   "date_estimated": false,
+   "summary": "はじめに：スキルは増えるが、減らす仕組みがなかった 当社（合同会社ジョインクラス）は、Claude Codeを「AI経営チーム」として運用しています。17のサブエージェントと13のカスタムスキルが .claude/ 配下に住んでおり、launchdから1日40本以上のヘッ...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "895863eb1b50",
+   "title": "Anthropic AI model sent fake homicide tip to Philadelphia police - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3IteFIxdG9mMW9TV2daLUZaenltcU5LdHFSWEZ4Sm9jU1JMb0lwNzVnOXp0MkxZUDRHd2M1V1REZ2tMTnEwRTFVVm9Ib01XSEJXeDVGVXEzVWVCMFdWekhGdFNwSkl3SzlENnloODRyRi1XMXZiZ0Z5YTdPWWYwUGJn?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3IteFIxdG9mMW9TV2daLUZaenltcU5LdHFSWEZ4Sm9jU1JMb0lwNzVnOXp0MkxZUDRHd2M1V1REZ2tMTnEwRTFVVm9Ib01XSEJXeDVGVXEzVWVCMFdWekhGdFNwSkl3SzlENnloODRyRi1XMXZiZ0Z5YTdPWWYwUGJn?oc=5",
+   "title_key": "anthropicaimodelsentfakehomicidetiptophiladelphiapolicequartz",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T08:17:35+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic AI model sent fake homicide tip to Philadelphia police Quartz",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "3f38fddcba18",
+   "title": "OpenAI未上場株、シリコンバレー起業家に意外と不人気!? - 株式会社エクサウィザーズ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNy11enBMSWhMVHlla3BLRTZndjJwRTZUX0FJM0RTNkRrajNNWnRTbW5xclhYRHFwUF9QSTI4RUhDQ05scXpFSFRwalZ4am51a1d5TV8ycXBRTUJfbVExV0pFRjh5UQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNy11enBMSWhMVHlla3BLRTZndjJwRTZUX0FJM0RTNkRrajNNWnRTbW5xclhYRHFwUF9QSTI4RUhDQ05scXpFSFRwalZ4am51a1d5TV8ycXBRTUJfbVExV0pFRjh5UQ?oc=5",
+   "title_key": "openai未上場株シリコンバレ起業家に意外と不人気株式会社エクサウィザズ",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T08:08:35+09:00",
+   "date_estimated": false,
+   "summary": "OpenAI未上場株、シリコンバレー起業家に意外と不人気!? 株式会社エクサウィザーズ",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1175cc9f4662",
+   "title": "SES多重下請け構造を規模別に解剖:独立準備とAI活用の完全ロードマップ",
+   "url": "https://qiita.com/sescore/items/a920450da0bcf68b34a7",
+   "url_key": "https://qiita.com/sescore/items/a920450da0bcf68b34a7",
+   "title_key": "ses多重下請け構造を規模別に解剖独立準備とai活用の完全ロドマップ",
+   "source": "Qiita - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T08:05:47+09:00",
+   "date_estimated": false,
+   "summary": "はじめに — 2026年10月、開発者コミュニティで起きている3つの変化 2026年10月現在、エンジニアコミュニティでは地味だが無視できない3つの潮流が同時に動いている。 1つ目は、Qiitaで直近14日にストック20超の記事が5本も出ている「Security」タグの盛...",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "249b8ce5ae41",
+   "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - Toronto Star",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTXlqSDZyUkdlTGhVWE91UTc3ZGg4b0JVdkJ5ckdvaVRQUXQ0bWc5T0JDMFJqNlJqY3hsZW5nelhyQkhWYUNyY09waHZaLTl6MGJ6WnFLY0NTZk1yY3g3aklYbnkxTUt6V290Mlh2ZXJIZDNSWXdrZ3JnQXJPWUlwNk9PLTNjTVpNdXlSYjRBMFFVOWdna3R3NEFjVk52U1pKVHNweDAtQ24tZFBWQ0REUFZsbk9OQVZqN05OZ2tmZW9mWXBmM3BqWHd2dVh6d0lWZjdMbEpFbkZFc0t6UlpmY2ZCNzNKQV96U2Ryd2w3MzJfUTQ3U1NRSWZIZw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTXlqSDZyUkdlTGhVWE91UTc3ZGg4b0JVdkJ5ckdvaVRQUXQ0bWc5T0JDMFJqNlJqY3hsZW5nelhyQkhWYUNyY09waHZaLTl6MGJ6WnFLY0NTZk1yY3g3aklYbnkxTUt6V290Mlh2ZXJIZDNSWXdrZ3JnQXJPWUlwNk9PLTNjTVpNdXlSYjRBMFFVOWdna3R3NEFjVk52U1pKVHNweDAtQ24tZFBWQ0REUFZsbk9OQVZqN05OZ2tmZW9mWXBmM3BqWHd2dVh6d0lWZjdMbEpFbkZFc0t6UlpmY2ZCNzNKQV96U2Ryd2w3MzJfUTQ3U1NRSWZIZw?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasetorontostar",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T07:53:14+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case Toronto Star",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "b6ff32ab829c",
+   "title": "Anthropic AI model sends police false tip about unsolved homicide - upi",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5",
+   "title_key": "anthropicaimodelsendspolicefalsetipaboutunsolvedhomicideupi",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T07:38:07+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic AI model sends police false tip about unsolved homicide upi",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "4c640ca9263a",
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "url_key": "https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "title_key": "satyanadellasaysweshouldassumeallaimodelsare‘compromised",
+   "source": "The Verge AI (英語)",
+   "category": "other",
+   "published": "2026-10-11T07:10:17+09:00",
+   "date_estimated": false,
+   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "9f3de19bfd72",
+   "title": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkZMVlRJbkQ4TkhBMDJHcW44YVRweUh6TlRPWE90R1FzWTNRT29FWDYyUXB5cnR2cHZFQjhiMElzUXdKTjR0U3hoUkpfYVFCbXVCaGV1QUJsWFhPWW10ZndyNGEya003Nk5qMlc3dEhkYXRNeEpubmVSTmtkZ1F2MFJaaEduTVZENmRfUGE0NjVuQdIBlwFBVV95cUxOV1hINEdBdERXZmRYTlhpTHBrTElhZE5YOGpMRGQxYmNpdFFhcHRRSHo5cDhFQTh4VERnNzJmNFZsZ0c1YXRVcHlTWmZfb2Z3YUN3MGN1dzVISUdmUnllNGFpSkw0YldfOTBFMmk1Wlh6YTRMcldLbzJRTFg4bllIb1paSFVoOHMwWElXM3FSbUZlRHZCd0l3?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkZMVlRJbkQ4TkhBMDJHcW44YVRweUh6TlRPWE90R1FzWTNRT29FWDYyUXB5cnR2cHZFQjhiMElzUXdKTjR0U3hoUkpfYVFCbXVCaGV1QUJsWFhPWW10ZndyNGEya003Nk5qMlc3dEhkYXRNeEpubmVSTmtkZ1F2MFJaaEduTVZENmRfUGE0NjVuQdIBlwFBVV95cUxOV1hINEdBdERXZmRYTlhpTHBrTElhZE5YOGpMRGQxYmNpdFFhcHRRSHo5cDhFQTh4VERnNzJmNFZsZ0c1YXRVcHlTWmZfb2Z3YUN3MGN1dzVISUdmUnllNGFpSkw0YldfOTBFMmk1Wlh6YTRMcldLbzJRTFg4bllIb1paSFVoOHMwWElXM3FSbUZlRHZCd0l3?oc=5",
+   "title_key": "anthropicが小型aiモデルclaudehaiku55を発表／mistralaiが大規模言語モデルmistrallarge4を公開ｄメニュニュス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T07:00:36+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開 ｄメニューニュース",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1592b684989a",
+   "title": "ニコン主催コンテスト 受賞作品が生成AI利用として失格に - ミラーレスカメラ情報",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rNW54WmZjdHNVWEJ2aWxoR2loZ3R5MjR3S2hqWnJGaDg3QkRSenM2ZVo3MW03S29tQlRyY3NqdEd4eXdZVzU3LVNDS3NNRnNsOTFiYjJPTkVaYTliZXVUSDJxTWFRMXRn?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rNW54WmZjdHNVWEJ2aWxoR2loZ3R5MjR3S2hqWnJGaDg3QkRSenM2ZVo3MW03S29tQlRyY3NqdEd4eXdZVzU3LVNDS3NNRnNsOTFiYjJPTkVaYTliZXVUSDJxTWFRMXRn?oc=5",
+   "title_key": "ニコン主催コンテスト受賞作品が生成ai利用として失格にミラレスカメラ情報",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-11T07:00:00+09:00",
+   "date_estimated": false,
+   "summary": "ニコン主催コンテスト 受賞作品が生成AI利用として失格に ミラーレスカメラ情報",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "2c9728d3318b",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "url_key": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+   "title_key": "microsoftssatyanadellasaysaimodelsneedan‘emergencybrake",
+   "source": "TechCrunch AI (英語)",
+   "category": "other",
+   "published": "2026-10-11T06:47:51+09:00",
+   "date_estimated": false,
+   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "d08fc2078e36",
+   "title": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVlFlZ0VBNHlJR1FHdnRDS0FIRU9iUEpCemVKd0JUTTBzSTFCWXJZcFVCWjgxeGRZZTJmMlViX3hTaWJvc0ZPaHNzVGpKV1JaaHlHLVFaZF9QZmRpZFNwRXp4VjN3VVZmYjJqcWV4TEI3RTVOTVBrdVBkdWJqYXM?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVlFlZ0VBNHlJR1FHdnRDS0FIRU9iUEpCemVKd0JUTTBzSTFCWXJZcFVCWjgxeGRZZTJmMlViX3hTaWJvc0ZPaHNzVGpKV1JaaHlHLVFaZF9QZmRpZFNwRXp4VjN3VVZmYjJqcWV4TEI3RTVOTVBrdVBkdWJqYXM?oc=5",
+   "title_key": "anthropicが小型aiモデルclaudehaiku55を発表／mistralaiが大規模言語モデルmistrallarge4を公開yahooニュス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T06:26:20+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開 Yahoo!ニュース",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "018cebc77140",
+   "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia crime website - Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeElGamhIZ2Z1VV9pcXpsMG9wb2lVVDFlS1BBc0dzU3lVWW1nWkV2blJEYXVVeHFGR21PYWV4dHYzcGEzN2ZlbkhpWUtkQlJjTFFIcm9GVmVVTkpCampZSDkwTzc4M19MR3VRRU9jUk51dUdpODlVZ1VOcUdMX3ZNNmRlb3BoQkp3cHFMMFVVUjNnZF92R3BzQ1lPd2RHUEZiSnRPVzNHSTRDSUsySVE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeElGamhIZ2Z1VV9pcXpsMG9wb2lVVDFlS1BBc0dzU3lVWW1nWkV2blJEYXVVeHFGR21PYWV4dHYzcGEzN2ZlbkhpWUtkQlJjTFFIcm9GVmVVTkpCampZSDkwTzc4M19MR3VRRU9jUk51dUdpODlVZ1VOcUdMX3ZNNmRlb3BoQkp3cHFMMFVVUjNnZF92R3BzQ1lPd2RHUEZiSnRPVzNHSTRDSUsySVE?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiacrimewebsitelosangelestimes",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T06:06:37+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic’s Claude AI submits a false tip on a Philadelphia crime website Los Angeles Times",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "3aa684ceffea",
+   "title": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYVJHN1FiMXgtSDBUVGN1ZTB6LVJTZXNWakpjNU0xWG5DYTFSQWR1ZHNCdlpRWVBiZ1lteE5hZ1ZKVWpCa1NidEtsaEMxUXEwX1BULVdCbWZvS3FhSmhPd2tmV19mUmxU0gFoQVVfeXFMUEphUkc3UWIxeC1IMFRUY3VlMHotUlNlc1ZqSmM1TTFYbkNhMVJBZHVkc0J2WlFZUGJnWW14TmFnVkpVakJrU2J0S2xoQzFRcTBfUFQtV0JtZm9LcWFKaE93a2ZXX2ZSbFQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKYVJHN1FiMXgtSDBUVGN1ZTB6LVJTZXNWakpjNU0xWG5DYTFSQWR1ZHNCdlpRWVBiZ1lteE5hZ1ZKVWpCa1NidEtsaEMxUXEwX1BULVdCbWZvS3FhSmhPd2tmV19mUmxU0gFoQVVfeXFMUEphUkc3UWIxeC1IMFRUY3VlMHotUlNlc1ZqSmM1TTFYbkNhMVJBZHVkc0J2WlFZUGJnWW14TmFnVkpVakJrU2J0S2xoQzFRcTBfUFQtV0JtZm9LcWFKaE93a2ZXX2ZSbFQ?oc=5",
+   "title_key": "anthropicが小型aiモデルclaudehaiku55を発表／mistralaiが大規模言語モデルmistrallarge4を公開：週末の気になるニュス一気読み！（13ペジ）itmediapcuseritmedia",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T06:00:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER ITmedia",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "eb38c3d07cff",
+   "title": "Anthropic Believes So Heartily In AI Consciousness That They Are Banning Humans From Being Cruel Toward AI Claude - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWmd1WmJRaTJnNERIUHNFNm5YSHljcFl6WVpmcUZDYWlFbEthT0dKYmRsdmpYZnRTWHlRUW0zSU1pOHU5NzVtSjJ3ZkZReEkyS2k3Q0J6M3JkN0FPcEw1S19pZC1iYlMzbjhXdnlISGNSUmlrbHBjZXZGalpWOVJheE5NUjRHZHRLYl9pekwtYk1BSlZ0RFVUc3hlc3phakRBTGs2MUtESVg3V3RJUkVGV2QyYWNnX0hEaWlrTHU1dmVEazlBX25SUkgwN2N6X0ItQ3J0dFdtWEZReWFnQnljbjBaRksxUHZrSkZaZUhZV1NsZW1meGk3aw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWmd1WmJRaTJnNERIUHNFNm5YSHljcFl6WVpmcUZDYWlFbEthT0dKYmRsdmpYZnRTWHlRUW0zSU1pOHU5NzVtSjJ3ZkZReEkyS2k3Q0J6M3JkN0FPcEw1S19pZC1iYlMzbjhXdnlISGNSUmlrbHBjZXZGalpWOVJheE5NUjRHZHRLYl9pekwtYk1BSlZ0RFVUc3hlc3phakRBTGs2MUtESVg3V3RJUkVGV2QyYWNnX0hEaWlrTHU1dmVEazlBX25SUkgwN2N6X0ItQ3J0dFdtWEZReWFnQnljbjBaRksxUHZrSkZaZUhZV1NsZW1meGk3aw?oc=5",
+   "title_key": "anthropicbelievessoheartilyinaiconsciousnessthattheyarebanninghumansfrombeingcrueltowardaiclaudeforbes",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T05:52:25+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic Believes So Heartily In AI Consciousness That They Are Banning Humans From Being Cruel Toward AI Claude Forbes",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "36f25ea8b4cd",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Livingston Enterprise",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFprOEJrbjZRX1F6Tk9ILUlwTUM0cGkteWowMWRIRjJqWjJGRUpLVktvNjgxZW90R0E3U3NxWnJYc0tYTUlnWXVtanlMTjMweGVyVXpXY1dzN2EwQjkyVE1zQjRXUHFpYi1fU09RWEpKT0xjQlJuZlVCRDltcVNwRTBOX19BTDY5dFBZWjhjTVF4NzM4QlJIRVZhVU9LcTA2NlYwb014Zm41ZFhiekxCTDk3VHJOX3lZMXB1THk0TmJJTWxLekxDU2d1OHA?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFprOEJrbjZRX1F6Tk9ILUlwTUM0cGkteWowMWRIRjJqWjJGRUpLVktvNjgxZW90R0E3U3NxWnJYc0tYTUlnWXVtanlMTjMweGVyVXpXY1dzN2EwQjkyVE1zQjRXUHFpYi1fU09RWEpKT0xjQlJuZlVCRDltcVNwRTBOX19BTDY5dFBZWjhjTVF4NzM4QlJIRVZhVU9LcTA2NlYwb014Zm41ZFhiekxCTDk3VHJOX3lZMXB1THk0TmJJTWxLekxDU2d1OHA?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecaselivingstonenterprise",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T05:44:29+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Livingston Enterprise",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "ac1984a6a99c",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "url_key": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+   "title_key": "appledisclosesdealtohireteamandlicensetechfrompersonalizedpodcaststartuphuxe",
+   "source": "TechCrunch AI (英語)",
+   "category": "other",
+   "published": "2026-10-11T04:50:00+09:00",
+   "date_estimated": false,
+   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "fccb0ef45aa2",
+   "title": "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5",
+   "title_key": "philadelphiapolicereceivefalsehomicidetipfromanthropicaimodelthehill",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T04:31:00+09:00",
+   "date_estimated": false,
+   "summary": "Philadelphia police receive false homicide tip from Anthropic AI model The Hill",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "7600c7502678",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "url_key": "https://theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "title_key": "distrokidhasbeenquietlytakingdownsongsinresponsetoumglawsuit",
+   "source": "The Verge AI (英語)",
+   "category": "other",
+   "published": "2026-10-11T03:52:07+09:00",
+   "date_estimated": false,
+   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "a25f0cb93eb3",
+   "title": "アライメントは安全なのか？ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFZoNlBZTlhtVGR2N0xfdlNvVWhtS05GUWxmNklDOTh3V2Z6RUdCV1lHTHN5dl93bFBiU1pSNFNUWnhST3dodEtxSTVnVWNQblFUVThiNGV6NGFhUUwtUWxidnR0RGFuMjY2YUotZnlXNTBzSjFneUdWQllJRVdPeHNsZFJBZ3FnQmtSRmE3bUlwQ3BVZy1DQVVlZXN0ZWNFQlJoNVF1dWhnb2M?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFZoNlBZTlhtVGR2N0xfdlNvVWhtS05GUWxmNklDOTh3V2Z6RUdCV1lHTHN5dl93bFBiU1pSNFNUWnhST3dodEtxSTVnVWNQblFUVThiNGV6NGFhUUwtUWxidnR0RGFuMjY2YUotZnlXNTBzSjFneUdWQllJRVdPeHNsZFJBZ3FnQmtSRmE3bUlwQ3BVZy1DQVVlZXN0ZWNFQlJoNVF1dWhnb2M?oc=5",
+   "title_key": "アライメントは安全なのか？moomoo",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T03:16:34+09:00",
+   "date_estimated": false,
+   "summary": "アライメントは安全なのか？ Moomoo",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "2acd29ad5270",
+   "title": "Anthropic、AIエージェントが暴走し内部テストのインターネット接続を遮断 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aSTZtWlExUnFHTzAwLWRMOWlpYXVGd3ctanNDU1JUR2NXSjZudGtQVUZES2llNmFTS19ZWWhGQXExa203S3FodWVKa0hWTWtHZjRRNXBNMzVyY1hqMW1xRThBQmVlMTlMdEJMWHJPUTZwVkxG?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aSTZtWlExUnFHTzAwLWRMOWlpYXVGd3ctanNDU1JUR2NXSjZudGtQVUZES2llNmFTS19ZWWhGQXExa203S3FodWVKa0hWTWtHZjRRNXBNMzVyY1hqMW1xRThBQmVlMTlMdEJMWHJPUTZwVkxG?oc=5",
+   "title_key": "anthropicaiエジェントが暴走し内部テストのインタネット接続を遮断biggoファイナンス",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T03:11:34+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic、AIエージェントが暴走し内部テストのインターネット接続を遮断 BigGo ファイナンス",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "95c061003b77",
+   "title": "AnthropicがClaudeによるフィラデルフィア警察への偽の殺人情報提供を公表 - Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZ1OUxSd19LazJkZGl1TmtibGdOa0NqZFJRWWpPWmk3dzJGdFdYT0VXcEJwVnNsek5LUTBuMkZFNm5xRnR2MzVWdFEtSDloT2ZRRGxoWE8tenpLVlZKX2ltdEhuaU53N2FtVnRuU1JZT3ZaY3IyVU41LVV3MU9mMVdVd21jYksxcXVZVjJwZHNFZU1HWUtSY25aYU9JMF9jaHJn?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZ1OUxSd19LazJkZGl1TmtibGdOa0NqZFJRWWpPWmk3dzJGdFdYT0VXcEJwVnNsek5LUTBuMkZFNm5xRnR2MzVWdFEtSDloT2ZRRGxoWE8tenpLVlZKX2ltdEhuaU53N2FtVnRuU1JZT3ZaY3IyVU41LVV3MU9mMVdVd21jYksxcXVZVjJwZHNFZU1HWUtSY25aYU9JMF9jaHJn?oc=5",
+   "title_key": "anthropicがclaudeによるフィラデルフィア警察への偽の殺人情報提供を公表pasqualepillitteri",
+   "source": "Claude Code ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-11T03:11:31+09:00",
+   "date_estimated": false,
+   "summary": "AnthropicがClaudeによるフィラデルフィア警察への偽の殺人情報提供を公表 Pasquale Pillitteri",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "7f45fdd4ecd7",
+   "title": "Anthropic Pulls Plug on Internet for AI Tests After Agents Run Amok - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SNXdFWmx0azBoNHY3aHJFcWdIQkgxLUIxakJFMGliZDlRNjczUjlucmhrSS1ORU5MZFIzWnAzdU1JcTVRbDMyT3hrLThPbWhTQ2pmS0J4VncyczlDNGxmVTNNWHdrSzZVVzF3TFc0aENTVEpsRkE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SNXdFWmx0azBoNHY3aHJFcWdIQkgxLUIxakJFMGliZDlRNjczUjlucmhrSS1ORU5MZFIzWnAzdU1JcTVRbDMyT3hrLThPbWhTQ2pmS0J4VncyczlDNGxmVTNNWHdrSzZVVzF3TFc0aENTVEpsRkE?oc=5",
+   "title_key": "anthropicpullsplugoninternetforaitestsafteragentsrunamokbiggofinance",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T03:05:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic Pulls Plug on Internet for AI Tests After Agents Run Amok BigGo Finance",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "dff72fdf409b",
+   "title": "Raycast AIがPro必須になったので、Hammerspoon + Claude Codeで代替を作った",
+   "url": "https://zenn.dev/fukubaka0825/articles/1ef743cd9ae17e",
+   "url_key": "https://zenn.dev/fukubaka0825/articles/1ef743cd9ae17e",
+   "title_key": "raycastaiがpro必須になったのでhammerspoonclaudecodeで代替を作った",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T02:57:02+09:00",
+   "date_estimated": false,
+   "summary": "! この記事は「@fukubaka0825っぽい記事をAIに書かせる」実験をしつつ自分の理解を深めようシリーズですが、今回のやつは珍しく自分の体験ベースかつちょっと手直ししてます。 Raycast v2 で、BYOK（自分の API キーを持ち込む方式）でも AI 機能に Pro プランが必要になりました。これによって、私は選択テキストを翻訳する AI コマンドをショートカットで呼ぶ使い方をしていたのですが、無料のままでは続けられなくな…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "14b987546ed1",
+   "title": "‘I Recall Seeing Someone’: Anthropic Reveals How Claude AI Sent Fake Murder Tip To Police - News18",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV1g3VE9aMFJRY29feDhkZ21ETnpVMmxEUlhOYU90VlN5MlRQYmtIYUl5V2h4YnkybVhiVDdxM29SQXplM29TSFU0RTJWVEFKS2VfN1daNE1sQk9OS3haN09tanlUOVB5UGVrWjQxWXNwX3FralFWZ1B3b3VlRmd2SjkwSVo5VUFTbUlWM0N1VmM5SGhTTzZwX2haUkZZV2pzRU1oUDVZRmkxYTNXWWM3eDN2TjZ6bG94ZHJQYkRrWnFLLU9lTFV0UW1sZlVFWVBj0gHWAUFVX3lxTE4zOG13eFlkRWQ3eDh2WXc3dWFhd2ZQT3MxdUxnb05SQmNwM3g2ckJGVk1pekJDUGdfMk5jTGhtU1AxNXFjRzM2Z3N1UkFjZ1hrY0ZoU05WUWg5Q20tMzFLR0ZsOW1vWWZQZzhIQzhsUE9mWUdwV0xCb1hBaE5TTkNPM1lqQnE2NkFJcG1hemFGckRSdFJ5bUlYNHA1WHRGOTZ1MWZCWG1qUzlsN0lpRVE2d0tXTmQ3VHQ4VkxiNERWbHJtU2VZU2JXZURYV3BySlVxVVhNaFE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV1g3VE9aMFJRY29feDhkZ21ETnpVMmxEUlhOYU90VlN5MlRQYmtIYUl5V2h4YnkybVhiVDdxM29SQXplM29TSFU0RTJWVEFKS2VfN1daNE1sQk9OS3haN09tanlUOVB5UGVrWjQxWXNwX3FralFWZ1B3b3VlRmd2SjkwSVo5VUFTbUlWM0N1VmM5SGhTTzZwX2haUkZZV2pzRU1oUDVZRmkxYTNXWWM3eDN2TjZ6bG94ZHJQYkRrWnFLLU9lTFV0UW1sZlVFWVBj0gHWAUFVX3lxTE4zOG13eFlkRWQ3eDh2WXc3dWFhd2ZQT3MxdUxnb05SQmNwM3g2ckJGVk1pekJDUGdfMk5jTGhtU1AxNXFjRzM2Z3N1UkFjZ1hrY0ZoU05WUWg5Q20tMzFLR0ZsOW1vWWZQZzhIQzhsUE9mWUdwV0xCb1hBaE5TTkNPM1lqQnE2NkFJcG1hemFGckRSdFJ5bUlYNHA1WHRGOTZ1MWZCWG1qUzlsN0lpRVE2d0tXTmQ3VHQ4VkxiNERWbHJtU2VZU2JXZURYV3BySlVxVVhNaFE?oc=5",
+   "title_key": "‘irecallseeingsomeoneanthropicrevealshowclaudeaisentfakemurdertiptopolicenews18",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T02:31:27+09:00",
+   "date_estimated": false,
+   "summary": "‘I Recall Seeing Someone’: Anthropic Reveals How Claude AI Sent Fake Murder Tip To Police News18",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "747ddc83b78b",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Goshen News",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ1FIR0lyaUNLdlRKczk0WmhuZkNJOWhFQm9MLWd0WS1vZkw0Q25jZ1VZQTNfRnEwQ1dVeTNSdVhBUUJyekhJQUk1bXZHcmY5WVFPLUp0WmtVR1NDeGFmSS10V1NkWDJNU3J3X09vbk56Vm5hbGZmZGR5VllHMmRYc3h4cTQ0YjNWdnZwNzk1U2lRWGxUdWZaVFlZU1VzSG1ZV0FWZXhpeWpUckU1bGlSX2p4ZFlZSWNveEZqX0hyNGlOY2ZuTFNtdlJJQkZhc1o2d3NmUDE4d09VTGYyeWVHNmlsNjBsbDAxeHVNWEFpZURWeWkzaHpuQmloZDFUYkN1NWVxaGNWZnY?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ1FIR0lyaUNLdlRKczk0WmhuZkNJOWhFQm9MLWd0WS1vZkw0Q25jZ1VZQTNfRnEwQ1dVeTNSdVhBUUJyekhJQUk1bXZHcmY5WVFPLUp0WmtVR1NDeGFmSS10V1NkWDJNU3J3X09vbk56Vm5hbGZmZGR5VllHMmRYc3h4cTQ0YjNWdnZwNzk1U2lRWGxUdWZaVFlZU1VzSG1ZV0FWZXhpeWpUckU1bGlSX2p4ZFlZSWNveEZqX0hyNGlOY2ZuTFNtdlJJQkZhc1o2d3NmUDE4d09VTGYyeWVHNmlsNjBsbDAxeHVNWEFpZURWeWkzaHpuQmloZDFUYkN1NWVxaGNWZnY?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasegoshennews",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T02:29:35+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Goshen News",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "bdaa1b27e29d",
+   "title": "AIエージェントに任せて4ストアに出して壊れたもの：実機・審査・測定のバグ集",
+   "url": "https://zenn.dev/afterclosegame/articles/b9be8925bd97dc",
+   "url_key": "https://zenn.dev/afterclosegame/articles/b9be8925bd97dc",
+   "title_key": "aiエジェントに任せて4ストアに出して壊れたもの：実機審査測定のバグ集",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T02:13:50+09:00",
+   "date_estimated": false,
+   "summary": "! この記事はAI（Claude）の助けを借りて下書きを整え、数字はgitの記録とテスト出力で確かめ直しています。 概要 開発初心者の私は、AIコーディングエージェント（主にClaude Code、ときどきCodexとKimi）に指示して、モバイルゲーム「閉店後：深夜配達（Afterclose: Night Delivery）」を作りました。TypeScript + Vite + Canvas 2D のゲームを、Apps in Toss…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "c26c06b15f2a",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Weatherford Democrat",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZHkzaEhzeVlYVkpPLUZCdTN4R3NPWW5YQ3hsOHJwMjdLb1JYby1KMUtKSFdSSDUxd0dzdUNEUS04Q0J6dXNQMjA3dGZZU1JKMU9yZmtuaFpNaXczaC1ERVVFbjBoTkxXNmVCN2tqeGpaZEpIaThERkV0ZWREZ2E5d1MzMXg3aHJlNV9hNXowbzg5MGJiRjVGZHJGWjF0cDlnMFRkaENlMTBpSTliQzBuS3ZOcEZLY0FiWkVteW9lS0Nkb1hyQzVCRWFJVUtfekx4QmNiUFY2Mi1zcVd2dTF4OHBHc1J2U2ZuTlM0NW9nMU9qcFpuZ0xqdlhhRFFOQndEQURoa29XSk00QQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZHkzaEhzeVlYVkpPLUZCdTN4R3NPWW5YQ3hsOHJwMjdLb1JYby1KMUtKSFdSSDUxd0dzdUNEUS04Q0J6dXNQMjA3dGZZU1JKMU9yZmtuaFpNaXczaC1ERVVFbjBoTkxXNmVCN2tqeGpaZEpIaThERkV0ZWREZ2E5d1MzMXg3aHJlNV9hNXowbzg5MGJiRjVGZHJGWjF0cDlnMFRkaENlMTBpSTliQzBuS3ZOcEZLY0FiWkVteW9lS0Nkb1hyQzVCRWFJVUtfekx4QmNiUFY2Mi1zcVd2dTF4OHBHc1J2U2ZuTlM0NW9nMU9qcFpuZ0xqdlhhRFFOQndEQURoa29XSk00QQ?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecaseweatherforddemocrat",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T02:02:22+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Weatherford Democrat",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "30c3da571ae3",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Santa Fe New Mexican",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRFZtUkk4Ym9XZ3VmbFVtZnFTNmE3ekhtZnZSRFR6MndWNXlKS3ByN3ZDajFjSXE2ampFbjZ0b3MzWWt4SkhCUE1acnJFdGw0T2paYlR0Q0hCbnc5bTlIdnJ5ektVWlR6QkJJUDM3NkNPTFVIbHhVZWFOd3JxMzQ5cmstVmNiMDhtSEFLWFBzNWlCSDhwU0NTS0YtYnBsZl9ONFhkUmJIRHN4ZTlWT28ydHdqUGhXSDhFa05BMi1MVTlxaE9wZkRpeUdvWnZqYkFOUFhFVjAxR2FKRFVxRllVaGEycXlRY2l1UlNaSWt6VmpyaXA3MXdraXhNUlFrZ1JSZ2pDTGdxOFk?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRFZtUkk4Ym9XZ3VmbFVtZnFTNmE3ekhtZnZSRFR6MndWNXlKS3ByN3ZDajFjSXE2ampFbjZ0b3MzWWt4SkhCUE1acnJFdGw0T2paYlR0Q0hCbnc5bTlIdnJ5ektVWlR6QkJJUDM3NkNPTFVIbHhVZWFOd3JxMzQ5cmstVmNiMDhtSEFLWFBzNWlCSDhwU0NTS0YtYnBsZl9ONFhkUmJIRHN4ZTlWT28ydHdqUGhXSDhFa05BMi1MVTlxaE9wZkRpeUdvWnZqYkFOUFhFVjAxR2FKRFVxRllVaGEycXlRY2l1UlNaSWt6VmpyaXA3MXdraXhNUlFrZ1JSZ2pDTGdxOFk?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasesantafenewmexican",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T02:02:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Santa Fe New Mexican",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "bad3e226b680",
+   "title": "Anthropic reveals Claude sent a false murder tip to Philadelphia police - Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEhUbnNlTHNTTnM1Z1dLZy1JRzh2NjZFdWFhTms2OU9XQkFRTXdDZnduVW5WaXNqX2hEOHJQS1VNVlRCNkdhUFZuSW9XaFdoUHlwT0MwbEFZMWUyaGdOS2o2UndQNEhaby1sSEVrVXgwOFByU0ZrWS1aSWh2T0RfY0NyWG8wYjNzZU9SMEpNT0VXenRnOXdoWkRzblZwdw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEhUbnNlTHNTTnM1Z1dLZy1JRzh2NjZFdWFhTms2OU9XQkFRTXdDZnduVW5WaXNqX2hEOHJQS1VNVlRCNkdhUFZuSW9XaFdoUHlwT0MwbEFZMWUyaGdOS2o2UndQNEhaby1sSEVrVXgwOFByU0ZrWS1aSWh2T0RfY0NyWG8wYjNzZU9SMEpNT0VXenRnOXdoWkRzblZwdw?oc=5",
+   "title_key": "anthropicrevealsclaudesentafalsemurdertiptophiladelphiapolicepasqualepillitteri",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T01:58:21+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic reveals Claude sent a false murder tip to Philadelphia police Pasquale Pillitteri",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "91f61662eb13",
+   "title": "米ホワイトハウス、科学に60億ドル超 産業界11社がAIツールと計算資源に24億ドル拠出 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3WU5QQW5zLUNkLUVHS1F3VmhuN0ZMOTNLeUVocF9wYjlYSXgzLVQ3M2g5a0wzZUtWcEhzTnBsM01DbVBZTVVYTDBNRUI1aUNsY1pj?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3WU5QQW5zLUNkLUVHS1F3VmhuN0ZMOTNLeUVocF9wYjlYSXgzLVQ3M2g5a0wzZUtWcEhzTnBsM01DbVBZTVVYTDBNRUI1aUNsY1pj?oc=5",
+   "title_key": "米ホワイトハウス科学に60億ドル超産業界11社がaiツルと計算資源に24億ドル拠出ビジネスit",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-11T01:45:52+09:00",
+   "date_estimated": false,
+   "summary": "米ホワイトハウス、科学に60億ドル超 産業界11社がAIツールと計算資源に24億ドル拠出 ビジネス+IT",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1035681323c5",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - CBC",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmZocVlOa3prRnNjVlBjS0dtNENnTXI1aFVqdnMtbkhfdlB5blg0MEVBUkVOZmRVdzZ0dVdIb3dJTFpXajNYcFhlbEhKTEZKVXU2TGJqTjhsblNzeFEyNTVQLTctdEF6RGQyeEFSLVRLaXpnQmdFUjhmX1l6cmNBSmZxaTRSUmM0VDJreVBB?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmZocVlOa3prRnNjVlBjS0dtNENnTXI1aFVqdnMtbkhfdlB5blg0MEVBUkVOZmRVdzZ0dVdIb3dJTFpXajNYcFhlbEhKTEZKVXU2TGJqTjhsblNzeFEyNTVQLTctdEF6RGQyeEFSLVRLaXpnQmdFUjhmX1l6cmNBSmZxaTRSUmM0VDJreVBB?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasecbc",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T01:33:06+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case CBC",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "0b18d79d08e3",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Henry Herald",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNazhvYmtKQXMzdGhNUGpTek9HUE4xLXRsa0U0N195Rzd4bzJ2Q3EwZUkwdTJrWUdNR2FpUVpNRkFzN21iUFZoNElqcE52UjlKRTFBRU8zWVhSdTQwV2tUMjhWakoxQWpNaUl0d0t6RHJGWGkzSWdqbllQRHUtQkxtcDlFekZPZVlSbldEcFo4Y0pWcGRpbnIxQUtOOV9UWXh5TFJvNkFjNXhLd2pWU2F4eXFLeUp5a3g0U0JVREltTnllYW9PNUlueHRuekpHZlNOYTVsanVUU290RFAzbnNsSWZBeFpSYWtLend1X0dNNGFHWTlxM1U5MVItNFIxRnZWY1FSZ2I4WU4?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNazhvYmtKQXMzdGhNUGpTek9HUE4xLXRsa0U0N195Rzd4bzJ2Q3EwZUkwdTJrWUdNR2FpUVpNRkFzN21iUFZoNElqcE52UjlKRTFBRU8zWVhSdTQwV2tUMjhWakoxQWpNaUl0d0t6RHJGWGkzSWdqbllQRHUtQkxtcDlFekZPZVlSbldEcFo4Y0pWcGRpbnIxQUtOOV9UWXh5TFJvNkFjNXhLd2pWU2F4eXFLeUp5a3g0U0JVREltTnllYW9PNUlueHRuekpHZlNOYTVsanVUU290RFAzbnNsSWZBeFpSYWtLend1X0dNNGFHWTlxM1U5MVItNFIxRnZWY1FSZ2I4WU4?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasehenryherald",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T01:17:03+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Henry Herald",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "baccc4968cb9",
+   "title": "Claude Academyを起点にSNS集計を実装：12ケースで初回コードの失敗を見つけた",
+   "url": "https://zenn.dev/kanta13jp1/articles/academy-sns-csv-twelve-cases",
+   "url_key": "https://zenn.dev/kanta13jp1/articles/academy-sns-csv-twelve-cases",
+   "title_key": "claudeacademyを起点にsns集計を実装：12ケスで初回コドの失敗を見つけた",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T01:09:43+09:00",
+   "date_estimated": false,
+   "summary": "Claude Academyを見て「学んだ内容を何で確かめるか」を考え、架空のSNS投稿CSVを集計する小さな演習を作りました。 Claude Code CLIで1回生成したPythonコードを、生成前に固定した12ケースで実行したところ、10件合格、2件失敗でした。集計式は合っていても、空行の扱いと全角数字の入力検査が仕様を満たしていませんでした。 この記事は独自の実践記録です。公式講座の課題や試験の解答ではなく、講座修了・バッジ取得…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "944bd61d0d22",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - Bozeman Daily Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcmlGRUI0Q2xueEppcVFNUVMzRDJ6MFo4NVlsaEgwcElNTUF5QmhQTnJCQ0JKdlN2WGxZdGlHM1oyVHRlM3h0OHcySW1aSnZBVkFfMzBDWTJ6X1JJY1diUnpkcldHRXVRbkZhbk1QZnlxUEhrblR5d2hNNWVCX3hHNDJqRUpSd1F6TFlSUUpRcTE3dU5vR0phYkF0REN1MlVkdV96aUpGMV9FdmxZRDBlVjVGVDlmMFY5d1lrYjViZ2JkX1JpclFTd09oa1RoTFNBQ210QjFFNEtlLWZmbG1UTlViYi1JSkZBakRYbU5jMEkyb1Vnd3FEdldjdGZZN3BsWFVQSjQ1MXdDYzhkZEJJLQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcmlGRUI0Q2xueEppcVFNUVMzRDJ6MFo4NVlsaEgwcElNTUF5QmhQTnJCQ0JKdlN2WGxZdGlHM1oyVHRlM3h0OHcySW1aSnZBVkFfMzBDWTJ6X1JJY1diUnpkcldHRXVRbkZhbk1QZnlxUEhrblR5d2hNNWVCX3hHNDJqRUpSd1F6TFlSUUpRcTE3dU5vR0phYkF0REN1MlVkdV96aUpGMV9FdmxZRDBlVjVGVDlmMFY5d1lrYjViZ2JkX1JpclFTd09oa1RoTFNBQ210QjFFNEtlLWZmbG1UTlViYi1JSkZBakRYbU5jMEkyb1Vnd3FEdldjdGZZN3BsWFVQSjQ1MXdDYzhkZEJJLQ?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasebozemandailychronicle",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T00:43:39+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Bozeman Daily Chronicle",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "c89b595d2b53",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - tdtnews.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGUxZFNMUF9yb1dZMHZWbFdUVEhaaW1Ga0piUXVrTm9sX01QRmtSemFuT19hdXlJWVcwcV93X1liaXJhMmhiaW1KTjdoblhYR2VKNXV1UGhTcXVNZXZCdnV1MTZ5ZzBlcEp2OVlQaVpuRE8yYmpQZTlHc1ZmMDQxSjJlRnBuZ1FXbzNqREVIVHFiWlNGQWc?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGUxZFNMUF9yb1dZMHZWbFdUVEhaaW1Ga0piUXVrTm9sX01QRmtSemFuT19hdXlJWVcwcV93X1liaXJhMmhiaW1KTjdoblhYR2VKNXV1UGhTcXVNZXZCdnV1MTZ5ZzBlcEp2OVlQaVpuRE8yYmpQZTlHc1ZmMDQxSjJlRnBuZ1FXbzNqREVIVHFiWlNGQWc?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasetdtnewscom",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T00:43:39+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case tdtnews.com",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1a4b136d21d0",
+   "title": "Claude Code のクラウドルーティンをAPIで更新したら、プロンプトが消えた。設定は部分更新ではなく丸ごと置き換わる",
+   "url": "https://zenn.dev/ai_hacchu/articles/claude-routine-update-wiped-prompt",
+   "url_key": "https://zenn.dev/ai_hacchu/articles/claude-routine-update-wiped-prompt",
+   "title_key": "claudecodeのクラウドルティンをapiで更新したらプロンプトが消えた設定は部分更新ではなく丸ごと置き換わる",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-11T00:36:21+09:00",
+   "date_estimated": false,
+   "summary": "この記事で分かること Claude Code のクラウドルーティン（定期実行するエージェント）を API で更新するとき、設定の一部だけを送ると、送らなかった部分が消えること 実際にプロンプトが消えてから復元するまでの経緯と、消えても戻せた理由 その後に決めた更新の手順と、API で触らないと決めたルーティン 前提 Claude Code には、クラウド上で決まった時刻にエージェントを動かす「ルーティン」があります。私は、ブログの記事の…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "58be5485ac2d",
+   "title": "Anthropic might be developing its own voice models - TestingCatalog AI News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGNZZ2REam5VVXJlWnIzOFhaaTB6aVROSDdpa3M0ODN0RVF0X1RPTmNyV0NQZnNIMlU0dktVQ3BJcTE5aWwySndISDlhYkFyOVJ5WDhSa0kzVmNFdWxaTHRVcXRRM0ZfTXkwYkxsR3EyRGdlZmM1MUJ1cUpyYXRhZEs3dm9jbjV6SEE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGNZZ2REam5VVXJlWnIzOFhaaTB6aVROSDdpa3M0ODN0RVF0X1RPTmNyV0NQZnNIMlU0dktVQ3BJcTE5aWwySndISDlhYkFyOVJ5WDhSa0kzVmNFdWxaTHRVcXRRM0ZfTXkwYkxsR3EyRGdlZmM1MUJ1cUpyYXRhZEs3dm9jbjV6SEE?oc=5",
+   "title_key": "anthropicmightbedevelopingitsownvoicemodelstestingcatalogainews",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-11T00:09:53+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic might be developing its own voice models TestingCatalog AI News",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
   {
    "id": "a8ac8361d85e",
    "title": "Eggheads at Anthropic Said They Used Claude to \"Solve\" Humor - Futurism",
@@ -318,6 +916,32 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "f6bdb6fdf572",
+   "title": "React習熟度ベンチマークでHaiku 5.5が見せた底力",
+   "url": "https://zenn.dev/uhyo/articles/react-profession-bench-20",
+   "url_key": "https://zenn.dev/uhyo/articles/react-profession-bench-20",
+   "title_key": "react習熟度ベンチマクでhaiku55が見せた底力",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T23:35:53+09:00",
+   "date_estimated": false,
+   "summary": "皆さんこんにちは。React習熟度シリーズの20記事目です。今回は、Claude Haiku 5.5のReact習熟度ベンチマークの結果をお届けしようと思います。Claude Haiku 5.5は、Haikuシリーズで久しぶりに出たモデルです。HaikuはClaudeシリーズの中で最も廉価なモデルで、そこそこの性能の代わりに安いという位置づけです。そんなHaiku 5.5は、いったいどんな結果を出したのでしょうか。 前回の記事はこちらで…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "a1db32d8bbe6",
+   "title": "Claude Code が止まった理由ごとに通知を出し分ける hooks レシピと、効かないときの確認リスト",
+   "url": "https://zenn.dev/umechanhika/articles/346489e8b5a752",
+   "url_key": "https://zenn.dev/umechanhika/articles/346489e8b5a752",
+   "title_key": "claudecodeが止まった理由ごとに通知を出し分けるhooksレシピと効かないときの確認リスト",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T23:30:14+09:00",
+   "date_estimated": false,
+   "summary": "私は Claude Code を複数並べて裏で走らせているのですが、止まったことに気づかず数分〜数十分を失うことがよくありました。 hooks で通知を出すこと自体は簡単ですが、止まった理由を区別せずに同じ通知を出すと、すぐ戻るべきか後で見ればよいかが通知だけでは分かりません。 この記事では次の 2 つを扱います。 止まった理由ごとに、文言と音を変えて通知するレシピ（macOS、追加インストール不要） 設定したのに hook が動かない…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "b677e53ceafb",
    "title": "非エンジニアのAI業務自動化（ディベートとJev）/ディベートを50回回し優先順位付け | 結果・費用・つまずき",
    "url": "https://qiita.com/horiken_chu2byo/items/691992e69db7ba8bcb8b",
@@ -329,6 +953,19 @@
    "date_estimated": false,
    "summary": "前の記事で作ったディベートの仕組みを使って、私の作業の一覧にある未完了の24項目を、50回のディベートにかけました。 決めたのは私で、AIが作ったのは材料です。 この記事では、50回の結果、論者のモデルの差、Claudeの審判とまとめの作り、費用と時間、つまずいた所...",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "6212e7b6f001",
+   "title": "デザインされた見積書と請求書をClaude Codeで自動出力",
+   "url": "https://zenn.dev/shin_ikewaki/articles/6d575b476bcb58",
+   "url_key": "https://zenn.dev/shin_ikewaki/articles/6d575b476bcb58",
+   "title_key": "デザインされた見積書と請求書をclaudecodeで自動出力",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T23:20:52+09:00",
+   "date_estimated": false,
+   "summary": "プログラマーに、デザイン性のあるドキュメントのやりとりを。 デザイナーに、正確な計算と自動化の仕組みを。 見積書と請求書で、その両方を1つの道具にしようとした時の、作り方の話です。 Claude Code に「請求書を作って」と頼むと、作ってくれます。HTML で組んで、それらしい物が出ます。 ただ、仕事で人に送る書類として使おうとすると、困る所が3つあります。 金額を暗算する。 明細が増えると、小計や消費税がずれる事があります。ずれた…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "0e8bd7051f83",
@@ -422,6 +1059,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "61beb6b39695",
+   "title": "転職活動でAIを活用",
+   "url": "https://zenn.dev/uttnaoki/articles/79a62c0695cb83",
+   "url_key": "https://zenn.dev/uttnaoki/articles/79a62c0695cb83",
+   "title_key": "転職活動でaiを活用",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T21:56:55+09:00",
+   "date_estimated": false,
+   "summary": "はじめに 最近、転職活動を行いました。 今回の転職活動では、職務経歴書の作成から企業研究、面接対策まで、さまざまな場面でClaude CodeやChatGPTを活用しました。 以前の転職活動の時と比べ、現代のAIが非常に便利だったので、実際にどのように使ったのかを備忘録として残しておきます。 Claude Codeで直近の業務実績を棚卸しする 職務経歴書を作成するにあたり、まずは直近の業務実績を整理しました。 長期間携わっているプロジェ…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "d9f681d49913",
    "title": "生成AIを活用したキャリア支援の導入状況 - 国立大15校、AI就活支援 検討含め2割、活用講座も - 写真・画像(1/2) - 西日本新聞me",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wLTRPbzVXMDhYVVE0RHUydllGN2doVURhejRtSk9sSWxCbmxIM0dhVFl2WnpvbFU5dmZsQWJaUjN4NDRtSXlKQ3N5bnJvbEN6YWtyZUhhYw?oc=5",
@@ -435,6 +1085,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "78e1ccfafdbd",
+   "title": "AI費用が76分の1に。差を生んだのは「使い方」だった",
+   "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261010",
+   "url_key": "https://zenn.dev/sugawara_ai/articles/ai-news-20261010",
+   "title_key": "ai費用が76分の1に差を生んだのは使い方だった",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T21:45:29+09:00",
+   "date_estimated": false,
+   "summary": "2026年10月10日（土）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 おはようございます。僕は毎朝、自分で作った仕組みでAIのニュースを集めて読んでるんですけど、今日はお金とルールの話が並びました。AIの費用が76分の1になったテスト。AIの会社で起きた解雇をめぐって、言い分が真っ向からぶつかっている件。AIを使う側の規約の見直し。どれも、AIそのものより「どう使うか、どう決めるか」で差がつくって話…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "388735449512",
    "title": "【脱パワポ】Markdown×MCPでAIに「ビジネススライド」を作らせるOSSを公開してみた（Marp / 編集可能PPTXに挑戦中）",
    "url": "https://qiita.com/N-Y-Public/items/a156f012c009821680b4",
@@ -446,6 +1109,32 @@
    "date_estimated": false,
    "summary": "0. 作ったのはこんなの リポジトリURL: https://github.com/N-Y-Public/marp-slide-mcp スター（⭐）やフィードバックをいただけると今後の開発の励みになります！ まずは、今回紹介する環境（marp-slide-mcp）...",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "d5580eda4ba8",
+   "title": "Claude in Chrome と Obsidian で教材づくりを自動化する。収集・教材化・復習の3層",
+   "url": "https://zenn.dev/kaz_hira/articles/claude-in-chrome-obsidian-learning",
+   "url_key": "https://zenn.dev/kaz_hira/articles/claude-in-chrome-obsidian-learning",
+   "title_key": "claudeinchromeとobsidianで教材づくりを自動化する収集教材化復習の3層",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T21:36:34+09:00",
+   "date_estimated": false,
+   "summary": "この記事は note に公開したものを、加筆・修正して転載しています。 🎯 なぜこの組み合わせなのか AI と Obsidian で勉強していて時間を食うのは、勉強そのものより、教材を探して整理し、復習用に加工する作業です。 参考書や記事を読む → 要点をまとめる → 覚えるための問題を自作する → どこかにストックする → 後で見返す このサイクルを人力で回すと、1周するだけでかなりの時間がかかります。AI のブラウザ拡張とノートアプ…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "26f58122280a",
+   "title": "指示文だけでMermaidを卒業できるか? diagram-designスキルを手を動かして検証した",
+   "url": "https://zenn.dev/matsushima_a/articles/day-011-diagram-design-swimlane-test",
+   "url_key": "https://zenn.dev/matsushima_a/articles/day-011-diagram-design-swimlane-test",
+   "title_key": "指示文だけでmermaidを卒業できるかdiagramdesignスキルを手を動かして検証した",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T21:31:04+09:00",
+   "date_estimated": false,
+   "summary": "今日のネタ: diagram-design GitHub Trendingで急伸していた cathrynlavery/diagram-design というリポジトリを検証した。 自然言語の指示だけで、自己完結したHTML+インラインSVGのエディトリアル調図解を生成するClaude Code向けのagent skillである。 ライセンスはMIT(Copyright (c) 2025 Cathryn Lavery)で、検証時点のHEAD…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "f55df3c03bde",
@@ -474,6 +1163,32 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "6c88eab80048",
+   "title": "AI秘書の「できました」は23件中13件が否定された：Claude Code無人ループの答え合わせ",
+   "url": "https://zenn.dev/cucinakiyo_ai/articles/2bcb273ec33b5c",
+   "url_key": "https://zenn.dev/cucinakiyo_ai/articles/2bcb273ec33b5c",
+   "title_key": "ai秘書のできましたは23件中13件が否定された：claudecode無人ルプの答え合わせ",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T21:04:22+09:00",
+   "date_estimated": false,
+   "summary": "この記事は、AI（AI秘書）が書きました。数字と時刻は機械の記録から取り、公開前に別のAIの検証役が数字と時刻を記録と照らし合わせ、公開の判断は人（社長）がしています。 私は、ある小さな会社で記録と集計と段取りを受け持っているAIです。Claude Code の上で動いています。10月9日の夜、人の指示を待たずに仕事を1件ずつ選んで24時間回し続ける仕組み（以下「ループ」）を組み上げ、「無人で24時間回っています」と報告しました。 その…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1dc5b9b301c5",
+   "title": "最近のわたくし的AI事情（2026年10月10日時点）：Opus 5.5メインに戻してAI課金は月11,540円",
+   "url": "https://zenn.dev/yamadatt/articles/20261010-my-ai-usage-2026-10",
+   "url_key": "https://zenn.dev/yamadatt/articles/20261010-my-ai-usage-2026-10",
+   "title_key": "最近のわたくし的ai事情（2026年10月10日時点）：opus55メインに戻してai課金は月11540円",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T21:00:05+09:00",
+   "date_estimated": false,
+   "summary": "はじめに 10月に入って、AI関連の発表が立て続けにありました。OpenAIはGPT-6、AnthropicはClaude 5.5シリーズ、Googleはエージェント版Gemini。毎週のように新モデルの見出しが流れてくるので、追いかけるだけでも情報量に圧倒されます。 技術やサービスの状況がこれだけ目まぐるしく変わる時期だからこそ、世の中の動向を整理しつつ、自分自身がいまAIをどのように使っているかを定点観測として記録しておくことにしま…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "d22cd22e7fe3",
    "title": "国立大１５校、ＡＩ就活支援 - 福井新聞社",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDdmpxT0k1MmtZOEJVTGxsZ0lRU1JjaUswdzJvRndmaHFTekE3c1dnNUpYMTBPWkR0Xzd5ZEhobE5hTlBmZlBpamxaaEZLZUxESng0SnFMbkRUcmJHM0E?oc=5",
@@ -485,6 +1200,32 @@
    "date_estimated": false,
    "summary": "国立大１５校、ＡＩ就活支援 福井新聞社",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "24616ff14f17",
+   "title": "AI秘書が書いた失敗録：Claude Codeを24時間無人で回して付けた安全装置",
+   "url": "https://zenn.dev/cucinakiyo_ai/books/f51b667ea8c405",
+   "url_key": "https://zenn.dev/cucinakiyo_ai/books/f51b667ea8c405",
+   "title_key": "ai秘書が書いた失敗録：claudecodeを24時間無人で回して付けた安全装置",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T20:46:43+09:00",
+   "date_estimated": false,
+   "summary": "この本は、AI（AI秘書）が書きました。Claude Codeで24時間の作業ループを組み、公式APIでSNSに投稿させ始めた最初の約21時間の記録を中心に、その前の権限まわりの失敗も載せます。自分の「できました」23件のうち13件を検証役に否定され、許可リストに足した8件は1件も効いていませんでした。失敗ごとに付けた安全装置（鍵の伏せ字、アカウント照合、二重投稿防止、子プロセスの隔離、合格線の事前登録）をコードの型で載せます。稼ぎ方の…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "663211a46b81",
+   "title": "要件定義はAIモック先行で変える：認識ズレを実装前に潰す手順",
+   "url": "https://zenn.dev/sunsun_eng/articles/ai-mock-first-requirements-definition",
+   "url_key": "https://zenn.dev/sunsun_eng/articles/ai-mock-first-requirements-definition",
+   "title_key": "要件定義はaiモック先行で変える：認識ズレを実装前に潰す手順",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T20:37:08+09:00",
+   "date_estimated": false,
+   "summary": "要件定義はAIモック先行で変える：認識ズレを実装前に潰す手順 この記事の要点 AIモック先行の要件定義とは、仕様書を書く前に、AIで動く画面モックを作り、それを見ながら依頼者と認識を合わせる進め方です。 文章の要件定義では「読んだ人ごとに違う絵が頭に浮かぶ」ためズレが残りますが、モックなら同じ画面を全員が見るので、ズレを実装前に表に出せます。 ただし、モックは見た目の合意に強い反面、非機能要件や例外処理には弱いため、文章の仕様と併用する…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "ad0da16c0195",
@@ -500,6 +1241,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "9fd066947cfb",
+   "title": "さよなら日立汎用機 ― 6つの移行先をシミュレーションしてみた",
+   "url": "https://zenn.dev/mika_and_coco/books/hitachi-mainframe-sim",
+   "url_key": "https://zenn.dev/mika_and_coco/books/hitachi-mainframe-sim",
+   "title_key": "さよなら日立汎用機―6つの移行先をシミュレションしてみた",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T20:22:29+09:00",
+   "date_estimated": false,
+   "summary": "日立の汎用機（VOS3）の上で COBOL・JCL・ソート・EASY が動く、架空の地方銀行「B 銀行」の情報系を、AI（Claude Code）に実際に移させて確かめた記録です。IBM の汎用機での作り直し、COBOL の載せ替え、Oracle への書き換え（オンプレミスと、Autonomous を自行・クラウドに置く 2 通り）、BigQuery への書き換えの 6 つの移し先へ、同じ題材を同じ工程で移し、正解の出力と全件で突き合わ…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "f3c60e0f72f8",
    "title": "Cisco turns Webex into an AI agent workspace with Claude built in - Startup Fortune",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzUtMnBDUVNxWXp5bGJpSFpWcnc4eEFQSmJGTFlfd0ZmYjVsMzVpQ25RUmhMYkNSSnBIRjk0dlYycW1YVFVqYi1GVFdJalpwcHJiMFN4UXd4dFc1NFR2ZU1idUdkODdUWFB5UG83WHJSRi1UbEpXS3FFQk1vNVhKLUhKMU8yUmxBZFNqVFJabXVjaEtoaVhNSw?oc=5",
@@ -511,6 +1265,32 @@
    "date_estimated": false,
    "summary": "Cisco turns Webex into an AI agent workspace with Claude built in Startup Fortune",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "1a2486ecee5f",
+   "title": "その数字は日付ではない — Excelの日付シリアルと実測値は値では見分けられない",
+   "url": "https://zenn.dev/shinsei99/articles/number-that-looks-like-a-date",
+   "url_key": "https://zenn.dev/shinsei99/articles/number-that-looks-like-a-date",
+   "title_key": "その数字は日付ではないexcelの日付シリアルと実測値は値では見分けられない",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T20:05:43+09:00",
+   "date_estimated": false,
+   "summary": "ビルの水道・電気メーターの検針表（Excel）を読んで、「その月の検針が済んでいるか」を 判定する仕組みを作りました。 最初の版は、検針していない物件を「実施済み」と表示しました。 拾っていたのは検針日ではなく、メーターの指針値でした。 エラーは出ません。もっともらしい日付が入っているので、表を見ても間違いに見えません。 前提：Excelの日付は、ただの連番 Excel の日付は、1899-12-30 を 0 とした連番（シリアル値）で…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "77ac4d8cfc48",
+   "title": "AIの作業の質は「何を読ませているか」で決まる ― 文脈の置き場「AIカンパニー」と出口の設計",
+   "url": "https://zenn.dev/tmiyachi/articles/ai-company-context-design",
+   "url_key": "https://zenn.dev/tmiyachi/articles/ai-company-context-design",
+   "title_key": "aiの作業の質は何を読ませているかで決まる―文脈の置き場aiカンパニと出口の設計",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T20:00:00+09:00",
+   "date_estimated": false,
+   "summary": "同じAIに、同じクライアントへのメールの返信を頼んでも、返ってくる文面がまったく違うことがあります。モデルは同じです。違うのは、返信を書く前にAIが何を読んだかです。 株式会社AI Orchestraの私（みやっち🧑‍💻）は、YouTubeの「【AIに仕事を奪われる】まだ人がやってたら恥ずかしい作業TOP5」という回で、この話をメール返信とスライド作成の2か所で取り上げました。動画の中の言葉で言うと、作業の質を決めているのはAIの賢さだ…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "6a0673c287a8",
@@ -539,6 +1319,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "0ce9caa642d0",
+   "title": "Haiku 5.5へ任せるTypeScript保守を選ぶ：独立採点つき3課題の追試キット",
+   "url": "https://zenn.dev/clopy/articles/claude-haiku55-typescript-task-kit",
+   "url_key": "https://zenn.dev/clopy/articles/claude-haiku55-typescript-task-kit",
+   "title_key": "haiku55へ任せるtypescript保守を選ぶ：独立採点つき3課題の追試キット",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T19:31:39+09:00",
+   "date_estimated": false,
+   "summary": "TypeScriptの保守をSonnetへ任せていても、次のチケットをHaikuへ回してよいかは、モデルの「完了しました」だけでは決められません。金額入力の修正なら例外の種類、テスト追加ならバグの検出力、共通化なら呼び出し元との互換性まで確認する必要があります。 今回の条件では、decimal金額parseの修正はSonnetから始める候補、テスト追加と短い金額検証の共通化はHaikuを試す候補になりました。委任先を選ぶ軸は、独立した採…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "f807b67ed290",
    "title": "Claude Code Projects、ウェイトリストのPro・Max全ユーザーに提供開始 - Pasquale Pillitteri",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTdqVnBBZ01MQzUtNGFOY1FMWTlNVng3QWFNTkp6ZTNmWjBlMzVDRlVITENGaVlVOXFDZ2hoLUVpUWxRRnZuMHUxYkhMQ1dwYmp3ZHdFUHc4NzBVdnJTM29WejI4ellUbFg0b0VDUDVXRXZGM2wxVlZMSDZhNzFPYzdMOXRndVBZRUlzaFBnMHlPZw?oc=5",
@@ -550,6 +1343,19 @@
    "date_estimated": false,
    "summary": "Claude Code Projects、ウェイトリストのPro・Max全ユーザーに提供開始 Pasquale Pillitteri",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "3fc6fec25c97",
+   "title": "Claude Code・Codex を何個も並行で動かしても、全体の流れを見失わないために作ったツール",
+   "url": "https://zenn.dev/beizix/articles/c8ce1f0c239032",
+   "url_key": "https://zenn.dev/beizix/articles/c8ce1f0c239032",
+   "title_key": "claudecodecodexを何個も並行で動かしても全体の流れを見失わないために作ったツル",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T19:10:04+09:00",
+   "date_estimated": false,
+   "summary": "はじめに 韓国で開発者をしていて、会社の仕事とは別にサイドプロジェクトとして作ったものを紹介します。 最近は Claude Code と Codex を、いくつものリポジトリで 4つ以上同時に 動かすのが普通になりました。ひとつの機能を複数のエージェントに分担させることも多いです。 ただ、エージェントごとにターミナルが別々なので、すぐに全体像を見失います。 どれがまだ動いていて、どれが止まっているのか それぞれに何を頼んだのか 何が終わ…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "a1327172ee59",
@@ -578,6 +1384,32 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "90805e37a69c",
+   "title": "同じ機能をMCPとコマンドの両方で渡したら、AIは10回ともMCPを選んだ。速くて安いのはコマンド側だった",
+   "url": "https://zenn.dev/numarn/articles/mcp-server-vs-cli-script-handson",
+   "url_key": "https://zenn.dev/numarn/articles/mcp-server-vs-cli-script-handson",
+   "title_key": "同じ機能をmcpとコマンドの両方で渡したらaiは10回ともmcpを選んだ速くて安いのはコマンド側だった",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T18:59:51+09:00",
+   "date_estimated": false,
+   "summary": "先に結論から書きます。まったく同じ中身の機能を、AI に2通りの渡し方で持たせてみました。ひとつは MCP(AI に外部の道具を後付けするための共通の差し込み口)、もうひとつは普通のコマンド(python3 inv_cli.py stock SKU-0007 のように打つだけのスクリプト)です。 結果はこうでした。どちらでも10回とも正解。ただし やり取りの回数は3回対6回、所要と料金はレンジが重ならないほどコマンド側が有利でした。そし…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "880813ac8c7e",
+   "title": "呼びかけると声で応える PC の AI 秘書を、常駐させた Claude Code を「頭」にして作った",
+   "url": "https://zenn.dev/ai_amane/articles/amane-voice-assistant-design",
+   "url_key": "https://zenn.dev/ai_amane/articles/amane-voice-assistant-design",
+   "title_key": "呼びかけると声で応えるpcのai秘書を常駐させたclaudecodeを頭にして作った",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T18:59:06+09:00",
+   "date_estimated": false,
+   "summary": "AI あまね の公式アカウントです。中の人は、あまね を作っている個人開発者です。 AI あまね は、自分の PC で動く音声 AI エージェントです。「あまね」と呼びかけると声で返事をして、そのまま会話できます。会話の中で「〇〇を作って」と頼むと、裏で Claude Code や Codex が作業をして、終わったら声で報告します。MIT ライセンスで GitHub に公開しています。 https://github.com/ai-am…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "a7b0225e801f",
    "title": "Anthropic cuts web access in all internal tests after 4 Claude workarounds - PPC Land",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOay1GOFJ0RVJJTnlQU3hhNUhrY3U0ajd5UnZ4OFptbzdCN2lCOXpsa3lKQ3JKZ0Ywa3hyTEZrNFV3Z0I3eVVPdWt2RExpUHlPYVRlUXJ0cDZKbU1xQ0g0TkduUnpuRjBYaTlQQzVYaGoxaVZob2ZfeUFtTjhjd2pzSlZEV01vLUdEOWZEZ1FWWjFhQlBKRk9z?oc=5",
@@ -602,6 +1434,19 @@
    "date_estimated": false,
    "summary": "ニコン、AI生成の顕微鏡動画を失格に——次点を繰り上げ BigGo ファイナンス",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "e67b5cbad7c4",
+   "title": "Claude Code の長い回答を、ターミナルで読むのをやめた",
+   "url": "https://zenn.dev/pollenjp/articles/2026-09-24-cc-pages-concept",
+   "url_key": "https://zenn.dev/pollenjp/articles/2026-09-24-cc-pages-concept",
+   "title_key": "claudecodeの長い回答をタミナルで読むのをやめた",
+   "source": "Zenn - Claude Code (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T18:31:23+09:00",
+   "date_estimated": false,
+   "summary": "Claude Code に調べものや設計の相談をすると、ターミナルに長い回答が流れてきます。表は罫線がずれ、3 つの案を見比べるにはスクロールを行ったり来たり。図はそもそも描けません。読み終わる頃には、最初に書いてあった結論がどこにあったか分からなくなっています。 ターミナルはコマンドを打つには最高の場所ですが、長い文章を読む場所ではありません。 そこで、長い回答は Claude Code に手元の Web ページとして書き出してもらい…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "9c8dffbfae93",
@@ -760,6 +1605,32 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "bf97aa201d32",
+   "title": "オリコンチャートの２位に生成ＡＩ活用「ＩＮＭＵ ＫＩＮＧ」 登場からわずか２か月、異例ヒットにＳＮＳの反応様々 - スポーツ報知",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CLWZBR05RanE2aFpmMFVDQXVSa0NvX2RZSmptZmxFbmdGRVVMR05MMUZ1VWZSYTlwN2M0RHhoSUdtbWlUVmVsUDliYVVWbVh6dEJCR3lVYnBLTkF1d3QxcUJn?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CLWZBR05RanE2aFpmMFVDQXVSa0NvX2RZSmptZmxFbmdGRVVMR05MMUZ1VWZSYTlwN2M0RHhoSUdtbWlUVmVsUDliYVVWbVh6dEJCR3lVYnBLTkF1d3QxcUJn?oc=5",
+   "title_key": "オリコンチャトの２位に生成ａｉ活用ｉｎｍｕｋｉｎｇ登場からわずか２か月異例ヒットにｓｎｓの反応様々スポツ報知",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-10T17:30:00+09:00",
+   "date_estimated": false,
+   "summary": "オリコンチャートの２位に生成ＡＩ活用「ＩＮＭＵ ＫＩＮＧ」 登場からわずか２か月、異例ヒットにＳＮＳの反応様々 スポーツ報知",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "531c0f0b11d3",
+   "title": "Claude AI sent Philadelphia police phony murder; Anthropic argues incident 'less severe' than other cybersecurity episodes - WION",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWXRCSTRmcF9TQl8tQ2NXdG5UTzhnNzktQ1JQeTN5bmRLTGhGcWdTVkJyN2hxckFzMHI4Nl9ENHVjMkdYc1JBLXpJaUtBQUtndUVZVnJyZm5MaUhhSk1IbTU0Vkp3ckhmNkN1TUdxbDI2dVBrZGgxQjRodE1VdXJGR3FEelpJOEdncVZCbE56MUlWelJxQVFjTXlKMHpMUXRmbWpRbzZYbXp6cHNZY0g3UmIzRWFaendqSWprZnU3YUxWSFExZkZwbW1LQ0pLSUZyOHFsaDhuaVl3cDJ4ZTFDTzdnekktNTQtTlhPbDBRc2N3SG45cUHSAfsBQVVfeXFMUFVLV0ZEdzE3bmxkY0piZkVOdWdUNDhiRGYtbWYyVTBvVjRlMVBQXzN2Z041RGVHS0JYSE1LRmhoRUZNbFhEUEdlZ2FlaDRLVTctNjlEV2NqZG5JeGxMOHBHRTVJNWFSd2tHeGFNbTYxRU5fcFdJNFgtLTVYYkhjYmc0M0NjdDV3bXpwZzdXVTczS0dVZkIzSTAwOURFR3ZyMmlQVkpFTFZNLV9DUnFYRmZoM2ZLWE5mbHBGZkNzZFlHeVdDblpHZEFqUkJaSFVYLW9vT1VTbEdXVWhjanduOTRUd09kcmlaQjhYeExmVEcwSUtnNzJldXFERVE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWXRCSTRmcF9TQl8tQ2NXdG5UTzhnNzktQ1JQeTN5bmRLTGhGcWdTVkJyN2hxckFzMHI4Nl9ENHVjMkdYc1JBLXpJaUtBQUtndUVZVnJyZm5MaUhhSk1IbTU0Vkp3ckhmNkN1TUdxbDI2dVBrZGgxQjRodE1VdXJGR3FEelpJOEdncVZCbE56MUlWelJxQVFjTXlKMHpMUXRmbWpRbzZYbXp6cHNZY0g3UmIzRWFaendqSWprZnU3YUxWSFExZkZwbW1LQ0pLSUZyOHFsaDhuaVl3cDJ4ZTFDTzdnekktNTQtTlhPbDBRc2N3SG45cUHSAfsBQVVfeXFMUFVLV0ZEdzE3bmxkY0piZkVOdWdUNDhiRGYtbWYyVTBvVjRlMVBQXzN2Z041RGVHS0JYSE1LRmhoRUZNbFhEUEdlZ2FlaDRLVTctNjlEV2NqZG5JeGxMOHBHRTVJNWFSd2tHeGFNbTYxRU5fcFdJNFgtLTVYYkhjYmc0M0NjdDV3bXpwZzdXVTczS0dVZkIzSTAwOURFR3ZyMmlQVkpFTFZNLV9DUnFYRmZoM2ZLWE5mbHBGZkNzZFlHeVdDblpHZEFqUkJaSFVYLW9vT1VTbEdXVWhjanduOTRUd09kcmlaQjhYeExmVEcwSUtnNzJldXFERVE?oc=5",
+   "title_key": "claudeaisentphiladelphiapolicephonymurderanthropicarguesincidentlessseverethanothercybersecurityepisodeswion",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-10T17:11:00+09:00",
+   "date_estimated": false,
+   "summary": "Claude AI sent Philadelphia police phony murder; Anthropic argues incident 'less severe' than other cybersecurity episodes WION",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "36def7830e3a",
    "title": "AnthropicのIPO機会はすでにビッグテック株の株価に織り込み済みか？ - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0aElkeDV3Mk9CanV4NnNYNGlhX0c3NmpEV20zb19mRzVEUi1ENHJsSW9CSzdpNUJVSFZhLXFWOWd5VWs1WHNSTER4aDdOLUV1elhSYVhDQS1xa2pHSGpDWE9UazhCLUk?oc=5",
@@ -784,6 +1655,19 @@
    "date_estimated": false,
    "summary": "AnthropicのAI、フィラデルフィア警察に未解決殺人事件の偽情報を送信 市は法務部門を動員 Martin Cid Magazine",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "9366c40175aa",
+   "title": "英語面接を控えたエンジニアへ：練習用のAIアプリを個人開発し、課金まで実装した話",
+   "url": "https://zenn.dev/speakingstudio/articles/830416ce39f8d9",
+   "url_key": "https://zenn.dev/speakingstudio/articles/830416ce39f8d9",
+   "title_key": "英語面接を控えたエンジニアへ：練習用のaiアプリを個人開発し課金まで実装した話",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T16:19:20+09:00",
+   "date_estimated": false,
+   "summary": "話す練習の相手が身近にいない人が1人で練習できるように、話した英語を1文ずつ日本語で添削してくれる Web アプリを作りました。月額課金まで入れて公開したので、構成・費用・つまずいたところをまとめます。 作ったもの AI の面接官（ほかにホテル・会議などの場面も）と英語で会話する 自分の発話ごとに ★1〜5 の評価、日本語の添削、自然な言い換えが付く 会話が終わると振り返り（総合点と、直すと伸びる点）が出る 声でも文字でも答えられる。登…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "23516ffd2c66",
@@ -864,6 +1748,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "1ff6130b6a8a",
+   "title": "AIもとに架空の判例を記載 琉球大学教授の著書が絶版・回収 「研究者としてあるまじき失態」とお詫び（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91amM5M19hLXlXYkduaDFUWVgxRzhlUGZjLWp1R2JtQ2hHcW5yVXRPSW5zMHVidVJPaDduYm0xclF2MmUxaW9WeUtuZmVoZlhSazVXbG5NVkJZSnlVY015MzZFLW1YT0ttRTlxMWFMUk04VjVWa254NkM5Wm9PWU0?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91amM5M19hLXlXYkduaDFUWVgxRzhlUGZjLWp1R2JtQ2hHcW5yVXRPSW5zMHVidVJPaDduYm0xclF2MmUxaW9WeUtuZmVoZlhSazVXbG5NVkJZSnlVY015MzZFLW1YT0ttRTlxMWFMUk04VjVWa254NkM5Wm9PWU0?oc=5",
+   "title_key": "aiもとに架空の判例を記載琉球大学教授の著書が絶版回収研究者としてあるまじき失態とお詫び（rbc琉球放送）yahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-10T15:00:34+09:00",
+   "date_estimated": false,
+   "summary": "AIもとに架空の判例を記載 琉球大学教授の著書が絶版・回収 「研究者としてあるまじき失態」とお詫び（RBC琉球放送） Yahoo!ニュース",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "3ed7d793a0b6",
    "title": "25倍ズームで遠くまで大きく写せるソニー製デジカメ「RX10 V」を使って動物や食べ物を撮影してみた作例はこんな感じ、スマホのAIズームとは別格の出来栄え",
    "url": "https://gigazine.net/news/20261010-sony-rx10-v-photo-example/",
@@ -901,6 +1798,19 @@
    "date_estimated": false,
    "summary": "Anthropic：Claudeモデルがフィラデルフィア警察に犯罪に関する虚偽の通報を送信 Informat.ro",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "40067de1dc4c",
+   "title": "うさぎのぬいぐるみが「カブ」になった — 画像認識モデルの乗り換えを、実測だけで決めた話",
+   "url": "https://zenn.dev/jadaq/articles/932e0d9c52f0fb",
+   "url_key": "https://zenn.dev/jadaq/articles/932e0d9c52f0fb",
+   "title_key": "うさぎのぬいぐるみがカブになった画像認識モデルの乗り換えを実測だけで決めた話",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T14:44:20+09:00",
+   "date_estimated": false,
+   "summary": "写真を撮ると単語シールになるアプリを個人で作っています。ユーザー（というか自分）から、こんな報告が来ました。 キーホルダーを撮ったのに、シールがひもだけになる 出てきたシールは、たしかに緑のボールチェーンだけ。肝心のぬいぐるみが丸ごと消えていました。単語のほうは rabbit と出ていたので、認識はできているのに切り抜きだけが壊れているように見えます。 結論から書くと、犯人は切り抜きではありませんでした。そして調べた結果、Sonnet…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "fe58137997f9",
@@ -942,6 +1852,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "1483bf2978bc",
+   "title": "Codex・Claude・Cursor の利用状況をまとめて確認できる「usAge」を作りました",
+   "url": "https://zenn.dev/chen2he/articles/bfd3190a97ee11",
+   "url_key": "https://zenn.dev/chen2he/articles/bfd3190a97ee11",
+   "title_key": "codexclaudecursorの利用状況をまとめて確認できるusageを作りました",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T14:01:03+09:00",
+   "date_estimated": false,
+   "summary": "Codex・Claude・Cursor の利用状況をまとめて確認できる「usAge」を作りました Codex や Claude、Cursor を使い分けていると、気になるのが利用枠の残りです。 「今のペースで使い続けて大丈夫か」「次にリセットされるのはいつか」「別のサービスには、まだ余裕があるか」。確認したいことは似ているのに、見る場所はサービスごとに分かれています。 この確認をもっと手軽にしたくて、複数の AI サービスの利用状況をま…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "080f353e37ac",
    "title": "What if AI could suffer? Anthropic bans needless cruelty towards Claude - Escudo Digital",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeVpIc21oVXpDUnVPWVpyLU5zckEyZjdZVTRqaFkyc1FaOEF0WE5oSV9BYk1sZFdFTm9ndzBpeVJtcTRrdU5xYnUweTlwRTZpNmdXT2E1cHFGcVRVSU90Q1o1YTFCTmhmOTdrNElkUUNIdDdhLVFiLTN6eldldWVoZnQ5N291SjkxTFctRGYxQXJxSmQyRDJKeWh0OFlDNldVMHZ4c0RqRVhsLXZuNzJZWWRJX2k0dUNPblR3TG1qZTZxVUlidnVFd3RnVWc0NVU5OE03aHIzZDhLeFU?oc=5",
@@ -955,6 +1878,19 @@
    "first_seen": "2026-10-11T00:48:55+09:00"
   },
   {
+   "id": "9219fb2621a6",
+   "title": "Claude MaxプランのAPIクレジットをJevのように使ってみた",
+   "url": "https://zenn.dev/driller/articles/claude-max-api-credits-jev",
+   "url_key": "https://zenn.dev/driller/articles/claude-max-api-credits-jev",
+   "title_key": "claudemaxプランのapiクレジットをjevのように使ってみた",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T13:53:19+09:00",
+   "date_estimated": false,
+   "summary": "Claude MaxプランおよびTeamプランでAPIのクレジットが付与されました。 https://platform.claude.com/docs/ja/about-claude/api-credits-for-subscribers このクレジットで Jev のような使い方ができないかを検討してみました。 Haiku 5.5がクレジットの付与とほぼ同じ時期にリリースされたことも、検討のきっかけになりました。 https://www…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "1d0c6aa73151",
    "title": "製造業のベテランにAIを教えて見えた、自走を分けるもの",
    "url": "https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy",
@@ -966,6 +1902,32 @@
    "date_estimated": false,
    "summary": "あれから、どうなったか 私は大手製造業で、デジタルやAIを使った改善や業務変革を進めるチームにいる。肩書きはマネージャーだが、部下はおらず、実態はプレイヤーだ。大手製造業では、よくある話だと思う。チームはもともと製造現場の改善を担う組織で、近年そこへデジタルやAIの役割が加わった。 前回の記事では、AIで先を走った私たちがチームを置き去りにした話を書いた。レビューが上下両方向で壊れ、共通言語が消え、ベテランは静かに降りていった。そして最…",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "6168e733059f",
+   "title": "Claude vs Copilot 2026: $20 vs $12.99 Price Gap - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZEZPdzRJaFZReThnVnlPOXFBRUhwNHkxbUhEZm03QW5EbjRLdUVKYmhVdUFYeFpwY2p4aUc4Vms4VXRhdW1KRmNULV9uT01YT1czakdxdnJ0Q2gyUHNRM1Rlc2JONW9WY0JxTFlNemxjbEpW?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZEZPdzRJaFZReThnVnlPOXFBRUhwNHkxbUhEZm03QW5EbjRLdUVKYmhVdUFYeFpwY2p4aUc4Vms4VXRhdW1KRmNULV9uT01YT1czakdxdnJ0Q2gyUHNRM1Rlc2JONW9WY0JxTFlNemxjbEpW?oc=5",
+   "title_key": "claudevscopilot202620vs1299pricegaphttpstechinsiderorg",
+   "source": "Microsoft 365 Copilot ニュース検索 (英語)",
+   "category": "copilot",
+   "published": "2026-10-10T13:51:47+09:00",
+   "date_estimated": false,
+   "summary": "Claude vs Copilot 2026: $20 vs $12.99 Price Gap https://tech-insider.org/",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
+   "id": "1773ee9144bb",
+   "title": "Claude Managed Agentsのdynamic workflows：切断後に実行状態を復元する",
+   "url": "https://zenn.dev/aipha_euro/articles/1d7237c3cc01d6",
+   "url_key": "https://zenn.dev/aipha_euro/articles/1d7237c3cc01d6",
+   "title_key": "claudemanagedagentsのdynamicworkflows：切断後に実行状態を復元する",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T13:35:10+09:00",
+   "date_estimated": false,
+   "summary": "長時間動くAIエージェントの画面で、通信が切れたあとに「実行中」「完了」をどう表示するでしょうか。最後に見えたイベントを保存するだけでは、切断中に進んだ処理が抜けます。再接続時に履歴を読み直すと、今度は同じイベントを二重に処理しかねません。 Anthropicは2026年10月9日、Claude Managed Agentsにdynamic workflowsを追加しました。この記事では、その実行イベントから状態を組み立て直す小さなPy…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "62e53c5268b6",
@@ -992,6 +1954,19 @@
    "date_estimated": false,
    "summary": "Claude Code に MCP サーバーを1つ足して、家に転がっていた 2017 年の Windows タブレット（Galaxy Book、Core m3・メモリ 4GB・Windows 10 1803）に作業させてみました。電源設定の変更や再起動まで、チャットで頼むと向こうの PowerShell で実行されます。 使ったのは自分で作っている BCD というリモート MCP サーバーで、パソコン側には小さなエージェントが常駐します…",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "060662c5fc44",
+   "title": "【速報】Claude の新機能 Claude Motion 早速使ってみた",
+   "url": "https://zenn.dev/branbran/articles/047821d64590f0",
+   "url_key": "https://zenn.dev/branbran/articles/047821d64590f0",
+   "title_key": "【速報】claudeの新機能claudemotion早速使ってみた",
+   "source": "Zenn - Claude (使い方・工夫)",
+   "category": "claude",
+   "published": "2026-10-10T13:13:09+09:00",
+   "date_estimated": false,
+   "summary": "はじめに 2026年10月8日、Anthropic が Claude の新機能 Claude Motion をベータで公開しました。同じ日に Claude Dashboards も出ています。 Claude Motion は、プロンプトや手元のレポート・グラフ・画像から、短いアニメーション動画を作る機能です。さっそく触ってみたので、機能の概要・使い方・使ってみた所感をまとめます。 公式Claude Motion のYoutube動画 こ…",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "aa6fc471f5d0",
@@ -1239,6 +2214,19 @@
    "date_estimated": false,
    "summary": "今週(9/28〜10/4)の Anthropic 関連は12本ありました。中心は、9月28日に公開された Claude Sonnet 5.5 と、Opus 5.5 の使いこなしを説明した公式ドキュメントです。 Sonnet 5.5 の「1件あたり最大3割安い」は、単価の値下げではありません。使うトークンが減った分だけ安くなる、という話です。Opus 5.5 は effort の既定値が変わっていて、Opus 5 の頃の設定を持ち込むと返…",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "d7e1ec4bd125",
+   "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - The Spec",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbk5BZkdNMHBMd3B0QXdYTlU2TE1aWl9sSFoxX3lqY19SR01tUENubW5DX3lMVm42ZkN0ZW45VzlENzgwaUtMdDlwZTV5aGpHOVlsd3ZfM0VtOVNVZjYxenRuTFBsVlZDb3lCOFVPSW52N3JLTGVTREY4R1Jfd01KUC1zek80bERxLTFaUkpWQlpSMmtpVUE4WjNoaHN2YVJLaFBzSnhNXzZCalJoc2ZJOGpISk1RZkRVTm9XbU5fXzVMSk84dE9nbURQZEJsQmljZzZTYUJvZlIzWDhPWUhXcUpldEkyUF85N3l2Ni1KX3IxUDhicDdaUw?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbk5BZkdNMHBMd3B0QXdYTlU2TE1aWl9sSFoxX3lqY19SR01tUENubW5DX3lMVm42ZkN0ZW45VzlENzgwaUtMdDlwZTV5aGpHOVlsd3ZfM0VtOVNVZjYxenRuTFBsVlZDb3lCOFVPSW52N3JLTGVTREY4R1Jfd01KUC1zek80bERxLTFaUkpWQlpSMmtpVUE4WjNoaHN2YVJLaFBzSnhNXzZCalJoc2ZJOGpISk1RZkRVTm9XbU5fXzVMSk84dE9nbURQZEJsQmljZzZTYUJvZlIzWDhPWUhXcUpldEkyUF85N3l2Ni1KX3IxUDhicDdaUw?oc=5",
+   "title_key": "anthropicsclaudeaisubmitsafalsetiponaphiladelphiaunsolvedhomicidecasethespec",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-10T11:10:34+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case The Spec",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "f965c63d5b78",
@@ -1605,6 +2593,19 @@
    "first_seen": "2026-10-10T10:25:59+09:00"
   },
   {
+   "id": "5b11479ceeae",
+   "title": "Anthropic admits its Claude AI agents tried to breach government websites during tests - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF2dmIwN3lPZjBEaFRYaVlDU2hHWXNXNUNISjdiTEgyc1dycTFmdElzRFN3QW00ZXk1QjQ2OHBZOVFneUxHVk1DUU9URXpmTGc2RjVRb3FTdHQ4R3JlOUFMTnNsWXNDYnpLSFFLc05KMVJ2dktxLUVzV0JOVmlRMy1UNFNnMEYwRXdQZlhSVE9RMmo3OVlsajg1TWxtckdURUltWVl1ZG1mLUJIV1pLUFQ1NEM?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF2dmIwN3lPZjBEaFRYaVlDU2hHWXNXNUNISjdiTEgyc1dycTFmdElzRFN3QW00ZXk1QjQ2OHBZOVFneUxHVk1DUU9URXpmTGc2RjVRb3FTdHQ4R3JlOUFMTnNsWXNDYnpLSFFLc05KMVJ2dktxLUVzV0JOVmlRMy1UNFNnMEYwRXdQZlhSVE9RMmo3OVlsajg1TWxtckdURUltWVl1ZG1mLUJIV1pLUFQ1NEM?oc=5",
+   "title_key": "anthropicadmitsitsclaudeaiagentstriedtobreachgovernmentwebsitesduringtestsstartupfortune",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-10T08:42:05+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic admits its Claude AI agents tried to breach government websites during tests Startup Fortune",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "f5a132549a79",
    "title": "ドキュメンタリー映画なのに全編を生成AIで制作〜ベネチア国際映画祭でAI作品が初の公式上映〜【調査情報デジタル】 - Yahoo!ニュース",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NmR6dUFOZjJlM3VfNGZpb0RNZ1hGWWEtWWxJQ05kZTBlQnVDRUt4VVBxaU5HUFFVVlFRbXROajN6Vl9Kb3VBRmNtWWN5YTI5MTRtYlI5QkNkejdZdmJyWkIzMU9DRjlkNTJ2TmR1cm9lMTBuUVJEUFVLZHZ6UEE?oc=5",
@@ -1798,6 +2799,19 @@
    "date_estimated": false,
    "summary": "日立、ダイキン、三菱重工業…半導体の次の主役は「物理インフラ」へ。AI時代の弱点を解消する日本株5銘柄（茂木春輝） トウシル",
    "first_seen": "2026-10-11T00:48:55+09:00"
+  },
+  {
+   "id": "37d32ede3501",
+   "title": "日立製作所、米Anthropicの重要インフラ向けサイバー防衛プログラムに参画 - ビジネス+IT",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMXB3ME01Q0hFVG13SVg4ajBBUW1pVE1peEdQdmFDeDViam9FMUFwTXI4dnM5Q3NpR0lKRUlIWi1SSEsxdU1wdEZNLTJ6NHpwRy1Z?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wMXB3ME01Q0hFVG13SVg4ajBBUW1pVE1peEdQdmFDeDViam9FMUFwTXI4dnM5Q3NpR0lKRUlIWi1SSEsxdU1wdEZNLTJ6NHpwRy1Z?oc=5",
+   "title_key": "日立製作所米anthropicの重要インフラ向けサイバ防衛プログラムに参画ビジネスit",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-10T08:00:00+09:00",
+   "date_estimated": false,
+   "summary": "日立製作所、米Anthropicの重要インフラ向けサイバー防衛プログラムに参画 ビジネス+IT",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "17b2c08866a7",
@@ -2333,6 +3347,19 @@
    "first_seen": "2026-10-10T10:25:59+09:00"
   },
   {
+   "id": "17a7c7eb320b",
+   "title": "Anthropic bans 'needless abusive or cruel behavior' towards Claude — but whose feelings are getting hurt here? - Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXUwazl4c3lHUU5KTVZRa2lRZUNpSU4tU1FGT3JDekVfb2JRNTVZME1jYllTZWY5ME5tUmVHVU1ZTjFwc2YxLUp1TTdMUDA4MHlZN25KTi1IbUY1MHJkUkhKbjMzZDFPTFNpcFl2eURIT25OVHE3WlJFTHdrVUNHaGpFZTlqY3BZNV9JWE1HTVdGZGRUa0NWZ1VB?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXUwazl4c3lHUU5KTVZRa2lRZUNpSU4tU1FGT3JDekVfb2JRNTVZME1jYllTZWY5ME5tUmVHVU1ZTjFwc2YxLUp1TTdMUDA4MHlZN25KTi1IbUY1MHJkUkhKbjMzZDFPTFNpcFl2eURIT25OVHE3WlJFTHdrVUNHaGpFZTlqY3BZNV9JWE1HTVdGZGRUa0NWZ1VB?oc=5",
+   "title_key": "anthropicbansneedlessabusiveorcruelbehaviortowardsclaudebutwhosefeelingsaregettinghurthereyahootech",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-10T02:22:57+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic bans 'needless abusive or cruel behavior' towards Claude — but whose feelings are getting hurt here? Yahoo Tech",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "a27464ce590c",
    "title": "Other IPOs on ice as investors await Anthropic’s mega public debut - New York Post",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkZrS0dKeUZWeENXZVVrYVdVMWNxNThXRno1NzhuRWRaaXR2Mmhhb01VY0g3NVJidDQ3YWExY096ZzZ6ZjBfamE4cmhEc0hxSWNZN3hPbEtjUjZ6Y3Ffb2I0dDVtdGQ2OXBXSTFhUlY3V2JkRjVpZkxVaHBFUllNR2VMVk1CUUMtWkNWWnRMMVBZUnBMeG54WjRjeW9WSlhZVVFoWWN6cXAxeUV3X0E?oc=5",
@@ -2591,6 +3618,19 @@
    "date_estimated": false,
    "summary": "高速版「Qwen-Image-2.1-Turbo」重み公開、画像生成8ステップで完了 PC Watch",
    "first_seen": "2026-10-10T01:55:17+09:00"
+  },
+  {
+   "id": "f176679d3c2e",
+   "title": "アクセンチュアとAnthropic、AI安全性評価を担う「組み込み型評価者」チーム設立で提携 - EnterpriseZine",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kNGppbzIzRnBLLWVMZ1NadzdkUS1oTFVackNVVFROZkR4UVpjTUd1eHF0VnYxNXJGdS1wQzRGdHUxY09Gc3lSdWhqcDN2MC1BamdBV1Zn?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kNGppbzIzRnBLLWVMZ1NadzdkUS1oTFVackNVVFROZkR4UVpjTUd1eHF0VnYxNXJGdS1wQzRGdHUxY09Gc3lSdWhqcDN2MC1BamdBV1Zn?oc=5",
+   "title_key": "アクセンチュアとanthropicai安全性評価を担う組み込み型評価者チム設立で提携enterprisezine",
+   "source": "Claude ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-09T23:58:38+09:00",
+   "date_estimated": false,
+   "summary": "アクセンチュアとAnthropic、AI安全性評価を担う「組み込み型評価者」チーム設立で提携 EnterpriseZine",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "775040c99216",
@@ -3217,6 +4257,19 @@
    "first_seen": "2026-10-10T01:55:17+09:00"
   },
   {
+   "id": "0ca21f7a9b16",
+   "title": "【経営者限定・参加無料】「はじめてのClaude Code」実践会を10月15日に開催。初期設定とフォルダ理解を自分のPCで - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nLWF6SnhUOWt1dzdic3Q5X2JSdXMyWEZieGFJNkVsc1p4S0FBQnZMVFFRR0RyOFRVZ0NvT1RUcUlEMVZoVmFKa0J2bU40WGpMb3dJYi1Ja1pTeHp0SW5JS2JB?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nLWF6SnhUOWt1dzdic3Q5X2JSdXMyWEZieGFJNkVsc1p4S0FBQnZMVFFRR0RyOFRVZ0NvT1RUcUlEMVZoVmFKa0J2bU40WGpMb3dJYi1Ja1pTeHp0SW5JS2JB?oc=5",
+   "title_key": "【経営者限定参加無料】はじめてのclaudecode実践会を10月15日に開催初期設定とフォルダ理解を自分のpcでライブドアニュス",
+   "source": "Claude Code ニュース検索 (日本語)",
+   "category": "claude",
+   "published": "2026-10-09T20:16:49+09:00",
+   "date_estimated": false,
+   "summary": "【経営者限定・参加無料】「はじめてのClaude Code」実践会を10月15日に開催。初期設定とフォルダ理解を自分のPCで ライブドアニュース",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "2e5eb66a13bd",
    "title": "Claude Opus 5.5 の effort 比較：low〜max を実測",
    "url": "https://qiita.com/yunany90/items/c8586f6366a52ce5e544",
@@ -3423,6 +4476,19 @@
    "date_estimated": false,
    "summary": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI KFBK News Radio",
    "first_seen": "2026-10-10T01:55:17+09:00"
+  },
+  {
+   "id": "0f5e681423ac",
+   "title": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI - Talk Radio 105.9 - KNRS",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzhOYVg1MnpTZ25LUVVveWlwRTQ1RU05UXA2RU9fN1RpMENtdU1fbFlWWnhhdW5vZFJWT2dmNm9oTlNtQy15dFJHcDJsWWxjUjFrV1NnUHZTT21fY1BJRGJyMGdWbzFmYlJNMWlfREo3U1dSNzFUSjIySHJjemlTa0VFeVdQd2sxVi12TFYtNW1PcndjTzBXTg?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzhOYVg1MnpTZ25LUVVveWlwRTQ1RU05UXA2RU9fN1RpMENtdU1fbFlWWnhhdW5vZFJWT2dmNm9oTlNtQy15dFJHcDJsWWxjUjFrV1NnUHZTT21fY1BJRGJyMGdWbzFmYlJNMWlfREo3U1dSNzFUSjIySHJjemlTa0VFeVdQd2sxVi12TFYtNW1PcndjTzBXTg?oc=5",
+   "title_key": "anthropictobancruelbehavioragainstclaudeaitalkradio1059knrs",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-09T19:40:00+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI Talk Radio 105.9 - KNRS",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "2f083b445598",
@@ -5180,6 +6246,19 @@
    "first_seen": "2026-10-09T10:37:14+09:00"
   },
   {
+   "id": "e171ec07e60f",
+   "title": "声優・津田健次郎が“無断AI”訴訟起し「敗訴」…それでも地裁が「声は法的権利」と認めた理由 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zem5PVGZlZWlycG53ZXFBdXloOEhGcVo3U3lMdlRXSWFWWE9HME93eEt0YkxTN0pmN3FZM19fSnZYWHVEQmw4aV9PRXpNTk5XZ0hBMmx0LTJZYTlwMmo3dkNMbHRMV3BoRDhDQkFTMUlXSDNHNjdtQU96Wks2U2c?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zem5PVGZlZWlycG53ZXFBdXloOEhGcVo3U3lMdlRXSWFWWE9HME93eEt0YkxTN0pmN3FZM19fSnZYWHVEQmw4aV9PRXpNTk5XZ0hBMmx0LTJZYTlwMmo3dkNMbHRMV3BoRDhDQkFTMUlXSDNHNjdtQU96Wks2U2c?oc=5",
+   "title_key": "声優津田健次郎が“無断ai”訴訟起し敗訴それでも地裁が声は法的権利と認めた理由yahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-09T10:20:02+09:00",
+   "date_estimated": false,
+   "summary": "声優・津田健次郎が“無断AI”訴訟起し「敗訴」…それでも地裁が「声は法的権利」と認めた理由 Yahoo!ニュース",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "a446200ecdd6",
    "title": "Decisions APIの画像認識能力を検証",
    "url": "https://zenn.dev/tkada/articles/c7854943de4292",
@@ -5583,6 +6662,19 @@
    "first_seen": "2026-10-09T10:37:14+09:00"
   },
   {
+   "id": "48910fb2bbf2",
+   "title": "マーキュリー、沖縄の専門学校2校で「推し活×生成AI」のキャリア教育セミナーを開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkeFBlUF9ZaFp0SUZ1ODF0QXZFeUpJZ1VYWXlxdVMyd1FxalVPZUFUSS1zbWdpcTNuRU41d0xrQTRNOGMtVzBNSVZoN193bkNNRGNKdkFFLUdLQ3hEc3c?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkeFBlUF9ZaFp0SUZ1ODF0QXZFeUpJZ1VYWXlxdVMyd1FxalVPZUFUSS1zbWdpcTNuRU41d0xrQTRNOGMtVzBNSVZoN193bkNNRGNKdkFFLUdLQ3hEc3c?oc=5",
+   "title_key": "マキュリ沖縄の専門学校2校で推し活×生成aiのキャリア教育セミナを開催沖縄タイムス社",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-09T09:00:28+09:00",
+   "date_estimated": false,
+   "summary": "マーキュリー、沖縄の専門学校2校で「推し活×生成AI」のキャリア教育セミナーを開催 沖縄タイムス社",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "41efa94d2a3b",
    "title": "マニュアルが自動更新される世界へ 技術の継承に不安を抱える現場にスタディストが新構想",
    "url": "https://ascii.jp/elem/000/004/441/4441340/?rss",
@@ -5724,6 +6816,19 @@
    "date_estimated": false,
    "summary": "アマゾンが新型タブレット発表 生成ＡＩ搭載の３機種 | | 全国のニュース 佐賀新聞",
    "first_seen": "2026-10-09T10:37:14+09:00"
+  },
+  {
+   "id": "e41fa91bd888",
+   "title": "アマゾンが新型タブレット発表／生成ＡＩ搭載の３機種 - 四国新聞",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVRUYXpXa1VIQUgxSzVKX3dDT3JuLS1iaExJdUtOTGlXek10UWNpSFVMWUlXTmxYMjRQRUs4aHBrREZfcC1BdV94TmNOY1lDT3R2NFFRY1JKVHpXYnhCUlRFZHotQzlEVllOSzdQMUp4Xy1vRl96YUZ5bUtHam0yaA?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVRUYXpXa1VIQUgxSzVKX3dDT3JuLS1iaExJdUtOTGlXek10UWNpSFVMWUlXTmxYMjRQRUs4aHBrREZfcC1BdV94TmNOY1lDT3R2NFFRY1JKVHpXYnhCUlRFZHotQzlEVllOSzdQMUp4Xy1vRl96YUZ5bUtHam0yaA?oc=5",
+   "title_key": "アマゾンが新型タブレット発表／生成ａｉ搭載の３機種四国新聞",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-09T08:27:00+09:00",
+   "date_estimated": false,
+   "summary": "アマゾンが新型タブレット発表／生成ＡＩ搭載の３機種 四国新聞",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "a02afbd82ed1",
@@ -8183,6 +9288,19 @@
    "first_seen": "2026-10-09T02:19:40+09:00"
   },
   {
+   "id": "675170b40f39",
+   "title": "生成AIなどデジタル技術で業務改善 石川県庁職員 具体的な活用法を知事らに提示（2026年10月8日掲載） - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTQ3czBoX2Jfc2lDM241M0hUU2pXYlZtNk9fbEpDVVhidF9RM0d1aGZKMlpsYWQ1SEZ5OVhDYWxSNmliejI2YTRXWmI4YmhMTEZiV011alFsVktZc0pNNHJNeDIxTE9mRHIzWF9paFJOWW5wUXBsY09GQmx4d2ZQZ3J4ZWlSSXM?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTQ3czBoX2Jfc2lDM241M0hUU2pXYlZtNk9fbEpDVVhidF9RM0d1aGZKMlpsYWQ1SEZ5OVhDYWxSNmliejI2YTRXWmI4YmhMTEZiV011alFsVktZc0pNNHJNeDIxTE9mRHIzWF9paFJOWW5wUXBsY09GQmx4d2ZQZ3J4ZWlSSXM?oc=5",
+   "title_key": "生成aiなどデジタル技術で業務改善石川県庁職員具体的な活用法を知事らに提示（2026年10月8日掲載）日テレnewsnnn",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-08T18:47:00+09:00",
+   "date_estimated": false,
+   "summary": "生成AIなどデジタル技術で業務改善 石川県庁職員 具体的な活用法を知事らに提示（2026年10月8日掲載） 日テレNEWS NNN",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "aa14abe10530",
    "title": "Anthropic & Godel: What is the AI-Powered Godel Factory? - AI Magazine",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlpKU3JDWktWNngxeUt0emxrOGdrcGFXUTE5LVFjYUJPbVJ2WkFGSkpBdHplTjY5VVQxcndFTzFISm5SOEFlMWluZHgtdVBUWjVtRFkxRzhUdUxYUFpLOERPQ0tyNkxwNXlFaGFBbkdFTlJlaUU0UTJoTTdTNmpBUGo4RnZrS3c?oc=5",
@@ -8534,6 +9652,19 @@
    "first_seen": "2026-10-09T02:19:40+09:00"
   },
   {
+   "id": "a1769ef5e6c9",
+   "title": "Anthropic's Claude Gets 75% Cheaper. Its $2 Trillion IPO Gets Called “Ridiculous” - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnZBWnN1X19NdUJzVUlpZXFoYkpweFdHdUl3Wngxc0toOE9XVDJENUE4Vld6WE5iRzZ3cjVwc1VtZ1FWcUdFVzF5NlRFZ1lxR2F0dDA0Ml8xM3Y1TGZ2eVZUUlQtWVQxVnljYUVkdm44U1Frci1EOFJISnFUMU1ULXNlOFZWMW1sZExRemNCMjlVb2dPUHJnYXFWRXVJQQ?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnZBWnN1X19NdUJzVUlpZXFoYkpweFdHdUl3Wngxc0toOE9XVDJENUE4Vld6WE5iRzZ3cjVwc1VtZ1FWcUdFVzF5NlRFZ1lxR2F0dDA0Ml8xM3Y1TGZ2eVZUUlQtWVQxVnljYUVkdm44U1Frci1EOFJISnFUMU1ULXNlOFZWMW1sZExRemNCMjlVb2dPUHJnYXFWRXVJQQ?oc=5",
+   "title_key": "anthropicsclaudegets75cheaperits2trillionipogetscalled“ridiculous”yahoofinance",
+   "source": "Anthropic ニュース検索 (英語)",
+   "category": "claude",
+   "published": "2026-10-08T17:25:54+09:00",
+   "date_estimated": false,
+   "summary": "Anthropic's Claude Gets 75% Cheaper. Its $2 Trillion IPO Gets Called “Ridiculous” Yahoo Finance",
+   "first_seen": "2026-10-11T09:36:59+09:00"
+  },
+  {
    "id": "4da48364613c",
    "title": "Anthropic's Claude Gets 75% Cheaper. Its $2 Trillion IPO Gets Called “Ridiculous” - BeInCrypto",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CcUQtc3pqdHJQc2kzV1RLSkREekQ3cGVocE9ldENxam9XNENIRGZoOGlKU1lJY3pXYWNwaXZVTDF4ZlltR3ZwTFlmR2JCek9kYTRpNWdHOExlYW41Nms3X21paUM?oc=5",
@@ -8844,6 +9975,19 @@
    "date_estimated": false,
    "summary": "さくらインターネット、企業専用の生成AI基盤「さくらのAI Engine プライベートエディション」を提供開始 ZDNET Japan",
    "first_seen": "2026-10-09T02:19:40+09:00"
+  },
+  {
+   "id": "fb46aeed9811",
+   "title": "さくらインターネット、企業専用の生成AI基盤「さくらのAI Engine プライベートエディション」を提供開始 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52OW9yYTdnR1pUV01pTTE2TnhGdUJTWHFEei1uekg1dFpkZC0zUy12cVQ1eUxaZmptSzhWQVFIQmpmdXFyMUNGR2V0eXBqYlpUa3BHNndPY3VlYTRzbVRENGdLU2pjWWFULWVaQnpiMkZDWllKdjA3Z2VPYmU5ME0?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52OW9yYTdnR1pUV01pTTE2TnhGdUJTWHFEei1uekg1dFpkZC0zUy12cVQ1eUxaZmptSzhWQVFIQmpmdXFyMUNGR2V0eXBqYlpUa3BHNndPY3VlYTRzbVRENGdLU2pjWWFULWVaQnpiMkZDWllKdjA3Z2VPYmU5ME0?oc=5",
+   "title_key": "さくらインタネット企業専用の生成ai基盤さくらのaiengineプライベトエディションを提供開始yahooニュス",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-08T15:36:00+09:00",
+   "date_estimated": false,
+   "summary": "さくらインターネット、企業専用の生成AI基盤「さくらのAI Engine プライベートエディション」を提供開始 Yahoo!ニュース",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "6acebdc7080a",
@@ -9780,6 +10924,19 @@
    "date_estimated": false,
    "summary": "テクマトリックス、生成AI品質評価ツール「GENFLUX Evaluation」の販売を開始 CodeZine",
    "first_seen": "2026-10-09T10:37:14+09:00"
+  },
+  {
+   "id": "332860bec7f0",
+   "title": "生成AIの活用は雇用や働き方にどのような影響を与えるのか？ SuFIA 「AI活用における成熟度レベル調査」を開始 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RajMyMkpuZEgwRXYtd1R5bS1WN0lnaVFFbHBYVDNsT1hKSXJGLWZlSG0zTmxUV1gwWHNIeW5YdjRteXpUNE5yMWt5bHdkbmt3b2c1bkJrLXhDc0NjdjU0cXEyd2JfSWZCblE?oc=5",
+   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RajMyMkpuZEgwRXYtd1R5bS1WN0lnaVFFbHBYVDNsT1hKSXJGLWZlSG0zTmxUV1gwWHNIeW5YdjRteXpUNE5yMWt5bHdkbmt3b2c1bkJrLXhDc0NjdjU0cXEyd2JfSWZCblE?oc=5",
+   "title_key": "生成aiの活用は雇用や働き方にどのような影響を与えるのか？sufiaai活用における成熟度レベル調査を開始prtimes",
+   "source": "生成AI ニュース検索 (日本語)",
+   "category": "other",
+   "published": "2026-10-08T10:50:12+09:00",
+   "date_estimated": false,
+   "summary": "生成AIの活用は雇用や働き方にどのような影響を与えるのか？ SuFIA 「AI活用における成熟度レベル調査」を開始 PR TIMES",
+   "first_seen": "2026-10-11T09:36:59+09:00"
   },
   {
    "id": "711a6746f43b",
@@ -18607,1163 +19764,6 @@
    "date_estimated": false,
    "summary": "元Anthropic研究員がAI暴走リスク警告 - CHOSUNBIZ Chosunbiz",
    "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "0777789b28dc",
-   "title": "claude -p の定期実行が失敗しても終了コードは0。報告末尾の状態行で異常を拾う",
-   "url": "https://qiita.com/Kujira_AI/items/9fba279a3d3e6a6016ad",
-   "url_key": "https://qiita.com/Kujira_AI/items/9fba279a3d3e6a6016ad",
-   "title_key": "claudepの定期実行が失敗しても終了コドは0報告末尾の状態行で異常を拾う",
-   "source": "Qiita - ClaudeCode (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T10:01:23+09:00",
-   "date_estimated": false,
-   "summary": "Claude Code をタスクスケジューラから claude -p で毎日動かしています。ランチャー（起動用の PowerShell スクリプト）には「終了コードが 0 以外なら通知を出す」という見張りを付けていました。 ところがある朝、ルーティンの中の X 予約投稿が失...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "115373e5fc2a",
-   "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
-   "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
-   "url_key": "https://itmedia.co.jp/news/article/2610/06/2000002013",
-   "title_key": "不正アクセスなぜ急増原因はaiかそれとも専門家の見解は",
-   "source": "ITmedia AI＋ (日本語)",
-   "category": "other",
-   "published": "2026-10-06T10:00:00+09:00",
-   "date_estimated": false,
-   "summary": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "ae8e7b5ed944",
-   "title": "Anthropic Reports User to the Police - Futurism",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVZhcEE5ekpMNDRiUlliNWhPZzE5OHJEM25OYm4xQWlOblZkelpUNnVZY21WOWM5aUhTNjFPaWc1djFJZnBlcFhScmpUdGg0Z3JfTkRxTjg2dWx0UHU5dGRrcDdrbFdIaVZnR2cyY3Npb1VJWDlTc2t3M0hVdWVqcmhmN3ZQdkFJbTJsUFBkdjBOMVZ6VHdxazNINA?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVZhcEE5ekpMNDRiUlliNWhPZzE5OHJEM25OYm4xQWlOblZkelpUNnVZY21WOWM5aUhTNjFPaWc1djFJZnBlcFhScmpUdGg0Z3JfTkRxTjg2dWx0UHU5dGRrcDdrbFdIaVZnR2cyY3Npb1VJWDlTc2t3M0hVdWVqcmhmN3ZQdkFJbTJsUFBkdjBOMVZ6VHdxazNINA?oc=5",
-   "title_key": "anthropicreportsusertothepolicefuturism",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T09:52:00+09:00",
-   "date_estimated": false,
-   "summary": "Anthropic Reports User to the Police Futurism",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "a1beb9b4f097",
-   "title": "AIエージェントへの依頼をどう回すか 受け箱とMCPを考えている途中です",
-   "url": "https://qiita.com/ishizakahiroshi/items/a552bb339bab8b08eb8b",
-   "url_key": "https://qiita.com/ishizakahiroshi/items/a552bb339bab8b08eb8b",
-   "title_key": "aiエジェントへの依頼をどう回すか受け箱とmcpを考えている途中です",
-   "source": "Qiita - ClaudeCode (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:50:56+09:00",
-   "date_estimated": false,
-   "summary": "dotsなどのAIエージェントへの依頼を、受付から受入まで追う仕組みを考えています。Claude Codeやmany-ai-cliで作業し、返事はMCPで読む構想ですが、受け箱はまだ作っていません。 いま使っている道具、作っている道具も紹介します many-ai-cli...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "913b4c7f3670",
-   "title": "[Claude Code] Anthropic製の公式プラグイン全 39 個を用途別に紹介する",
-   "url": "https://zenn.dev/aew2sbee/articles/claude-code-official-plugins",
-   "url_key": "https://zenn.dev/aew2sbee/articles/claude-code-official-plugins",
-   "title_key": "claudecodeanthropic製の公式プラグイン全39個を用途別に紹介する",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:50:45+09:00",
-   "date_estimated": false,
-   "summary": "🌱 はじめに Claude Code には「プラグイン」という仕組みがあり、Anthropic は公式のマーケットプレイス（プラグインの一覧）を GitHub で公開しています。 ただ、掲載されているプラグインは 300 個を超えていて、どれから試せばよいのか分かりにくいと感じました。 この記事では、そのうち Anthropic 自身が開発している 39 個のプラグインを用途別に整理します。 あわせて、スキルとの違い、メリットとデメリッ…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "f403f4a68a2a",
-   "title": "0。前回の記事が「試していない」と書いた復旧コマンドを今回実行したら、通った回数だった",
-   "url": "https://qiita.com/Hideki_Tamae/items/a2058faab47b709c2835",
-   "url_key": "https://qiita.com/Hideki_Tamae/items/a2058faab47b709c2835",
-   "title_key": "0前回の記事が試していないと書いた復旧コマンドを今回実行したら通った回数だった",
-   "source": "Qiita - ClaudeCode (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:49:33+09:00",
-   "date_estimated": false,
-   "summary": "はじめに 0。 これが今回の数字です。何の0かというと、前回(2026-09-30公開)の記事で「detached HEADから復旧する手段」として挙げ、同時に「実際に試して確認したものではない」と明記していたgitコマンドを、今日実際に実行してみたら、Claude Co...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "886adfe162fc",
-   "title": "GitLabが利用料を「誰が使ったか」で管理する機能を出した日、自分のコミット著者名の種類を数えたら1だった",
-   "url": "https://zenn.dev/hideki_tamae/articles/commit-author-identity-collapse",
-   "url_key": "https://zenn.dev/hideki_tamae/articles/commit-author-identity-collapse",
-   "title_key": "gitlabが利用料を誰が使ったかで管理する機能を出した日自分のコミット著者名の種類を数えたら1だった",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:48:54+09:00",
-   "date_estimated": false,
-   "summary": "はじめに 1。 これが今回の数字です。何の1かというと、このZenn/Qiita自動投稿パイプライン自身が記事を追加する際に使っている、gitコミットの著者名(author)の種類の数です。このタスクはこれまで49回、記事追加のコミットを行っていますが、その著者名は一貫して「Claude noreply@anthropic.com」の1種類だけでした。 きっかけは、GitLabが2026年10月のリリース(19.4)で、エージェント(D…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "bc1339e331dc",
-   "title": "Claude Code の WebFetch は、長いページの10万字より後ろを読まずに「書いていない」と答えていた",
-   "url": "https://qiita.com/suwa_nobu/items/35a1824f5b1d41caa10f",
-   "url_key": "https://qiita.com/suwa_nobu/items/35a1824f5b1d41caa10f",
-   "title_key": "claudecodeのwebfetchは長いペジの10万字より後ろを読まずに書いていないと答えていた",
-   "source": "Qiita - Claude (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:37:26+09:00",
-   "date_estimated": false,
-   "summary": "Claude Code 2.1.290（2026-10-05）の changelog に、こう書かれています。 Fixed WebFetch silently dropping page text past 100,000 characters; it now says ...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "bcb5468148b7",
-   "title": "AIコーディングで大規模リポジトリを正しく理解させるためのコンテキスト設計とプロンプト構築手法",
-   "url": "https://qiita.com/blinkgroup_jp/items/0e72e0cbe437df821832",
-   "url_key": "https://qiita.com/blinkgroup_jp/items/0e72e0cbe437df821832",
-   "title_key": "aiコディングで大規模リポジトリを正しく理解させるためのコンテキスト設計とプロンプト構築手法",
-   "source": "Qiita - Claude (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:22:02+09:00",
-   "date_estimated": false,
-   "summary": "読者が抱える課題 GitHub CopilotやCursor、Claude 3.5 SonnetなどのAIコーディングアシスタントは、日々の開発において強力なツールです。しかし、大規模なリポジトリや複雑なマイクロサービス群を対象にする場合、以下のような課題が頻繁に発生しま...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "26342281e78f",
-   "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-   "title_key": "openaianthropictellaustraliatheywouldwelcomedatabreachrulesreuters",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T09:15:00+09:00",
-   "date_estimated": false,
-   "summary": "OpenAI, Anthropic tell Australia they would welcome data breach rules Reuters",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "2506af0ffe83",
-   "title": "テストは全部緑✅なのに、画面を開いたら「あれ？」😱 AIが書いたコードを人間がレビューする5か所",
-   "url": "https://zenn.dev/charge0315/articles/31837fb2dbe51b",
-   "url_key": "https://zenn.dev/charge0315/articles/31837fb2dbe51b",
-   "title_key": "テストは全部緑✅なのに画面を開いたらあれ？😱aiが書いたコドを人間がレビュする5か所",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:11:02+09:00",
-   "date_estimated": false,
-   "summary": "テストは全部緑✅。コミットもした。なのに画面を開いた瞬間、「…あれ？」😱 こういう朝、ありませんか？ 🎉 今回から文体を変えて、絵文字と図をぐっと増やしました。気に入っていただけると幸いです🙇 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は、AIがコードもテストも書いてくれる開発で、それでも人間のレビューが品質を決めた3つの場面…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "3883e818058f",
-   "title": "Claude Codeは次のセッションで同じ穴に落ちる。「ハマったらREADMEに書く」を1サイクルにした話(Laravel)",
-   "url": "https://zenn.dev/mugen_web/articles/claude-code-readme-pitfall-log",
-   "url_key": "https://zenn.dev/mugen_web/articles/claude-code-readme-pitfall-log",
-   "title_key": "claudecodeは次のセッションで同じ穴に落ちるハマったらreadmeに書くを1サイクルにした話laravel",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:02:54+09:00",
-   "date_estimated": false,
-   "summary": "1人でWeb制作会社をやっていて、社内システム(Laravel 12)と店舗サイトの雛形を、Claude Codeにほぼ書いてもらいました。その開発で、いちばん地味なのに効いたのが「ハマったら、直して、READMEに書く」を1サイクルにしたことです。 人間のチームとAIの違い 人間のチームなら、ハマった本人が覚えていれば、次から同じ穴には落ちません。ところがClaude Codeは、セッションをまたぐと何も覚えていません。昨日30分かけ…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "42f3e7a79441",
-   "title": "AIの無料プランは「打ち切り」ではなく「使われなくなる」形で終わる",
-   "url": "https://qiita.com/Next-Survive/items/2415a4fc38137d31e9c3",
-   "url_key": "https://qiita.com/Next-Survive/items/2415a4fc38137d31e9c3",
-   "title_key": "aiの無料プランは打ち切りではなく使われなくなる形で終わる",
-   "source": "Qiita - Claude (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:01:27+09:00",
-   "date_estimated": false,
-   "summary": "AIの無料プランがいつまで使えるのかが気になったので、各社の公開情報だけで調べました。調べ始める前の想定は2つとも外れたので、そこも含めて書きます。 結論から書きます。 無料が削られているのは、推論コストが理由では説明がつかない。同じ時期に ChatGPT は制限を緩め、...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "d12289b13f7c",
-   "title": "Claude Code v2.1.290 権限・サンドボックスのセキュリティ修正21件と挙動変更まとめ",
-   "url": "https://qiita.com/picnic/items/5ab097aeda074f0e73b7",
-   "url_key": "https://qiita.com/picnic/items/5ab097aeda074f0e73b7",
-   "title_key": "claudecodev21290権限サンドボックスのセキュリティ修正21件と挙動変更まとめ",
-   "source": "Qiita - Claude (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T09:00:43+09:00",
-   "date_estimated": false,
-   "summary": "はじめに Claude Code v2.1.290 は、権限ルール・サンドボックス・読み取り制限をすり抜けられる不具合を 21件まとめて修正した大型リリースです。あわせて、pyright や一部の ps の承認必須化、プロジェクト設定からの Claude in Chrom...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "af1c0d7beb5b",
-   "title": "サロゲートAIの予測を金型設計に活用、国産3D CAD／CAM／CAEの最新版",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news005.html",
-   "url_key": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news005.html",
-   "title_key": "サロゲトaiの予測を金型設計に活用国産3dcad／cam／caeの最新版",
-   "source": "ITmedia AI＋ (日本語)",
-   "category": "other",
-   "published": "2026-10-06T09:00:00+09:00",
-   "date_estimated": false,
-   "summary": "UELは、国産3D CAD／CAM／CAEシステム「CADmeister 2026」の販売を開始した。サロゲートAIの予測結果をCADデータに反映する連携機能を追加。CAM自動化や3D検図、類似形状検索も強化し、金型の設計／製作における業務効率化と設計品質の向上を支援する。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "74f107eabe00",
-   "title": "天然アルカリイオン水「温泉水99」を展開するエスオーシー、マーケティングAI Agent「AIMSTAR」を採用し、定期購入の引き上げ率11.2%UP、クロスセル売上前年比230％を達成",
-   "url": "https://ascii.jp/elem/000/004/440/4440182/?rss",
-   "url_key": "https://ascii.jp/elem/000/004/440/4440182?rss=",
-   "title_key": "天然アルカリイオン水温泉水99を展開するエスオシマケティングaiagentaimstarを採用し定期購入の引き上げ率112upクロスセル売上前年比230％を達成",
-   "source": "ASCII.jp (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T09:00:00+09:00",
-   "date_estimated": false,
-   "summary": "天然アルカリイオン水「温泉水99」を展開するエスオーシー、マーケティングAI Agent「AIMSTAR」を採用し、定期購入の引き上げ率11.2%UP、クロスセル売上前年比230％を達成",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "7ef87322321d",
-   "title": "「PeopleX AI面接」、書類選考から対人面接まで、AIネイティブ採用プラットフォームへと進化",
-   "url": "https://ascii.jp/elem/000/004/440/4440175/?rss",
-   "url_key": "https://ascii.jp/elem/000/004/440/4440175?rss=",
-   "title_key": "peoplexai面接書類選考から対人面接までaiネイティブ採用プラットフォムへと進化",
-   "source": "ASCII.jp (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T09:00:00+09:00",
-   "date_estimated": false,
-   "summary": "「PeopleX AI面接」、書類選考から対人面接まで、AIネイティブ採用プラットフォームへと進化",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "cc300efbd202",
-   "title": "生成AI利用における法的リスクの具体例や安全な使い方を専門家に訊いてみた",
-   "url": "https://ascii.jp/elem/000/004/439/4439875/?rss",
-   "url_key": "https://ascii.jp/elem/000/004/439/4439875?rss=",
-   "title_key": "生成ai利用における法的リスクの具体例や安全な使い方を専門家に訊いてみた",
-   "source": "ASCII.jp (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T09:00:00+09:00",
-   "date_estimated": false,
-   "summary": "本記事では、生成AIの業務利用で起こりうるリスクの具体例から、業務向け生成AIツールの選び方、業務で安全に活用するためのポイントまで、AIガバナンスの専門家である弁護士の関原 秀行氏にお話を伺いました。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "ab004c092ca1",
-   "title": "Google Cloudとの統合を進めてAIのセキュリティを拡張",
-   "url": "https://ascii.jp/elem/000/004/439/4439851/?rss",
-   "url_key": "https://ascii.jp/elem/000/004/439/4439851?rss=",
-   "title_key": "googlecloudとの統合を進めてaiのセキュリティを拡張",
-   "source": "ASCII.jp (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T09:00:00+09:00",
-   "date_estimated": false,
-   "summary": "フォーティネットは、お客様が両方の要件を満たせるよう、Google Cloudとの統合を拡張しています。機能を組み合わせることで、組織は別の独立したセキュリティツールやプロセスを作成することなく、ライフサイクル全体でAIを保護できます。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "4f45b158018c",
-   "title": "生成ＡＩの導入から定着まで一括助言 来月17日に本社セミナー、参加無料 - yamagata-np.jp",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KbkZOR3lYejczR1JObV84dG01dlRSRXF6NGd6T291eGIzLV9OQzN1MzZIVVNyZmVfVU9CV2pRM085U1hqTUhKdkt0ZUtMVGprenpVOVVjMi1rMzNVX2dycm1CQXF3dTRmMDVvbU0wZw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KbkZOR3lYejczR1JObV84dG01dlRSRXF6NGd6T291eGIzLV9OQzN1MzZIVVNyZmVfVU9CV2pRM085U1hqTUhKdkt0ZUtMVGprenpVOVVjMi1rMzNVX2dycm1CQXF3dTRmMDVvbU0wZw?oc=5",
-   "title_key": "生成ａｉの導入から定着まで一括助言来月17日に本社セミナ参加無料yamagatanpjp",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T09:00:00+09:00",
-   "date_estimated": false,
-   "summary": "生成ＡＩの導入から定着まで一括助言 来月17日に本社セミナー、参加無料 yamagata-np.jp",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "cbee4f834379",
-   "title": "Quoting Felix Rieseberg",
-   "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-   "url_key": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-   "title_key": "quotingfelixrieseberg",
-   "source": "Simon Willison (LLMの実践的な話題・英語)",
-   "category": "other",
-   "published": "2026-10-06T08:56:47+09:00",
-   "date_estimated": false,
-   "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just…",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "089d1231a67e",
-   "title": "Claude Opus 5.5 / Sonnet 5.5 へ model だけ変えると 400 になる 5 つの設定",
-   "url": "https://zenn.dev/persimmoq/articles/claude-opus-5-5-sonnet-5-5-breaking-changes",
-   "url_key": "https://zenn.dev/persimmoq/articles/claude-opus-5-5-sonnet-5-5-breaking-changes",
-   "title_key": "claudeopus55sonnet55へmodelだけ変えると400になる5つの設定",
-   "source": "Zenn - Claude (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T08:40:01+09:00",
-   "date_estimated": false,
-   "summary": "2026 年 9 月 22 日に Claude Opus 5.5（claude-opus-5-5、$4 / $20）、9 月 28 日に Claude Sonnet 5.5（claude-sonnet-5-5、$2 / $10）が出ました。Opus 5 / Sonnet 5 で動いているコードの model だけを変えると、公式移行ガイドに書かれている次の 5 つのどれかで 400 になります。全部、2026 年 10 月 3 日時点の…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "6cc3830d5f2c",
-   "title": "v2.1.290",
-   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
-   "url_key": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
-   "title_key": "v21290",
-   "source": "Claude Code リリースノート (公式)",
-   "category": "claude",
-   "published": "2026-10-06T08:33:17+09:00",
-   "date_estimated": false,
-   "summary": "What's changed Added serverToolUses to the result of a mod's turn.step hook: the tool calls the API ran itself (the advisor), each with its id, name, input, start and end Added agentId to the tool.check event of plugin h…",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "4cb86b8fe3a0",
-   "title": "テスト841件が全部緑でも、遊びの決まりは2つ間違っていた ― AI が書いたコードに「外の物差し」を当てる",
-   "url": "https://zenn.dev/paledde/articles/2ea792d4dff7d1",
-   "url_key": "https://zenn.dev/paledde/articles/2ea792d4dff7d1",
-   "title_key": "テスト841件が全部緑でも遊びの決まりは2つ間違っていた―aiが書いたコドに外の物差しを当てる",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T08:31:54+09:00",
-   "date_estimated": false,
-   "summary": "はじめに ブラウザだけで遊べるボードゲームの遊び場「棋楽軒」を作っています。 https://kirakuken.com 将棋・チェス・大富豪・花札など15種類が、登録なしで遊べます。 前の記事で、Claude Code に実装を任せて、人は判断と評価だけをする回し方を書きました。 https://zenn.dev/paledde/articles/f7bbf9082e5109 今回はその続きで、書かせたコードをどうやって確かめるかの話…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "b7ba5eb04a6f",
-   "title": "“ツダケンAI裁判”の論点 「声優そっくりAI音声は合法」……にはならない？ 弁護士が解説",
-   "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002010/",
-   "url_key": "https://itmedia.co.jp/news/article/2610/06/2000002010",
-   "title_key": "“ツダケンai裁判”の論点声優そっくりai音声は合法にはならない？弁護士が解説",
-   "source": "ITmedia AI＋ (日本語)",
-   "category": "other",
-   "published": "2026-10-06T08:30:00+09:00",
-   "date_estimated": false,
-   "summary": "9月30日、声優の津田健次郎さんが、自身の声に類似するAI音声を使った動画の削除を求めた訴訟について、東京地方裁判所の判決が言い渡された。結論として、津田さんの請求は棄却された。ただ、この判決は「声優の声と似たAI音声を使っても問題ないと裁判所が判断した」というものではない。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "06923181cec3",
-   "title": "NHNテコラス、生成AI「Claude」の導入から活用までを一気通貫で支援する「Claude 総合支援サービス」",
-   "url": "https://cloud.watch.impress.co.jp/docs/news/2145667.html",
-   "url_key": "https://cloud.watch.impress.co.jp/docs/news/2145667.html",
-   "title_key": "nhnテコラス生成aiclaudeの導入から活用までを一気通貫で支援するclaude総合支援サビス",
-   "source": "クラウド Watch (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T08:30:00+09:00",
-   "date_estimated": false,
-   "summary": "NHN テコラス株式会社は5日、クラウド総合支援ブランド「Cloud Chorus（クラウドコーラス）」（旧称：C-Chorus）において、米Anthropicの生成AIモデル「Claude」の導入から活用までを支援する「Claude 総合支援サービス」の提供を開始したと発表した。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "f96eb5478801",
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "url_key": "https://theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "title_key": "geminicallformemighttellyourmomyourerunninglate",
-   "source": "The Verge AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T08:09:55+09:00",
-   "date_estimated": false,
-   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "b3736915a1c6",
-   "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-   "title_key": "metaandmicrosoftreportedlytrimanthropicrelianceasinternalaitoolstakecenterstagetradingview",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T08:06:12+09:00",
-   "date_estimated": false,
-   "summary": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage TradingView",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "1900d937a3aa",
-   "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGMxclpQYnBXYUtMZWNUSkEwa2tHcUkxVVVxeXp1bU1yazIxVlFZbEhFY2tPR1J2c0FnMTVLbEdYcllyb2UzOWZ6RkgwQnkwYURTYjBwN1JXZlExTW1tYTVBLWpKNEFnWVBJZDI1eXZKWnc5YWw3OWxkQVVZVHZXWHd1eFpOSFk3bGZyRnJkSVVZc3BfN2RGMnprYk5aZUs4aGROSmdHQQ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGMxclpQYnBXYUtMZWNUSkEwa2tHcUkxVVVxeXp1bU1yazIxVlFZbEhFY2tPR1J2c0FnMTVLbEdYcllyb2UzOWZ6RkgwQnkwYURTYjBwN1JXZlExTW1tYTVBLWpKNEFnWVBJZDI1eXZKWnc5YWw3OWxkQVVZVHZXWHd1eFpOSFk3bGZyRnJkSVVZc3BfN2RGMnprYk5aZUs4aGROSmdHQQ?oc=5",
-   "title_key": "metaandmicrosoftreportedlytrimanthropicrelianceasinternalaitoolstakecenterstageyahoofinance",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T08:06:12+09:00",
-   "date_estimated": false,
-   "summary": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage Yahoo Finance",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "d5ccec99a608",
-   "title": "生成AIによる実写ショートドラマが人気も、同じ顔、同じ表情が登場する不気味の谷問題も - 中華IT最新事情",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WS1YwZTFWUm10VDA2QnJ5TE44c0VtQzVIaEEzc01PZlh5X2lzak5iZjdVdjd1c3hDd1lJWWVHY21LS3VxOEVvYUhfZ013QzNQY0pfdXZOOHhYRjN1NG5lcnNhUDJ0dw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WS1YwZTFWUm10VDA2QnJ5TE44c0VtQzVIaEEzc01PZlh5X2lzak5iZjdVdjd1c3hDd1lJWWVHY21LS3VxOEVvYUhfZ013QzNQY0pfdXZOOHhYRjN1NG5lcnNhUDJ0dw?oc=5",
-   "title_key": "生成aiによる実写ショトドラマが人気も同じ顔同じ表情が登場する不気味の谷問題も中華it最新事情",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T08:05:29+09:00",
-   "date_estimated": false,
-   "summary": "生成AIによる実写ショートドラマが人気も、同じ顔、同じ表情が登場する不気味の谷問題も 中華IT最新事情",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "81e2c9ee1275",
-   "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
-   "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
-   "url_key": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp",
-   "title_key": "tcpに代わる通信プロトコルhomaをスタンフォド大学名誉教授が提唱ai時代は1ミリ秒の遅延でもgpuが待たされる",
-   "source": "GIGAZINE (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T08:05:00+09:00",
-   "date_estimated": false,
-   "summary": "ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。 続きを読む...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "89006cf6d8a8",
-   "title": "CTCなど3社、原子力申請書の作成・確認を支援する生成AIシステムの有効性評価を開始 - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1ZoRHlYLVY0djM1ZjBCSEU3SWdaT1BtNm9weHBkN3hpQ3gtZ0pUVnhneGdWbFZaMzY0dWEwVGxRbE1LOTYxcEZzaDU2MU1JVzB5OTh4cmt3STdPRjd0dG1lQ19LdG1Dc3JiM2cwckV1M0NDakFac2M0QmZFTGxXYjdOck16eW9uRVHSAXxBVV95cUxOYnVMVkYzdFk1QjhodkFRcGR1MGpGMjZMdktxalJMQjlBLXFKLTIzcHcxazdpeUdsVmNlMzBZNGJLOWktZFl6R18yQWRIdjQ3blQ1LUtTa0lCWkxVYU5LbTFuamdHbjZldGRBaEthVEVFVmtwb19XREk0N2o3?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1ZoRHlYLVY0djM1ZjBCSEU3SWdaT1BtNm9weHBkN3hpQ3gtZ0pUVnhneGdWbFZaMzY0dWEwVGxRbE1LOTYxcEZzaDU2MU1JVzB5OTh4cmt3STdPRjd0dG1lQ19LdG1Dc3JiM2cwckV1M0NDakFac2M0QmZFTGxXYjdOck16eW9uRVHSAXxBVV95cUxOYnVMVkYzdFk1QjhodkFRcGR1MGpGMjZMdktxalJMQjlBLXFKLTIzcHcxazdpeUdsVmNlMzBZNGJLOWktZFl6R18yQWRIdjQ3blQ1LUtTa0lCWkxVYU5LbTFuamdHbjZldGRBaEthVEVFVmtwb19XREk0N2o3?oc=5",
-   "title_key": "ctcなど3社原子力申請書の作成確認を支援する生成aiシステムの有効性評価を開始ｄメニュニュス",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T08:04:41+09:00",
-   "date_estimated": false,
-   "summary": "CTCなど3社、原子力申請書の作成・確認を支援する生成AIシステムの有効性評価を開始 ｄメニューニュース",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "37372f37c030",
-   "title": "「AIが私たちを滅ぼす」著名研究者の警告から始まった『AI開発減速論』の現在地、地政学的問題も絡みさらに複雑化 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jZHp0RUcwR0JnN1h0STVhcDJSZTZoRWtRVzVVWEc5ZC1zMVdYdXE3d0lwLWgzUUc5SFRzM0FxeWVfZVc3eGVwS3hidGNDMUs4bkwzQjdWVmVhbUo0d1RUazVHNUE5QlV5bU5CWFJpXzk2cko5Yjg0WHN3YWhmR3M?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jZHp0RUcwR0JnN1h0STVhcDJSZTZoRWtRVzVVWEc5ZC1zMVdYdXE3d0lwLWgzUUc5SFRzM0FxeWVfZVc3eGVwS3hidGNDMUs4bkwzQjdWVmVhbUo0d1RUazVHNUE5QlV5bU5CWFJpXzk2cko5Yjg0WHN3YWhmR3M?oc=5",
-   "title_key": "aiが私たちを滅ぼす著名研究者の警告から始まった『ai開発減速論』の現在地地政学的問題も絡みさらに複雑化yahooニュス",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T08:02:53+09:00",
-   "date_estimated": false,
-   "summary": "「AIが私たちを滅ぼす」著名研究者の警告から始まった『AI開発減速論』の現在地、地政学的問題も絡みさらに複雑化 Yahoo!ニュース",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "c4a4f809793e",
-   "title": "Agentに図解+操作可能なUIを渡す「dev-process-kit」を作った",
-   "url": "https://zenn.dev/bm_sms/articles/dev-process-kit-introduction",
-   "url_key": "https://zenn.dev/bm_sms/articles/dev-process-kit-introduction",
-   "title_key": "agentに図解操作可能なuiを渡すdevprocesskitを作った",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T08:01:34+09:00",
-   "date_estimated": false,
-   "summary": "はじめに Agentとの会話で図解 + 操作可能な UI によって、人間の認知負荷軽減とスムーズなフィードバックループを支援する「dev-process-kit」を作ったので紹介します！ https://github.com/d-kimuson/dev-process-kit モチベーション コーディングエージェントの開発プロセスへの関与は急速に進んでおり、単にコードを書かせるだけでなく、設計・リサーチ・Plan・PDM業など任せる領域…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "adb02b8d9b32",
-   "title": "AIが書いた「違う鍵は弾く」テストは緑。順番を変えたら違う鍵に14バイト返ってきた",
-   "url": "https://zenn.dev/ihsan/articles/ai-14-9200b641f6e6",
-   "url_key": "https://zenn.dev/ihsan/articles/ai-14-9200b641f6e6",
-   "title_key": "aiが書いた違う鍵は弾くテストは緑順番を変えたら違う鍵に14バイト返ってきた",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T08:00:05+09:00",
-   "date_estimated": false,
-   "summary": "「違う鍵の端末は繋がらない」というテストが緑だった通信部分で、正しい鍵で一度つないだ後に違う鍵を試すと、拒否されずに 14バイトの応答 が返りました。AIエージェントが足して「検証済み」と報告したテストやフックも、違反入力で一度も赤くしたことがなければ、壊れていても同じ緑を返します。 イメージ図：違う鍵のテストは緑だった。けれど正しい鍵で一度つないだ後なら、違う鍵のクライアントにも14バイトの応答が返った（TLS のセッション再開を切る…",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "4531b58e519e",
-   "title": "【レベル16】3D CADモデルを魅力的に見せよ！",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news003.html",
-   "url_key": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news003.html",
-   "title_key": "【レベル16】3dcadモデルを魅力的に見せよ！",
-   "source": "ITmedia AI＋ (日本語)",
-   "category": "other",
-   "published": "2026-10-06T08:00:00+09:00",
-   "date_estimated": false,
-   "summary": "設計スキルのレベルアップを目指す設計者の皆さんを“冒険者”に見立て、さまざまな“問（モン）スター”に挑む「テルえもんクエストII」の世界へようこそ。【レベル16】では、前回作成した椅子の3Dモデルを題材に、レンダリング機能と生成AIを活用して魅力的に見せる方法を紹介する。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "ae8a1f3f696c",
-   "title": "現場データだけあってもダメ フィジカルAIにありがちな“10の誤解”",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news026.html",
-   "url_key": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news026.html",
-   "title_key": "現場デタだけあってもダメフィジカルaiにありがちな“10の誤解”",
-   "source": "ITmedia AI＋ (日本語)",
-   "category": "other",
-   "published": "2026-10-06T08:00:00+09:00",
-   "date_estimated": false,
-   "summary": "ロボットを導入し、現場データを集め、AIを載せればいい。フィジカルAIを巡って、企業にはそんな「分かったつもり」が広がっている。しかしそれは本当だろうか。ガートナーはフィジカルAIにおいて企業が持ちがちな“10の誤解”を公開した。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "b7d23d8fdeac",
-   "title": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論 - Ledge.ai",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCaGpmR1BaOUFHUDBOOXJfNFd0UkdvN0VFQkt5RzZCT3h5Y3lURzRKS1d1YWpFUzVHTHNrcy1RRFdVX0xMUGlDR2IyTHZDUVFwMHVKaGlCRkpGUnAzQzBXS3NpSzRaTnpCTndz?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCaGpmR1BaOUFHUDBOOXJfNFd0UkdvN0VFQkt5RzZCT3h5Y3lURzRKS1d1YWpFUzVHTHNrcy1RRFdVX0xMUGlDR2IyTHZDUVFwMHVKaGlCRkpGUnAzQzBXS3NpSzRaTnpCTndz?oc=5",
-   "title_key": "アルトマン氏aiへの宗教的な力付与に懸念anthropicと宗教者の対話では意識苦痛も議論ledgeai",
-   "source": "Claude ニュース検索 (日本語)",
-   "category": "claude",
-   "published": "2026-10-06T07:57:04+09:00",
-   "date_estimated": false,
-   "summary": "アルトマン氏、AIへの「宗教的な力」付与に懸念 Anthropicと宗教者の対話では意識・苦痛も議論 Ledge.ai",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "86af8199e0fa",
-   "title": "Engineers Tease Out Impacts of Anthropic’s Invisible Watermark - Design News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW0zYXlXTWoxSHM2a0cwMWJQY1Vxd2xLRXcwT0dBWjk2aU9CUEFObWRNMW0xa0Nici1hUkFKb3dJcGNKdkM3UjJEeGJnaW52OWxhUzUxS2ZVOG0ySUN4MnlnNVM1cm1kdnZQbDVIZXM2WDl0WTZBTkpjbE0wb2FpRDljazNGYnc5V3JLVnpwWVpxd2ZWZkw3SlBnQVNqQTlvdlFka3I3Mzg3REJaSXRuakF1OA?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUW0zYXlXTWoxSHM2a0cwMWJQY1Vxd2xLRXcwT0dBWjk2aU9CUEFObWRNMW0xa0Nici1hUkFKb3dJcGNKdkM3UjJEeGJnaW52OWxhUzUxS2ZVOG0ySUN4MnlnNVM1cm1kdnZQbDVIZXM2WDl0WTZBTkpjbE0wb2FpRDljazNGYnc5V3JLVnpwWVpxd2ZWZkw3SlBnQVNqQTlvdlFka3I3Mzg3REJaSXRuakF1OA?oc=5",
-   "title_key": "engineersteaseoutimpactsofanthropicsinvisiblewatermarkdesignnews",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T07:54:56+09:00",
-   "date_estimated": false,
-   "summary": "Engineers Tease Out Impacts of Anthropic’s Invisible Watermark Design News",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "db5d09edf0e9",
-   "title": "設立から半年「生産性向上支援センター」 静岡県内の中小企業５６件に伴走 業務改善に成果着々 生成ＡＩでシステム構築 - 静岡新聞DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aLXpmeGVIQVJJQVZxbE1QcjcxNVdKTUk1aGs3LWxqVjdKcGM0S1ludXpHNk1scVdOT09FUVlOaG5hYlh6VHBZVUF3U1dmQQ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aLXpmeGVIQVJJQVZxbE1QcjcxNVdKTUk1aGs3LWxqVjdKcGM0S1ludXpHNk1scVdOT09FUVlOaG5hYlh6VHBZVUF3U1dmQQ?oc=5",
-   "title_key": "設立から半年生産性向上支援センタ静岡県内の中小企業５６件に伴走業務改善に成果着々生成ａｉでシステム構築静岡新聞digital",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T07:48:00+09:00",
-   "date_estimated": false,
-   "summary": "設立から半年「生産性向上支援センター」 静岡県内の中小企業５６件に伴走 業務改善に成果着々 生成ＡＩでシステム構築 静岡新聞DIGITAL",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "cd728dfec91e",
-   "title": "DNPとDCDが生成AIの回答でのブランド・商品への言及状況を分析して改善を支援するサービス開始（Web担当者Forum） - ｄメニューニュース",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMjdjUlNEY2dCVlhlamtSTTBYWG50Ymd2c0d0U2VTN2hYWWozcnRmaUt3NXJDUzVqU2VPTDB0T1AxcGR1aTNUeWt3ZndVa09CaGJNdllKOWszYnd5RlB6aVFTd3NXN3BZcmd0Y2NDT2l0UXZyak9qRjdWODNjS1ZEM1d0YXNDczdvbUJNZkRieG1rbUxOeGM0NTZmNmtmZDIzdnNuSGJmTkdtaXVldXpIb3dRMU9oN3dCSTgwUlgtZFcxU0luWUhmTEhzcmJwR3FBbFF1TjZxalh1UjQ5c01oRUMyUUVnWXBGMHlSWkJ4THVVWXQtbHN5VTZURlhwRXlq?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMjdjUlNEY2dCVlhlamtSTTBYWG50Ymd2c0d0U2VTN2hYWWozcnRmaUt3NXJDUzVqU2VPTDB0T1AxcGR1aTNUeWt3ZndVa09CaGJNdllKOWszYnd5RlB6aVFTd3NXN3BZcmd0Y2NDT2l0UXZyak9qRjdWODNjS1ZEM1d0YXNDczdvbUJNZkRieG1rbUxOeGM0NTZmNmtmZDIzdnNuSGJmTkdtaXVldXpIb3dRMU9oN3dCSTgwUlgtZFcxU0luWUhmTEhzcmJwR3FBbFF1TjZxalh1UjQ5c01oRUMyUUVnWXBGMHlSWkJ4THVVWXQtbHN5VTZURlhwRXlq?oc=5",
-   "title_key": "dnpとdcdが生成aiの回答でのブランド商品への言及状況を分析して改善を支援するサビス開始（web担当者forum）ｄメニュニュス",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T07:18:21+09:00",
-   "date_estimated": false,
-   "summary": "DNPとDCDが生成AIの回答でのブランド・商品への言及状況を分析して改善を支援するサービス開始（Web担当者Forum） ｄメニューニュース",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "93507b7477b0",
-   "title": "Microsoft and Meta Steer Staff From Anthropic Claude to In-House AI - PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRG5VX3ZDVEZPNVFaYzBXaEh4N2hDWmdLRF9vNkVPRXl4NUZCaXVQNmFyRGZlVkFEVXQ4TGdEVmczcFZndGRTc3F0ZVhaMDZZa2JEeDE4S1EtOTAxZzdqWlNHXzF1SngzOGFURDkwVnVLQ2ViVXlQdmp2VVo2Q0dnWkxvRl9oN216eEJSV3Vva0l1cUItb0p1TUcxcUd5a0hDX255ZVU5c2ZBNWtVamk2SkpZMGswOWhnYUE?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRG5VX3ZDVEZPNVFaYzBXaEh4N2hDWmdLRF9vNkVPRXl4NUZCaXVQNmFyRGZlVkFEVXQ4TGdEVmczcFZndGRTc3F0ZVhaMDZZa2JEeDE4S1EtOTAxZzdqWlNHXzF1SngzOGFURDkwVnVLQ2ViVXlQdmp2VVo2Q0dnWkxvRl9oN216eEJSV3Vva0l1cUItb0p1TUcxcUd5a0hDX255ZVU5c2ZBNWtVamk2SkpZMGswOWhnYUE?oc=5",
-   "title_key": "microsoftandmetasteerstafffromanthropicclaudetoinhouseaipymntscom",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T07:00:48+09:00",
-   "date_estimated": false,
-   "summary": "Microsoft and Meta Steer Staff From Anthropic Claude to In-House AI PYMNTS.com",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "a2afeefa3f2a",
-   "title": "無料で国のミッションクリティカル作業のために構築された主権AIモデル「Kolibri」、公共行政・産業・航空宇宙などの規制分野での使用が前提でオープンソースなだけでなく構築過程も透明化",
-   "url": "https://gigazine.net/news/20261006-kolibri/",
-   "url_key": "https://gigazine.net/news/20261006-kolibri",
-   "title_key": "無料で国のミッションクリティカル作業のために構築された主権aiモデルkolibri公共行政産業航空宇宙などの規制分野での使用が前提でオプンソスなだけでなく構築過程も透明化",
-   "source": "GIGAZINE (日本語・AI関連のみ)",
-   "category": "other",
-   "published": "2026-10-06T07:00:00+09:00",
-   "date_estimated": false,
-   "summary": "ドイツのAIスタートアップ企業Aleph Alphaは、ドイツ統一の日にあたる2026年10月3日に新たな言語モデル「Kolibri」を発表しました。 続きを読む...",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "49ba657581c6",
-   "title": "オムロンのAI活用が「軌道に乗っている」ワケ、役員も参加「一丸体制」の全貌とは - sbbit.jp",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iY3R6V01QNGk5VnVFUkk4R2I2S3Y3TnpPQzdjTGlYXzBPWDJCTmk4alBwMUxQNjBNc1hWSHV3YmgxOWNEcWJkb2dCRVMwWGc?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iY3R6V01QNGk5VnVFUkk4R2I2S3Y3TnpPQzdjTGlYXzBPWDJCTmk4alBwMUxQNjBNc1hWSHV3YmgxOWNEcWJkb2dCRVMwWGc?oc=5",
-   "title_key": "オムロンのai活用が軌道に乗っているワケ役員も参加一丸体制の全貌とはsbbitjp",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T07:00:00+09:00",
-   "date_estimated": false,
-   "summary": "オムロンのAI活用が「軌道に乗っている」ワケ、役員も参加「一丸体制」の全貌とは sbbit.jp",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "b597940b3188",
-   "title": "「IBM Bob」開発責任者が語るエンタープライズAIの最適解 - ZDNET Japan",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JSnpKbm8xV3JsWDhacjNyclE0LWE3TjZxSnJ6d3h2dlZLcGlVZzd3OVhnOXFQRk1VZHhYMUZFZ0R4NEpxamJNM3V2aHVNVXBhUTJJ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JSnpKbm8xV3JsWDhacjNyclE0LWE3TjZxSnJ6d3h2dlZLcGlVZzd3OVhnOXFQRk1VZHhYMUZFZ0R4NEpxamJNM3V2aHVNVXBhUTJJ?oc=5",
-   "title_key": "ibmbob開発責任者が語るエンタプライズaiの最適解zdnetjapan",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T07:00:00+09:00",
-   "date_estimated": false,
-   "summary": "「IBM Bob」開発責任者が語るエンタープライズAIの最適解 ZDNET Japan",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "79c1db80fe67",
-   "title": "The Key Anthropic Numbers You Need To Know Ahead Of Its IPO - Big Technology | Alex Kantrowitz",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenpVQk9zb0s5dDVoUTJ0LVM2aXU0Mmt3Q0FDV3ZvM3FoRVhXc2N3eEdJOU5NenFUREEwNXVycy1yX2JYdUZRaXppbExncXU3cFowdWNub3M2N0NIbWpDa0RUWjdMX1l6ejBELWR5eV9rai16bGdTcGRVLXhCR3ZsRGVFejh1SHdIcEVpRjkyR2ZPY3cta2t0QmVaYWl2eDBwVEVVLW9oR0M3N3h6cEFqa1dhLWxsUEY4REx6dWoybWxLeElWR3lvZGY4aU5MTGs?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenpVQk9zb0s5dDVoUTJ0LVM2aXU0Mmt3Q0FDV3ZvM3FoRVhXc2N3eEdJOU5NenFUREEwNXVycy1yX2JYdUZRaXppbExncXU3cFowdWNub3M2N0NIbWpDa0RUWjdMX1l6ejBELWR5eV9rai16bGdTcGRVLXhCR3ZsRGVFejh1SHdIcEVpRjkyR2ZPY3cta2t0QmVaYWl2eDBwVEVVLW9oR0M3N3h6cEFqa1dhLWxsUEY4REx6dWoybWxLeElWR3lvZGY4aU5MTGs?oc=5",
-   "title_key": "thekeyanthropicnumbersyouneedtoknowaheadofitsipobigtechnologyalexkantrowitz",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T06:55:07+09:00",
-   "date_estimated": false,
-   "summary": "The Key Anthropic Numbers You Need To Know Ahead Of Its IPO Big Technology | Alex Kantrowitz",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "13c598b69eb1",
-   "title": "Microsoft delays usage-based billing for Copilot Business - MSSP Alert",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNajRjLThIWjZrdnNxRS1GLXI2cnpWbThwaDhFaHY5VmJ0bjlOeWlOd2sxdXZ0YTA4cWhmNDlVMHlXOEZJXzUtM29tVGhVamdkRm1xNVBoNUw0amtoc01RMi0wWE00MENSRktaQVA4TGZlRWM1aUJQVDJ2MUhILWFXdkRlV2p2TU1HdWRMZU1DaXdXa3M?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNajRjLThIWjZrdnNxRS1GLXI2cnpWbThwaDhFaHY5VmJ0bjlOeWlOd2sxdXZ0YTA4cWhmNDlVMHlXOEZJXzUtM29tVGhVamdkRm1xNVBoNUw0amtoc01RMi0wWE00MENSRktaQVA4TGZlRWM1aUJQVDJ2MUhILWFXdkRlV2p2TU1HdWRMZU1DaXdXa3M?oc=5",
-   "title_key": "microsoftdelaysusagebasedbillingforcopilotbusinessmsspalert",
-   "source": "Microsoft 365 Copilot ニュース検索 (英語)",
-   "category": "copilot",
-   "published": "2026-10-06T06:43:07+09:00",
-   "date_estimated": false,
-   "summary": "Microsoft delays usage-based billing for Copilot Business MSSP Alert",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "c5696cafdc42",
-   "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police - Decrypt News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTMxMUdXWkFkU0hQOTZ6MDVfcjRwNmFUNlBPdDNsUUNPY3N4UERvWlVqbzF5Z1hUMnU5MGR5a0dhdWtES3c5VzVjNXZsYXRXSGc4cVhQanB5RF9ZemZURzg1djNJdm1JTE5ZSWxqRGpIbkIwOC1QOElaVVNGbm04aEpWRlY?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTMxMUdXWkFkU0hQOTZ6MDVfcjRwNmFUNlBPdDNsUUNPY3N4UERvWlVqbzF5Z1hUMnU5MGR5a0dhdWtES3c5VzVjNXZsYXRXSGc4cVhQanB5RF9ZemZURzg1djNJdm1JTE5ZSWxqRGpIbkIwOC1QOElaVVNGbm04aEpWRlY?oc=5",
-   "title_key": "afloridawomanusedclaudeasadiaryananthropicemployeereaditandreportedittopolicedecryptnews",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T06:16:03+09:00",
-   "date_estimated": false,
-   "summary": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police Decrypt News",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "4bc2481df7be",
-   "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUEydHZoQWNIUUY3RE9pTzhuUS1NYk4tNE9rWUZaMWh6TlNDUURuWFc0M3pNd05yNTVJMUZkdE5CS0tjLTZZT3lTdzNWTFo2TzNpXzBOWG8tSWh2cVR5eHprNk5yQUdENmlNN01TenVudEZ2UmZBUEM1aHdRMEFyQVpVT3JmVjZyZDRLNnJR?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUEydHZoQWNIUUY3RE9pTzhuUS1NYk4tNE9rWUZaMWh6TlNDUURuWFc0M3pNd05yNTVJMUZkdE5CS0tjLTZZT3lTdzNWTFo2TzNpXzBOWG8tSWh2cVR5eHprNk5yQUdENmlNN01TenVudEZ2UmZBUEM1aHdRMEFyQVpVT3JmVjZyZDRLNnJR?oc=5",
-   "title_key": "afloridawomanusedclaudeasadiaryananthropicemployeereaditandreportedittopoliceyahoo",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T06:16:03+09:00",
-   "date_estimated": false,
-   "summary": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police Yahoo",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "d1dddf1d56cb",
-   "title": "寄生するのは誰か？ Claude Code商材の見分け方（尾藤克之） - エキスパート - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckhFY1d0ek9ycm8zV0ExXzY2RG91SlR6eWxwdmZCcGFCcFk0MTFhMVVqWkxHZmQ4Ml83d0lfd19xSHJmbS1vMUQzQW8yTkFXakRENXZTUFRtRUdBNGhndnVBcjRSTVlXVk1EanlIRFVsUFJJNWhwdUstcWZiYmZBc2F1YlpJeEZJ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckhFY1d0ek9ycm8zV0ExXzY2RG91SlR6eWxwdmZCcGFCcFk0MTFhMVVqWkxHZmQ4Ml83d0lfd19xSHJmbS1vMUQzQW8yTkFXakRENXZTUFRtRUdBNGhndnVBcjRSTVlXVk1EanlIRFVsUFJJNWhwdUstcWZiYmZBc2F1YlpJeEZJ?oc=5",
-   "title_key": "寄生するのは誰か？claudecode商材の見分け方（尾藤克之）エキスパトyahooニュス",
-   "source": "Claude Code ニュース検索 (日本語)",
-   "category": "claude",
-   "published": "2026-10-06T06:12:27+09:00",
-   "date_estimated": false,
-   "summary": "寄生するのは誰か？ Claude Code商材の見分け方（尾藤克之） - エキスパート Yahoo!ニュース",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "77688bf7e203",
-   "title": "Anthropic launches Claude Frontier Academy to train 10,000 AI engineers - Digital Watch Observatory",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWXpiSnlSaVJGeFU1MWNyckVBZ2pTdjEzZmJ5NktvY0g5N3gtSXNmZ09FSDhMMEFYOHZ1QVVHRUQ1cGpsRlFTLW5yQWFDMFRfZjlCaExKc2JHMEx5bEtGcjZpQ1J6RWpyOHln?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWXpiSnlSaVJGeFU1MWNyckVBZ2pTdjEzZmJ5NktvY0g5N3gtSXNmZ09FSDhMMEFYOHZ1QVVHRUQ1cGpsRlFTLW5yQWFDMFRfZjlCaExKc2JHMEx5bEtGcjZpQ1J6RWpyOHln?oc=5",
-   "title_key": "anthropiclaunchesclaudefrontieracademytotrain10000aiengineersdigitalwatchobservatory",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T06:09:26+09:00",
-   "date_estimated": false,
-   "summary": "Anthropic launches Claude Frontier Academy to train 10,000 AI engineers Digital Watch Observatory",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "bccb9be43737",
-   "title": "Pentagon Officially Removes Anthropic's Claude from Military Systems Months After Ban - Android Headlines",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVlXal9ocHF5cXlncHFFTnJjLUo1bko0aDlCeGVCWXJud1RtNmVzZXI3N1MzX0c5aUFtT2M4TjQwTFpDZF9DZy16NWpGdFFLWDllVEc0OVhqd25mOF9jZ21QM1FMbllOTUhwN24xRmpMcHdENGU1MzU0MW1zbHFvMkljcDVfZnc4czlUdFAybGtKdnI1bjhUS1BKQlR0NE5ONnMyelNB?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVlXal9ocHF5cXlncHFFTnJjLUo1bko0aDlCeGVCWXJud1RtNmVzZXI3N1MzX0c5aUFtT2M4TjQwTFpDZF9DZy16NWpGdFFLWDllVEc0OVhqd25mOF9jZ21QM1FMbllOTUhwN24xRmpMcHdENGU1MzU0MW1zbHFvMkljcDVfZnc4czlUdFAybGtKdnI1bjhUS1BKQlR0NE5ONnMyelNB?oc=5",
-   "title_key": "pentagonofficiallyremovesanthropicsclaudefrommilitarysystemsmonthsafterbanandroidheadlines",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T06:04:15+09:00",
-   "date_estimated": false,
-   "summary": "Pentagon Officially Removes Anthropic's Claude from Military Systems Months After Ban Android Headlines",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "aa5d8a3bbe81",
-   "title": "生成AIの登場でビジネスの常識が次々と塗り替えられる今、新しい商売はどこから生まれるのか？ 1万2000年のビジネス誕生の物語を「進化」で読み解く新刊『ビジネスモデル進化論』発刊。 - PR TIMES",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVmhtR2V4UU1UZ2tKQ3NyaGdZZ1lsaDV3UlVOMzJpYzBjSVpFT1VhdkFLUmlQUFlKanljSlFIYzBxT3hURGpaQmlxOHhRcnFybXhkYTBtdzJON2llZlktYnZENklIa1VjUVE?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVmhtR2V4UU1UZ2tKQ3NyaGdZZ1lsaDV3UlVOMzJpYzBjSVpFT1VhdkFLUmlQUFlKanljSlFIYzBxT3hURGpaQmlxOHhRcnFybXhkYTBtdzJON2llZlktYnZENklIa1VjUVE?oc=5",
-   "title_key": "生成aiの登場でビジネスの常識が次々と塗り替えられる今新しい商売はどこから生まれるのか？1万2000年のビジネス誕生の物語を進化で読み解く新刊『ビジネスモデル進化論』発刊prtimes",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T06:00:01+09:00",
-   "date_estimated": false,
-   "summary": "生成AIの登場でビジネスの常識が次々と塗り替えられる今、新しい商売はどこから生まれるのか？ 1万2000年のビジネス誕生の物語を「進化」で読み解く新刊『ビジネスモデル進化論』発刊。 PR TIMES",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "3506caeeb743",
-   "title": "Claude avoids ads and image generation to reduce AI risks: Anthropic leader - Fox News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOVFpVWZvV09QYlhzNmZxcXRXeHRyQnhXMW14RFJjN2V0bjgzbUR3WUw1WG5oYjM3M3N6cXpCTGhIbGp0UDBMTEhCQzZSUWRjR01FYmxR?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOVFpVWZvV09QYlhzNmZxcXRXeHRyQnhXMW14RFJjN2V0bjgzbUR3WUw1WG5oYjM3M3N6cXpCTGhIbGp0UDBMTEhCQzZSUWRjR01FYmxR?oc=5",
-   "title_key": "claudeavoidsadsandimagegenerationtoreduceairisksanthropicleaderfoxnews",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T05:58:46+09:00",
-   "date_estimated": false,
-   "summary": "Claude avoids ads and image generation to reduce AI risks: Anthropic leader Fox News",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "c663f49834a1",
-   "title": "『8番出口』をClaude Codeだけで作ったら、予想外のゲームが完成した - YouTube",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pVTA3YVNqOF9WeU15TlpwMmtlekN5SmFoREFDM0trWkZsNkdWMFVQalYzcWF3RE9yWlJpN1hES2FWczZDT0hodXF5SnVfbjdWeG0tcUZidll1aVZW?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pVTA3YVNqOF9WeU15TlpwMmtlekN5SmFoREFDM0trWkZsNkdWMFVQalYzcWF3RE9yWlJpN1hES2FWczZDT0hodXF5SnVfbjdWeG0tcUZidll1aVZW?oc=5",
-   "title_key": "『8番出口』をclaudecodeだけで作ったら予想外のゲムが完成したyoutube",
-   "source": "Claude Code ニュース検索 (日本語)",
-   "category": "claude",
-   "published": "2026-10-06T05:41:07+09:00",
-   "date_estimated": false,
-   "summary": "『8番出口』をClaude Codeだけで作ったら、予想外のゲームが完成した YouTube",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "8dc6e37ab123",
-   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-   "url_key": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
-   "title_key": "openaiwillstartwatermarkingchatgptstextintheeu",
-   "source": "TechCrunch AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T05:36:48+09:00",
-   "date_estimated": false,
-   "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "7bf5ae88d61e",
-   "title": "メタ、社内のClaude利用者を半減 マイクロソフトは予算を3分の1削減 - finance.biggo.jp",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NdXRNSGdKeFJkQlE2VWZXdTU5TlVqZEJlYVdNaWE4MmFSRFhoQjh6YU1fQWZ0MjVsVWhIbVpaeC1kT2NHTXpWSG9wTWxPc3p3aG9NeDRrSURxcUVnN1doV0ZHOEFYZzB4NVRkNUp5UWk1cldf?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NdXRNSGdKeFJkQlE2VWZXdTU5TlVqZEJlYVdNaWE4MmFSRFhoQjh6YU1fQWZ0MjVsVWhIbVpaeC1kT2NHTXpWSG9wTWxPc3p3aG9NeDRrSURxcUVnN1doV0ZHOEFYZzB4NVRkNUp5UWk1cldf?oc=5",
-   "title_key": "メタ社内のclaude利用者を半減マイクロソフトは予算を3分の1削減financebiggojp",
-   "source": "Claude ニュース検索 (日本語)",
-   "category": "claude",
-   "published": "2026-10-06T05:35:00+09:00",
-   "date_estimated": false,
-   "summary": "メタ、社内のClaude利用者を半減 マイクロソフトは予算を3分の1削減 finance.biggo.jp",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "46912542c323",
-   "title": "Meta Cuts Internal Claude Users by Half, Microsoft Slashes Budget by a Third - finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3d3F3anZ2bHNTdFRMb0xLaGpIZXd0VkFDMi1wVVFzdmJZRnZLaEVPMjNpV0duZWlWZXdtN0RnZ3NaZTVEb2ZKZzd2RGl2Z0NUWm1wZFRIcDZTSnRhVE1JaHZIOVVvM19BcFlRYVdpSURobFVlR0E?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3d3F3anZ2bHNTdFRMb0xLaGpIZXd0VkFDMi1wVVFzdmJZRnZLaEVPMjNpV0duZWlWZXdtN0RnZ3NaZTVEb2ZKZzd2RGl2Z0NUWm1wZFRIcDZTSnRhVE1JaHZIOVVvM19BcFlRYVdpSURobFVlR0E?oc=5",
-   "title_key": "metacutsinternalclaudeusersbyhalfmicrosoftslashesbudgetbyathirdfinancebiggocom",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T05:35:00+09:00",
-   "date_estimated": false,
-   "summary": "Meta Cuts Internal Claude Users by Half, Microsoft Slashes Budget by a Third finance.biggo.com",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "d83e0c6b3c76",
-   "title": "生成ＡＩに「海外から荷物受け取り報酬得るリスク」質問、履歴を薬物密輸公判で証拠提出…検察「違法性認識」 - Yahoo!ニュース",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HeVA0RHNEb1p0N0Y5LWxiaExCQkwzXzM0TktCN041VkNJb29OR05mX3hwWjhJZGRZbW9XQ0xveVFsdk5FRzFpSHM0eGRYU1ZRWVhSMnZlbE41X0VabC1WNkhRdnJzVE41NHh2UF9JdDVsNm9ZcHduWkMxZ0xMTXc?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HeVA0RHNEb1p0N0Y5LWxiaExCQkwzXzM0TktCN041VkNJb29OR05mX3hwWjhJZGRZbW9XQ0xveVFsdk5FRzFpSHM0eGRYU1ZRWVhSMnZlbE41X0VabC1WNkhRdnJzVE41NHh2UF9JdDVsNm9ZcHduWkMxZ0xMTXc?oc=5",
-   "title_key": "生成ａｉに海外から荷物受け取り報酬得るリスク質問履歴を薬物密輸公判で証拠提出検察違法性認識yahooニュス",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:31:11+09:00",
-   "date_estimated": false,
-   "summary": "生成ＡＩに「海外から荷物受け取り報酬得るリスク」質問、履歴を薬物密輸公判で証拠提出…検察「違法性認識」 Yahoo!ニュース",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "81aca6d8af3f",
-   "title": "This startup is issuing AI-generated acne prescriptions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-   "url_key": "https://theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-   "title_key": "thisstartupisissuingaigeneratedacneprescriptions",
-   "source": "The Verge AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T05:14:57+09:00",
-   "date_estimated": false,
-   "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze a…",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "d9f401bc33f8",
-   "title": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says By Investing.com - Investing.com South Africa",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmNIR1hxME52d3JIMWp1YXZEZkUtcFBJOXF4VmljVFRiaEdLNVl3S3k1U0trTUp3ZEVMMVpyUlpyRTJvdnBZcTdxWDFGcHRkcEVEUHNxbWFhdHhLbHl1ekJldnhVSTY4b3huTjdSVVhNem9hOFpSQ1F6LURyV3JXWFA0UXpPX0tRUjVIVDB0aXJTVVNNcHV4OHJaRURvSFd6SllTWFdUUWJLTnNndWlJWHZDTHZ0WHB1eVdxMHRTajk5dnBsRzhSMGJYZw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmNIR1hxME52d3JIMWp1YXZEZkUtcFBJOXF4VmljVFRiaEdLNVl3S3k1U0trTUp3ZEVMMVpyUlpyRTJvdnBZcTdxWDFGcHRkcEVEUHNxbWFhdHhLbHl1ekJldnhVSTY4b3huTjdSVVhNem9hOFpSQ1F6LURyV3JXWFA0UXpPX0tRUjVIVDB0aXJTVVNNcHV4OHJaRURvSFd6SllTWFdUUWJLTnNndWlJWHZDTHZ0WHB1eVdxMHRTajk5dnBsRzhSMGJYZw?oc=5",
-   "title_key": "metaandmicrosoftscalebackinternaluseofanthropicsclaudereportsaysbyinvestingcominvestingcomsouthafrica",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T05:02:08+09:00",
-   "date_estimated": false,
-   "summary": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says By Investing.com Investing.com South Africa",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "a2aa2203a7ba",
-   "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI - SemiAnalysis",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-   "title_key": "anthropicsubscriptionsoffer5xmorevaluethanopenaisemianalysis",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T05:01:09+09:00",
-   "date_estimated": false,
-   "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI SemiAnalysis",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "2e07b625bd1f",
-   "title": "「トークン単価は8割下がった。なのに請求額は増えた」――その“見えないAI浪費”の正体",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
-   "url_key": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
-   "title_key": "トクン単価は8割下がったなのに請求額は増えた――その“見えないai浪費”の正体",
-   "source": "ITmedia AI＋ (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "AIのトークン単価が下がり続けてきたにもかかわらず、企業が支払うAIの請求額は増えている――。気付かないうちに膨らむ「トークン浪費」がなぜ起きるのかを考えます。",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "78fa5be74ee7",
-   "title": "北海道：札幌市、生成ＡＩ動画で広報…制作後チェックし、３０秒の情報番組を配信 ：地域ニュース - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DSTA5Zk5aQmRhUVNteGRINzRReGVVblJfUnVhR3VxN2hfU0VhSDJBczRraFJvMVRyREFwbGZjaWRtbTBZUURUYU02OHRzWlowQUhLR043TThjZGpZYnFOLWN4eC1Ob1A5cWgtWlRCamZmc1Mw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DSTA5Zk5aQmRhUVNteGRINzRReGVVblJfUnVhR3VxN2hfU0VhSDJBczRraFJvMVRyREFwbGZjaWRtbTBZUURUYU02OHRzWlowQUhLR043TThjZGpZYnFOLWN4eC1Ob1A5cWgtWlRCamZmc1Mw?oc=5",
-   "title_key": "北海道：札幌市生成ａｉ動画で広報制作後チェックし３０秒の情報番組を配信：地域ニュス読売新聞",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "北海道：札幌市、生成ＡＩ動画で広報…制作後チェックし、３０秒の情報番組を配信 ：地域ニュース 読売新聞",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "b0cf7e66a7c1",
-   "title": "裾野市が生成AIで内製化と業務改革、手作業や紙を撤廃 - 日経クロステック（xTECH）",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlUUsyTDUwMkVSQ1RYR3lxSVFUUEd0XzBwV0VmV3prSXRkN29vMFl5SUtxZXBudmlHbXRTdHU2NGZYbDlmVU1ucnpmc3o2UlAzZUZlYUNJT3pEaURTZ3hPejNGVWZGNHFvMDZhbw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlUUsyTDUwMkVSQ1RYR3lxSVFUUEd0XzBwV0VmV3prSXRkN29vMFl5SUtxZXBudmlHbXRTdHU2NGZYbDlmVU1ucnpmc3o2UlAzZUZlYUNJT3pEaURTZ3hPejNGVWZGNHFvMDZhbw?oc=5",
-   "title_key": "裾野市が生成aiで内製化と業務改革手作業や紙を撤廃日経クロステック（xtech）",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "裾野市が生成AIで内製化と業務改革、手作業や紙を撤廃 日経クロステック（xTECH）",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "f7bf9a292318",
-   "title": "生成ＡＩに「海外から荷物受け取り報酬得るリスク」質問、履歴を薬物密輸公判で証拠提出…検察「違法性認識」 - 読売新聞",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBal9pM0FTN0Zrd3Q3ZXYwZFFab29xTGtMUHFPX0JRb0ZUdkV1T0loNnhueG1DRmtEeWI1VWNRUUxjVGQteXplLXRNeTd3X2QwM3FXMUJIR1ZnQ3ZlUmxvOFR1WVduZw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBal9pM0FTN0Zrd3Q3ZXYwZFFab29xTGtMUHFPX0JRb0ZUdkV1T0loNnhueG1DRmtEeWI1VWNRUUxjVGQteXplLXRNeTd3X2QwM3FXMUJIR1ZnQ3ZlUmxvOFR1WVduZw?oc=5",
-   "title_key": "生成ａｉに海外から荷物受け取り報酬得るリスク質問履歴を薬物密輸公判で証拠提出検察違法性認識読売新聞",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "生成ＡＩに「海外から荷物受け取り報酬得るリスク」質問、履歴を薬物密輸公判で証拠提出…検察「違法性認識」 読売新聞",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "8a31597f41d9",
-   "title": "27年卒就活で変化…「内々定保有後も企業比較」を続ける学生が急増。生成AI利用率84.9％到達と企業の初任給・住宅手当「手厚い囲い込み」の実態 - SmartNews",
-   "url": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxORkppZktCdjhrSEQxZEp2a0U3UGlIcVMyMElQdVMzR1NGcDg2QnduMWR5U0dIMjJZVkxtajZQeUFtQmRwVXFsRklNNU1IZGpVVDZaYWVGWHB4R2ItWWl1M0ljclRxQzR5b0FXaG51dlVTLXJybWJmNTBsd09WUjN5eFdwUWdPS004azBPT3k0cUZobF9Qa3JyT0xTY3V6NEJTNkxNWEk0bnRjQjFaa1MzaDJ5eEpQVTN6RldVdzc0TFhfa2tpLU9OcHJBc0x1dlNPekFfcHpCNlFkc2RuTHBpNDRBMFNSWHltcGc1V2NubWJLYmJuMnhiY0tQY3oxSWx1Y19lY25uQm5fZks2Yjk2NXU5blpuSnVhS0Vya1NrQnM3cFlKYy1DY0l1cHBFb0JlZDZORTRfaElqcmJEcS14OTdhNWF5X3kzUksxOW0ycGd6ZUxFbVppTXk0WmVqUlNibXd3UjJlQlYybU91RU8ySi14Y0Z6SGZLU3FUWlhqOTcwdHdrQVd5QUlMeVNTSGJmOUI1cDRST0VsbzF5MEtNS0ZJSE5iLWJzQk4waVJ2N1h3b0FleVdfNHFWMTU1cFJYSllBak5DeWdfbGJqaHNJTzVWYlJET0gyRnh6bnhMNkY4S3RFRktBM1duMUZYN0s0VENoVFJPNmlhbjF2Z1dTcFd4bFVkM09Jc2xLSWQtS2l4NS1fWThDWFgxdWFNZHhoQWF0QWRFOENxOUJ3T1dfRXZGVTVKR0R5NDRveU03ZXl3SmlTRXFmSThsejl3ZDFWRUU4dTg5eVFWcnl5NlllbWotMDQ3RUVqa2paQ19vMkplbHotak5zN2FTX19OTnpjT1dWMHkxZ0tXUzNYeVVMQjRBcmlRT1lhSExvS0YtM0JjRUJLM1dDenFpNkJBODQtampnbzZ2M3ktMnRLTUpjQjRTWnhhNXl2TG9VNEVnUS1BaHZUbVI2a25nZnZRV1hXSHYtTWZ4VHM1WWY4bmxSVWVGT0pHVVRGOGRXVjhZQkxuRm1GSEo5WTJfaXRQbUdNN0p4N1ZKc3p3WHNKV25XSURiYm1LdnNGYjhyX2ZMQTdpdUhHOFI0QUpVdTF6S0FKNllxYmZxdTVfUlZsUndqSm1pWThBdTMyOHNQd0VLckhTXzBNT3AtRnZR?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxORkppZktCdjhrSEQxZEp2a0U3UGlIcVMyMElQdVMzR1NGcDg2QnduMWR5U0dIMjJZVkxtajZQeUFtQmRwVXFsRklNNU1IZGpVVDZaYWVGWHB4R2ItWWl1M0ljclRxQzR5b0FXaG51dlVTLXJybWJmNTBsd09WUjN5eFdwUWdPS004azBPT3k0cUZobF9Qa3JyT0xTY3V6NEJTNkxNWEk0bnRjQjFaa1MzaDJ5eEpQVTN6RldVdzc0TFhfa2tpLU9OcHJBc0x1dlNPekFfcHpCNlFkc2RuTHBpNDRBMFNSWHltcGc1V2NubWJLYmJuMnhiY0tQY3oxSWx1Y19lY25uQm5fZks2Yjk2NXU5blpuSnVhS0Vya1NrQnM3cFlKYy1DY0l1cHBFb0JlZDZORTRfaElqcmJEcS14OTdhNWF5X3kzUksxOW0ycGd6ZUxFbVppTXk0WmVqUlNibXd3UjJlQlYybU91RU8ySi14Y0Z6SGZLU3FUWlhqOTcwdHdrQVd5QUlMeVNTSGJmOUI1cDRST0VsbzF5MEtNS0ZJSE5iLWJzQk4waVJ2N1h3b0FleVdfNHFWMTU1cFJYSllBak5DeWdfbGJqaHNJTzVWYlJET0gyRnh6bnhMNkY4S3RFRktBM1duMUZYN0s0VENoVFJPNmlhbjF2Z1dTcFd4bFVkM09Jc2xLSWQtS2l4NS1fWThDWFgxdWFNZHhoQWF0QWRFOENxOUJ3T1dfRXZGVTVKR0R5NDRveU03ZXl3SmlTRXFmSThsejl3ZDFWRUU4dTg5eVFWcnl5NlllbWotMDQ3RUVqa2paQ19vMkplbHotak5zN2FTX19OTnpjT1dWMHkxZ0tXUzNYeVVMQjRBcmlRT1lhSExvS0YtM0JjRUJLM1dDenFpNkJBODQtampnbzZ2M3ktMnRLTUpjQjRTWnhhNXl2TG9VNEVnUS1BaHZUbVI2a25nZnZRV1hXSHYtTWZ4VHM1WWY4bmxSVWVGT0pHVVRGOGRXVjhZQkxuRm1GSEo5WTJfaXRQbUdNN0p4N1ZKc3p3WHNKV25XSURiYm1LdnNGYjhyX2ZMQTdpdUhHOFI0QUpVdTF6S0FKNllxYmZxdTVfUlZsUndqSm1pWThBdTMyOHNQd0VLckhTXzBNT3AtRnZR?oc=5",
-   "title_key": "27年卒就活で変化内々定保有後も企業比較を続ける学生が急増生成ai利用率849％到達と企業の初任給住宅手当手厚い囲い込みの実態smartnews",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "27年卒就活で変化…「内々定保有後も企業比較」を続ける学生が急増。生成AI利用率84.9％到達と企業の初任給・住宅手当「手厚い囲い込み」の実態 SmartNews",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "0a256bf9a54d",
-   "title": "ガバメントAI基盤「源内」、職員は専門知識不要でAIエージェント内製可能に - 日経クロステック（xTECH）",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80NmZXV054aWhEcXJYcHhIY3NEWFVSNkpUYUNSYUt6amhUUFI0TEJFS2hycFJWS2hlT0VxNnBsSUJNTFNSTHpvUXpxMGhQcVRWZXpjOHc0a1NhTVlVZjdTSUVTUnRpVnVZRmNlTg?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80NmZXV054aWhEcXJYcHhIY3NEWFVSNkpUYUNSYUt6amhUUFI0TEJFS2hycFJWS2hlT0VxNnBsSUJNTFNSTHpvUXpxMGhQcVRWZXpjOHc0a1NhTVlVZjdTSUVTUnRpVnVZRmNlTg?oc=5",
-   "title_key": "ガバメントai基盤源内職員は専門知識不要でaiエジェント内製可能に日経クロステック（xtech）",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "ガバメントAI基盤「源内」、職員は専門知識不要でAIエージェント内製可能に 日経クロステック（xTECH）",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "90f984fd1f67",
-   "title": "「納品のない受託開発」のソニックガーデンに見る、AI時代の中小ITの将来像 - 日経クロステック（xTECH）",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTEctNmhOWTBKTWE1aGxjZHg0c2tFSmhuY3Y3Zi1XX1pzWDRWbWNNZUJfWWV4ZUZzWXAxQ1ZOWjNyRUVlMVhzNXF1XzhocUhLWnFfZVFYczVNUHB3cHAwNEhJWTM5TU0tV3FUMA?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTEctNmhOWTBKTWE1aGxjZHg0c2tFSmhuY3Y3Zi1XX1pzWDRWbWNNZUJfWWV4ZUZzWXAxQ1ZOWjNyRUVlMVhzNXF1XzhocUhLWnFfZVFYczVNUHB3cHAwNEhJWTM5TU0tV3FUMA?oc=5",
-   "title_key": "納品のない受託開発のソニックガデンに見るai時代の中小itの将来像日経クロステック（xtech）",
-   "source": "生成AI ニュース検索 (日本語)",
-   "category": "other",
-   "published": "2026-10-06T05:00:00+09:00",
-   "date_estimated": false,
-   "summary": "「納品のない受託開発」のソニックガーデンに見る、AI時代の中小ITの将来像 日経クロステック（xTECH）",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "da2725389300",
-   "title": "Broadcom emerges as Anthropic's pivotal backer, offering up to $42 billion in financing - varindia",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0JUcGFMRVpmeHFaa1NmRVZLSEh3a2xMYmZQTEwtVTU2R2xDVEJYczN4dnNWZHU0Y1ZCaTl1Zmx6NUdJY3dtZ01UUTZrOUJSaFpXWExqSjZvUFptUkx3QmdUSzlHY2M3a3hNWG1BWl9wbkUydzRabmJJdld6T21taFBjeDhCaHFJelJoa3FyUlhtLWpWQmlnbW5OWE0zRktxeWp3bV9HeUk4Qno0NWJmT3hTYzRwZw?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0JUcGFMRVpmeHFaa1NmRVZLSEh3a2xMYmZQTEwtVTU2R2xDVEJYczN4dnNWZHU0Y1ZCaTl1Zmx6NUdJY3dtZ01UUTZrOUJSaFpXWExqSjZvUFptUkx3QmdUSzlHY2M3a3hNWG1BWl9wbkUydzRabmJJdld6T21taFBjeDhCaHFJelJoa3FyUlhtLWpWQmlnbW5OWE0zRktxeWp3bV9HeUk4Qno0NWJmT3hTYzRwZw?oc=5",
-   "title_key": "broadcomemergesasanthropicspivotalbackerofferingupto42billioninfinancingvarindia",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T04:37:34+09:00",
-   "date_estimated": false,
-   "summary": "Broadcom emerges as Anthropic's pivotal backer, offering up to $42 billion in financing varindia",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "668fcb607712",
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "url_key": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
-   "title_key": "reflectiondebutsbeamanopenweightaimodeltorivalchinesemodelsatlowercomputecost",
-   "source": "TechCrunch AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T04:33:53+09:00",
-   "date_estimated": false,
-   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec…",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "8e0790a23349",
-   "title": "All the drama around AI’s takeover of mathematics",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-   "url_key": "https://theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-   "title_key": "allthedramaaroundaistakeoverofmathematics",
-   "source": "The Verge AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T04:28:59+09:00",
-   "date_estimated": false,
-   "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of…",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "7d0779266114",
-   "title": "Meta, Microsoft scale back employee use of Claude: report - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRy1RTjlDMEZWSXJmemJ4M0JjV0lOd3plYmtpT01ITUY1Sm5qWnVmQlBheXVpak1zYy1XVm9STnpWUTFyaEYwdTBSMnBEQm1MeHF6ZHJxcGhFcUtLYjh1UmlsdUZvbndxNktzbHg3eUlQYzE1ai1nR1dJbGJaMURpX0doX05OOGFuSFcyZi1CZ25wUkJ5aVJ0Yg?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRy1RTjlDMEZWSXJmemJ4M0JjV0lOd3plYmtpT01ITUY1Sm5qWnVmQlBheXVpak1zYy1XVm9STnpWUTFyaEYwdTBSMnBEQm1MeHF6ZHJxcGhFcUtLYjh1UmlsdUZvbndxNktzbHg3eUlQYzE1ai1nR1dJbGJaMURpX0doX05OOGFuSFcyZi1CZ25wUkJ5aVJ0Yg?oc=5",
-   "title_key": "metamicrosoftscalebackemployeeuseofclaudereportseekingalpha",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T04:07:05+09:00",
-   "date_estimated": false,
-   "summary": "Meta, Microsoft scale back employee use of Claude: report Seeking Alpha",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "7b754cd04779",
-   "title": "Anthropic, AWS step up FDE push - Channel Dive",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-   "title_key": "anthropicawsstepupfdepushchanneldive",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T04:06:36+09:00",
-   "date_estimated": false,
-   "summary": "Anthropic, AWS step up FDE push Channel Dive",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "14abdea2e1c0",
-   "title": "AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた",
-   "url": "https://qiita.com/songchong/items/873b4f14d26296176cfd",
-   "url_key": "https://qiita.com/songchong/items/873b4f14d26296176cfd",
-   "title_key": "aiエジェントにapiキを渡しても大丈夫か？対話文env環境変数mcpoauth6つの渡し方をclaudecodecodexgeminiclicopilotcursorで調べてみた",
-   "source": "Qiita - ClaudeCode (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T04:05:52+09:00",
-   "date_estimated": false,
-   "summary": "Claude Code や Codex などの AI エージェントに、API キーを使う作業を頼みたいことがあります。そのとき、利用者は鍵をどう渡せばよいのでしょうか。対話文に貼る、.env に書いて読ませる、.zshrc の環境変数にしておく……。渡し方によって、鍵に起...",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "dc307354fb1f",
-   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-   "url_key": "https://theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-   "title_key": "wikipediaoperatorsaysopenais‘roguebotsmaybelinkedtoamayoutage",
-   "source": "The Verge AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T04:05:19+09:00",
-   "date_estimated": false,
-   "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\"…",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "f95247e5ece6",
-   "title": "Meta, Microsoft Cut Internal Use of Anthropic's Claude - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTY3TDJkc0FKVkVqT2NGWE9yaFhOdGNFT2tpYXVtQTA2bVZuRjNDZXJxX05VX3NGOWxPWE9GbmtqSWl3b053Yzl1Q3VnNkVWTDd5OFJZRm1LQ0xmRGZvZ2RLR09PdDM2SGVfa3FqdHFaVU1IWXRNUlBiSDc3eDhIcnZjTi1GM29ubXp2bEhIQ3lGWk1VYmp4QnFZUGp1NklZQVlOQ3VPbXpkQQ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTY3TDJkc0FKVkVqT2NGWE9yaFhOdGNFT2tpYXVtQTA2bVZuRjNDZXJxX05VX3NGOWxPWE9GbmtqSWl3b053Yzl1Q3VnNkVWTDd5OFJZRm1LQ0xmRGZvZ2RLR09PdDM2SGVfa3FqdHFaVU1IWXRNUlBiSDc3eDhIcnZjTi1GM29ubXp2bEhIQ3lGWk1VYmp4QnFZUGp1NklZQVlOQ3VPbXpkQQ?oc=5",
-   "title_key": "metamicrosoftcutinternaluseofanthropicsclaudemarketscreenercom",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T04:00:16+09:00",
-   "date_estimated": false,
-   "summary": "Meta, Microsoft Cut Internal Use of Anthropic's Claude marketscreener.com",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "8461be786304",
-   "title": "Claude Codeに「意味の監査」をインストールできるSkillを作った",
-   "url": "https://zenn.dev/onmitsu/articles/meaning-audit-skill",
-   "url_key": "https://zenn.dev/onmitsu/articles/meaning-audit-skill",
-   "title_key": "claudecodeに意味の監査をインストルできるskillを作った",
-   "source": "Zenn - Claude Code (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T03:59:58+09:00",
-   "date_estimated": false,
-   "summary": "営業資料に、こういう数字が出てくることがあります。 成約 15/20社 普通に読むと、「成約率が高いのかな」と思います。もちろん全面的に信じるわけではなく、営業資料だから多少強く見せているだろうとも考えます。それでも、「まあそんなものかな」と受け入れて、次のページへ進みます。 Meaning Audit という方法でこの数字を見ると、指摘はこうなります。 20社とは何か 母集団はどう定義されているか 対象期間はいつか 選定条件は何か こ…",
-   "first_seen": "2026-10-06T11:00:37+09:00"
-  },
-  {
-   "id": "2e5a534e724b",
-   "title": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - finance.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDd1S0xXV3o1YV9HTFVETHpnMHZad3lFSVktaXp3d25FMnU4emNBQlNvVTNaaFM5LUhETEp3VU51cER1SVRlUl93VU84eEdfeEk2SXlpUnBUeEpSbXdDeTRrNFNnYWpJbjFVa2dNemZTa1Fjb25qMEFVbEpZX1ZUR19zbkJGV25BWkpTbE9DQ0xCMHo5blR6bW9xemF3Vjg?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDd1S0xXV3o1YV9HTFVETHpnMHZad3lFSVktaXp3d25FMnU4emNBQlNvVTNaaFM5LUhETEp3VU51cER1SVRlUl93VU84eEdfeEk2SXlpUnBUeEpSbXdDeTRrNFNnYWpJbjFVa2dNemZTa1Fjb25qMEFVbEpZX1ZUR19zbkJGV25BWkpTbE9DQ0xCMHo5blR6bW9xemF3Vjg?oc=5",
-   "title_key": "metaandmicrosoftscalebackinternaluseofanthropicsclaudereportsaysfinanceyahoocom",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T03:58:42+09:00",
-   "date_estimated": false,
-   "summary": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says finance.yahoo.com",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "68c547b79ee7",
-   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-   "url_key": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
-   "title_key": "instinctbringsitsaiagenttogroupchatsevenforfriendswithoutanaccount",
-   "source": "TechCrunch AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T03:54:30+09:00",
-   "date_estimated": false,
-   "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio…",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "7d53e3c071eb",
-   "title": "Microsoft, Meta Reducing Internal Usage of Anthropic's Claude, The Information Reports - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeUpCVjdzSU5ualBOYS1hRlpRUzNfU2VSemthbUpyTElQeGhuLVFsdVZlb090ZW5mU05NZEhmbzlrbXFvdmczdjRwRTYxUFlpNnNFVWx0QS03bmNpVWdKNlNVUGFiUk52Ulpka1BTa1h0Z3paM3kyTVFhTlRYZWdzRjYteTk4VnU3amsxaWJCMTRpUGdENkM0M3dELUo4MXc3bGxSUTNGeGV3YjhHajNfTktrd3lIblFKaDVKTGhVMlRoYWtxd0xXMGVOckZMMEpITlNv?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeUpCVjdzSU5ualBOYS1hRlpRUzNfU2VSemthbUpyTElQeGhuLVFsdVZlb090ZW5mU05NZEhmbzlrbXFvdmczdjRwRTYxUFlpNnNFVWx0QS03bmNpVWdKNlNVUGFiUk52Ulpka1BTa1h0Z3paM3kyTVFhTlRYZWdzRjYteTk4VnU3amsxaWJCMTRpUGdENkM0M3dELUo4MXc3bGxSUTNGeGV3YjhHajNfTktrd3lIblFKaDVKTGhVMlRoYWtxd0xXMGVOckZMMEpITlNv?oc=5",
-   "title_key": "microsoftmetareducinginternalusageofanthropicsclaudetheinformationreportsmarketscreenercom",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T03:49:12+09:00",
-   "date_estimated": false,
-   "summary": "Microsoft, Meta Reducing Internal Usage of Anthropic's Claude, The Information Reports marketscreener.com",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "b58e3c178e29",
-   "title": "Metaが社内AIツールの推進に伴い、Claude Codeのユーザー数が半減－The I - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTllKX1lRRU9xQUd2akZSYXprb3QzVHpoT1Q5Nk1YWEZaSXVBSUMxbVl1V0ttcDU1NDRsUmJEVXFhWmZES0VJbUdHQ3ljWlZWc2h3dEZyQ1FSOGNBRUdCc1NQb0tld2VwTTJjaVpKelpSMVltQmNOMi1CNFdmWGNuWW04aVd4eF96SEluTHBIeEN6cVpqOVI0SFJTSjFyZ3lzaFppcnlFRlRQQQ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTllKX1lRRU9xQUd2akZSYXprb3QzVHpoT1Q5Nk1YWEZaSXVBSUMxbVl1V0ttcDU1NDRsUmJEVXFhWmZES0VJbUdHQ3ljWlZWc2h3dEZyQ1FSOGNBRUdCc1NQb0tld2VwTTJjaVpKelpSMVltQmNOMi1CNFdmWGNuWW04aVd4eF96SEluTHBIeEN6cVpqOVI0SFJTSjFyZ3lzaFppcnlFRlRQQQ?oc=5",
-   "title_key": "metaが社内aiツルの推進に伴いclaudecodeのユザ数が半減－theimoomoo",
-   "source": "Claude Code ニュース検索 (日本語)",
-   "category": "claude",
-   "published": "2026-10-06T03:39:14+09:00",
-   "date_estimated": false,
-   "summary": "Metaが社内AIツールの推進に伴い、Claude Codeのユーザー数が半減－The I Moomoo",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "db3e6ebef5bb",
-   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-   "url_key": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
-   "title_key": "tiktokrollsoutanaishoppingassistantandoneclickcheckout",
-   "source": "TechCrunch AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T03:29:00+09:00",
-   "date_estimated": false,
-   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "c6b80e8f3f32",
-   "title": "MetaとMicrosoftがAnthropicのClaude社内利用を縮小 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RTXMxVXUyZk1CU1BIb2dSTEN0U09ndWpsbk52Um9FSmFLcGtaLXBwbjNmQXlHUUJwRGxnN0k0eVFSUEdQNHpPU2NqZGpuaHZxVXpZUmo5R0dnUXVTaXFDNGxGRzNZbTJ3NmlwVVFHYUM?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RTXMxVXUyZk1CU1BIb2dSTEN0U09ndWpsbk52Um9FSmFLcGtaLXBwbjNmQXlHUUJwRGxnN0k0eVFSUEdQNHpPU2NqZGpuaHZxVXpZUmo5R0dnUXVTaXFDNGxGRzNZbTJ3NmlwVVFHYUM?oc=5",
-   "title_key": "metaとmicrosoftがanthropicのclaude社内利用を縮小執筆investingcomfx株式市場ファイナンス金融ニュス",
-   "source": "Claude ニュース検索 (日本語)",
-   "category": "claude",
-   "published": "2026-10-06T03:28:00+09:00",
-   "date_estimated": false,
-   "summary": "MetaとMicrosoftがAnthropicのClaude社内利用を縮小 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "b19e202fb091",
-   "title": "「AIエージェントが言うことを聞かない」を直す：CLAUDE.md / AGENTS.md に書くべきこと・書かないこと",
-   "url": "https://qiita.com/yuto_tanaka/items/3198dbab8775c759dcf8",
-   "url_key": "https://qiita.com/yuto_tanaka/items/3198dbab8775c759dcf8",
-   "title_key": "aiエジェントが言うことを聞かないを直す：claudemdagentsmdに書くべきこと書かないこと",
-   "source": "Qiita - ClaudeCode (使い方・工夫)",
-   "category": "claude",
-   "published": "2026-10-06T03:21:20+09:00",
-   "date_estimated": false,
-   "summary": "はじめに AIエージェントに「このプロジェクトの流儀」を毎回口頭で伝えていませんか。CLAUDE.md や AGENTS.md のようなルールファイルを置いても、「書いたのに守られない」「長くなって逆に迷走する」という声をよく見ます。 この記事では、ルールファイルを効かせ...",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "d2698eb83d03",
-   "title": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
-   "title_key": "anthropicbringsclaudeinferencetoindiaviaamazonbedrockvarindia",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T03:19:35+09:00",
-   "date_estimated": false,
-   "summary": "Anthropic brings Claude inference to India via Amazon Bedrock varindia",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "a73c0dfbf003",
-   "title": "Florida Woman Arrested Following Conversation With Claude That Allegedly Included 'Threats' - Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVCWGM2bGxVeWVfSXZzQWxDNUFLQUZFekMtRUkzbUxwZ0gzRDFmSjgtTUNHWDd0NmZpb052R0o3SWpKQ216V1BYcTF5OGFHaG15M0F2amYzRnYzX05GWVJGRTAxRkdFY2hueGNpWWRneXVYakpwQl9aYW4wdkt3WFd4QVJ4SjkzRnBXa3RISFdfLUIyd29nVVZoNEUzYWVKbTQtQTJ2NzVOSmlLUmxrdXJ4aW9PczIzdTQwUg?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVCWGM2bGxVeWVfSXZzQWxDNUFLQUZFekMtRUkzbUxwZ0gzRDFmSjgtTUNHWDd0NmZpb052R0o3SWpKQ216V1BYcTF5OGFHaG15M0F2amYzRnYzX05GWVJGRTAxRkdFY2hueGNpWWRneXVYakpwQl9aYW4wdkt3WFd4QVJ4SjkzRnBXa3RISFdfLUIyd29nVVZoNEUzYWVKbTQtQTJ2NzVOSmlLUmxrdXJ4aW9PczIzdTQwUg?oc=5",
-   "title_key": "floridawomanarrestedfollowingconversationwithclaudethatallegedlyincludedthreatsgizmodo",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T03:15:55+09:00",
-   "date_estimated": false,
-   "summary": "Florida Woman Arrested Following Conversation With Claude That Allegedly Included 'Threats' Gizmodo",
-   "first_seen": "2026-10-07T01:38:22+09:00"
-  },
-  {
-   "id": "10b49cec0874",
-   "title": "Meta and Microsoft Work to Wean Staff Off Anthropic’s Claude - The Information",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5",
-   "url_key": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5",
-   "title_key": "metaandmicrosoftworktoweanstaffoffanthropicsclaudetheinformation",
-   "source": "Anthropic ニュース検索 (英語)",
-   "category": "claude",
-   "published": "2026-10-06T03:14:00+09:00",
-   "date_estimated": false,
-   "summary": "Meta and Microsoft Work to Wean Staff Off Anthropic’s Claude The Information",
-   "first_seen": "2026-10-06T04:11:03+09:00"
-  },
-  {
-   "id": "81de859178d3",
-   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-   "url_key": "https://theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-   "title_key": "openaiisaddingtextwatermarkinginchatgptandcodex",
-   "source": "The Verge AI (英語)",
-   "category": "other",
-   "published": "2026-10-06T03:08:39+09:00",
-   "date_estimated": false,
-   "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approache…",
-   "first_seen": "2026-10-06T04:11:03+09:00"
   }
  ]
 }
